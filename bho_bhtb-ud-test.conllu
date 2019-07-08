@@ -1,4 +1,4 @@
-# newdoc id = bho_bhtb-ud-test.conllu									
+# newdoc id = bho_bhtb-ud-test.conllu	
 # sent_id = 1
 # text = लोकरंजन आ सांस्कृतिक गीत -
 1	लोकरंजन	लोकरंजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
@@ -49,7 +49,7 @@
 38	पाँच	पाँच	NUM	QT_QTC	NumType=Card	44	nummod	_	_
 39	बजे	बजे	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	49	obl	_	_
 40	से	से	ADP	PSP	AdpType=Post	44	case	_	_
-41	साढ़े	साढ़े	ADJ	JJ	NumType=Card	47	case	_	_
+41	साढ़े	साढ़े	NUM	QT_QTC	NumType=Card	47	compound	_	_
 42	आठ	आठ	NUM	QT_QTC	NumType=Card	48	nummod	_	SpacesAfter=\n
 43	बजे	बजे	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	49	obl	_	_
 44	ले	ले	ADP	PSP	Number=Sing|Person=3|Polite=Form	9	advcl	_	_
@@ -199,8 +199,8 @@
 
 # sent_id = 10
 # text = आईं आ सपरिवार आईं ।
-1	आईं	आ	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	4	advcl	_	_
-2	आ	आ	CCONJ	CC_CCD	_	1	aux	_	_
+1	आईं	आ	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	4	aux	_	_
+2	आ	आ	CCONJ	CC_CCD	_	1	advcl	_	_
 3	सपरिवार	सपरिवार	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
 4	आईं	आ	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	_
 5	।	।	PUNCT	RD_PUNC	_	4	punct	_	_
@@ -215,7 +215,7 @@
 6	चलवला	चलवला	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
 7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	_
 8	जरूरत	जरूरत	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
-9	:	:	PROPN	N_NNP	_	38	punct	_	_
+9	:	:	PUNCT	RD_PUNC	_	8	punct	_	_
 10	सदानन्द	सदानन्द	PROPN	N_NNP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
 11	शाही	शाही	PROPN	N_NNP	Case=Acc	14	compound	_	_
 12	विश्व	विश्व	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
@@ -265,7 +265,7 @@
 15	प्रधान	प्रधान	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	conj	_	_
 16	आ	आ	CCONJ	CC_CCD	_	21	advcl	_	_
 17	प्रो॰	प्रो॰	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	obl	_	_
-18	सदानन्द	सदानंद	PROPN	N_NNP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	17	case	_	_
+18	सदानन्द	सदानंद	PROPN	N_NNP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
 19	शाही	शाही	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	21	nsubj	_	_
 20	का	के	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	19	case	_	_
 21	हाथै	हाथै	NOUN	N_NN	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -386,7 +386,7 @@
 93	।	।	PUNCT	RD_PUNC	_	25	punct	_	_
 
 # sent_id = 14
-# text = मुख्य अतिथि प्रो॰ सदानंद शाही आ अध्यक्ष प्रो॰ अवधेश प्रधान ‘पाती ’ के प्रेम कथा विशेषांक के संदर्भ में विस्तार से चरचा करत कहनी कि २४ गो कहानीकारन के बहुरंगी कहानियन के एह बिटोर में भोजपुरी के सगरी विविधता अपना सांस्कृतिक चेतना का साथे सामने आइल बा ।	
+# text = मुख्य अतिथि प्रो॰ सदानंद शाही आ अध्यक्ष प्रो॰ अवधेश प्रधान ‘पाती ’ के प्रेम कथा विशेषांक के संदर्भ में विस्तार से चरचा करत कहनी कि २४ गो कहानीकारन के बहुरंगी कहानियन के एह बिटोर में भोजपुरी के सगरी विविधता अपना सांस्कृतिक चेतना का साथे सामने आइल बा ।
 1	मुख्य	मुख्य	ADJ	JJ	Case=Nom	2	amod	_	_
 2	अतिथि	अतिथि	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nmod	_	_
 3	प्रो॰	प्रो॰	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	_	_
@@ -882,7 +882,6 @@
 54	बा	बा	VERB	V_VM	Gender=Masc|Number=Plur|Person=3|Voice=Act	0	root	_	_
 55	।	।	PUNCT	RD_PUNC	_	54	punct	_	SpacesAfter=\n
 
-
 # sent_id = 30
 # text = कार्यक्रम साँझ चार बजे से शुरु होखी जवना में इन्टरनेट पर भोजपुरी का दखल विषय पर एगो परिचर्चा से शुरुआत होखी जवना में देश विदेश से आइल भोजपुरिया आपन विचार रखीहें ।
 1	कार्यक्रम	कार्यक्रम	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	31	nsubj	_	_
@@ -987,7 +986,7 @@
 40	।	।	PUNCT	RD_PUNC	_	13	punct	_	_
 
 # sent_id = 33
-# text = छठवां विश्व भोजपुरी सम्मलेन , २०१२ हमार सम्मानित भोजपुरिया भाई आ बहिन सभे जय भोजपुरी आ प्रणाम , रउवा ई जान के ख़ुशी होई कि हर साल के तरेह एहू साल पूर्वांचल एकता मंच ( रजि )।
+# text = छठवां विश्व भोजपुरी सम्मलेन , २०१२ हमार सम्मानित भोजपुरिया भाई आ बहिन सभे जय भोजपुरी आ प्रणाम , रउवा ई जान के ख़ुशी होई कि हर साल के तरेह एहू साल पूर्वांचल एकता मंच ।
 1	छठवां	छठवां	NUM	QT_QTO	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
 2	विश्व	विश्व	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
 3	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	compound	_	_
@@ -1018,14 +1017,11 @@
 28	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	27	case	_	_
 29	तरेह	तरेह	NOUN	N_NN	NumType=Card	31	nummod	_	_
 30	एहू	एहू	VERB	V_VM	Case=Nom	31	amod	_	_
-31	साल	साल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	32	obl	_	SpacesAfter=\n
+31	साल	साल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	34	obl	_	SpacesAfter=\n
 32	पूर्वांचल	पूर्वांचल	PROPN	N_NNP	_	34	advcl	_	_
 33	एकता	एकता	NOUN	N_NN	Aspect=Imp|Gender=Masc|Number=Sing|VerbForm=Part	32	aux	_	_
-34	मंच	मंच	NOUN	N_NN	Number=Sing|Person=3|Voice=Act	36	advcl	_	_
-35	(	(	PUNCT	RD_PUNC	_	36	punct	_	_
-36	रजि	रजि	NOUN	N_NNP	_	24	mark	_	_
-37	)	)	PUNCT	RD_PUNC	_	36	punct	_	_
-38	।	।	PUNCT	RD_PUNC	_	36	punct	_	_
+34	मंच	मंच	NOUN	N_NN	Number=Sing|Person=3|Voice=Act	16	advcl	_	_
+35	।	।	PUNCT	RD_PUNC	_	16	punct	_	_
 
 # sent_id = 34
 # text = दिल्ली 24 - 25 मार्च 2012 ( दिन सनीचर आ एतवार ) के ‘ छठवां विश्व भोजपुरी सम्मलेन , २०१२ ’ के आयोजन कर रहल बा ।
@@ -2060,7 +2056,7 @@
 6	।	।	PUNCT	RD_PUNC	_	4	punct	_	_
 
 # sent_id = 85
-# text = हार्ड न्यूज , ब्रेंकिंग न्यूज ।							
+# text = हार्ड न्यूज , ब्रेंकिंग न्यूज ।	
 1	हार्ड	हार्ड	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	_
 2	न्यूज	न्यूज	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	0	root	_	_
 3	,	COMMA	PUNCT	RD_PUNC	_	5	punct	_	_
@@ -2068,7 +2064,7 @@
 5	न्यूज	न्यूज	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	conj	_	_
 6	।	।	PUNCT	RD_PUNC	_	2	punct	_	_
 
-# sent_id = 86								
+# sent_id = 86
 # text = आईं पूरा धीरज आ संयम सें प्रियंका चोपड़ा के बिआह होखे तकले इंतजार कइल जाव ।
 1	आईं	आ	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	3	acl	_	_
 2	पूरा	पूरा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	3	amod	_	SpacesAfter=\n
@@ -2129,7 +2125,7 @@
 15	सोच	सोच	NOUN	N_NN	Number=Sing|Person=3|Voice=Act	0	root	_	_
 16	सके	सक	AUX	V_VAUX	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	15	aux	_	_
 17	।	।	PUNCT	RD_PUNC	_	15	punct	_	_
-									
+
 # sent_id = 90
 # text = बाकिर पप्पू के दुर्भाग्य कि ऊ इटालियन महतारी का पेट से बाकिर हिन्दुस्तान में जनमल ।
 1	बाकिर	बाकिर	CCONJ	CC_CCD	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	_
