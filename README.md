@@ -16,7 +16,7 @@
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.3
+Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: nonfiction news
@@ -25,7 +25,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Ojha, Atul Kr.
+Contributors: Ojha, Atul Kumar
 Contributing: elsewhere
 Contact: shashwatup9k@gmail.com
 ===============================================================================
