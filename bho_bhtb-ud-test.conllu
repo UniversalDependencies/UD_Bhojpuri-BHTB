@@ -1282,9 +1282,9 @@
 8	भोजन	भोजन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nmod	_	_
 9	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	8	case	_	SpacesAfter=\n
 10	प्रबंध	प्रबंध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
-11	कईल	कईल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
-12	गइल	गइल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
-13	बा	बा	VERB	V_VM	Case=Nom|Number=Sing|Person=3	6	conj	_	_
+11	कईल	कईल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	conj	_	_
+12	गइल	गइल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	aux	_	_
+13	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	11	aux	_	_
 14	।	।	PUNCT	RD_PUNC	_	6	punct	_	_
 
 # sent_id = 43
@@ -1325,20 +1325,20 @@
 4	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	case	_	_
 5	भासा	भासा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
 6	उधार	उधार	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obj	_	_
-7	ले	ले	ADP	PSP	Number=Sing|Person=3|Polite=Form	13	acl	_	_
-8	लीं	लाँ	AUX	V_AUX	_	7	aux	_	SpacesAfter=\n
+7	ले	ले	VERB	V_VM	_	11	acl	_	_
+8	लीं	लाँ	AUX	V_AUX	_	7	aux	_	_
 9	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
 10	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	compound	_	_
-11	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
-12	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
-13	सकेला	सकेला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+11	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+12	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	aux	_	_
+13	सकेला	सकेला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	aux	_	_
 14	कि	कि	SCONJ	CC_CCS	_	19	mark	_	_
 15	पूरा	पूरा	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	16	amod	_	_
 16	मुल्के	मुल्का	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	19	nmod	_	_
 17	में	में	ADP	PSP	AdpType=Post	16	case	_	_
 18	सनसनी	सनसनी	NOUN	N_NN	Case=Nom	19	amod	_	_
-19	बा	बा	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
-20	।	।	PUNCT	RD_PUNC	_	13	punct	_	_
+19	बा	बा	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	ccomp	_	_
+20	।	।	PUNCT	RD_PUNC	_	11	punct	_	_
 
 # sent_id = 46
 # text = मुल्के काहे पूरा दुनिया में सनसनी बा ।
@@ -1419,11 +1419,11 @@
 6	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
 7	कानून	कानून	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
 8	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	_	_
-9	नइखे	नइखा	PART	RP_NEG	Case=Acc|Gender=Masc|Number=Sing	11	amod	_	_
-10	लाँघल	लाँघल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
-11	जात	जात	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	compound	_	_
-12	एहमें	एहम	PRON	PR_PRP	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	0	root	_	_
-13	।	।	PUNCT	RD_PUNC	_	12	punct	_	_
+9	नइखे	नइखा	PART	RP_NEG	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	_
+10	लाँघल	लाँघल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+11	जात	जात	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	aux	_	_
+12	एहमें	एहम	DET	DM_DMD	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	10	det	_	_
+13	।	।	PUNCT	RD_PUNC	_	10	punct	_	_
 
 # sent_id = 50
 # text = तोहरा केरल में 120 बरीस में आइल अइसन बड़हन बाढ़ नइखे लउकत ?
@@ -1766,29 +1766,29 @@
 8	कपार	कपार	NOUN	N_NN	Case=Nom	9	amod	_	_
 9	खपावत	खपावत	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	obj	_	_
 10	बाड़ें	बाड़	AUX	V_VAUX	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
-11	कि	कि	SCONJ	CC_CCS	_	32	mark	_	_
+11	कि	कि	SCONJ	CC_CCS	_	31	mark	_	_
 12	प्रियंका	प्रियंका	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	nmod	_	_
 13	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	12	case	_	_
-14	रोका	रोक	VERB	V_VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	32	nmod	_	_
+14	रोका	रोक	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	16	nmod	_	_
 15	में	में	ADP	PSP	AdpType=Post	14	case	_	_
 16	रसगुल्ला	रसगुल्ला	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	18	compound	_	SpacesAfter=\n
 17	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	18	compound	_	_
-18	दोकान	दोकान	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	32	nmod	_	_
+18	दोकान	दोकान	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	31	nmod	_	_
 19	से	से	ADP	PSP	AdpType=Post	18	case	_	_
-20	आइल	आइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	23	compound	_	_
-21	रहुवे	रहुवे	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	compound	_	_
+20	आइल	आइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	xcomp	_	_
+21	रहुवे	रहुवे	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	aux	_	_
 22	ओह	ओह	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	compound	_	_
 23	दोकान	दोकान	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	26	nmod	_	_
 24	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	23	case	_	_
 25	कर्मचारी	कर्मचारी	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	26	compound	_	_
-26	झप्पूलाल	झप्पूलाल	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	32	nmod	_	_
+26	झप्पूलाल	झप्पूलाल	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	31	nmod	_	_
 27	से	से	ADP	PSP	AdpType=Post	26	case	_	_
-28	इन्टरव्यू	इन्टरव्यू	NOUN	N_NN	Case=Nom	32	compound	_	_
-29	कइसे	कयह	PRON	PR_PRQ	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	32	nmod	_	_
-30	हासिल	हासिल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	32	compound	_	SpacesAfter=\n
-31	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	32	compound	_	_
-32	जाव	जाव	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	10	nmod	_	_
-33	?	?	PUNCT	RD_PUNC	_	32	punct	_	_
+28	इन्टरव्यू	इन्टरव्यू	NOUN	N_NN	Case=Nom	31	nmod	_	_
+29	कइसे	कयह	PRON	PR_PRQ	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	31	nmod	_	_
+30	हासिल	हासिल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	31	compound	_	SpacesAfter=\n
+31	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	ccomp	_	_
+32	जाव	जाव	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	31	aux	_	_
+33	?	?	PUNCT	RD_PUNC	_	10	punct	_	_
 
 # sent_id = 72
 # text = अरे दोकान के कर्मचारी से काहे , सीधे ओकरा मालिके के इन्टरव्यू काहे ना ले लिआव ?
@@ -2113,7 +2113,7 @@
 5	-	-	PUNCT	RD_PUNCT	_	4	punct	_	_
 6	कहे	कहा	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	nmod	_	_
 7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	_
-8	पड़ेला	पड़ेला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	compound	_	_
+8	पड़ेला	पड़ेला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	_
 9	जे	जे	PRON	PR_PRL	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	compound	_	_
 10	दोसर	दोसर	NUM	QT_QTO	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	compound	_	_
 11	केहू	केहू	PRON	PR_PRI	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	compound	_	_
@@ -2160,7 +2160,7 @@
 13	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	12	case	_	_
 14	नागरिक	नागरिक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	nmod	_	_
 15	बनल	बनल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-16	रह	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	compound	_	_
+16	रह	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	aux	_	_
 17	गइल	गइल	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	aux	_	_
 18	रही	रह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	15	aux	_	_
 19	।	।	PUNCT	RD_PUNC	_	15	punct	_	_
@@ -2321,7 +2321,7 @@
 15	जमानत	जमानत	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	nsubj	_	_
 16	रद	रद	NOUN	N_NN	_	17	compound	_	_
 17	हो	हो	VERB	V_VM	Voice=Act	12	acl	_	_
-18	जाई	जा	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	compound	_	_
+18	जाई	जा	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	aux	_	_
 19	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Plur|Person=3	21	nsubj	_	_
 20	ना	ना	PART	RP_NEG	_	21	compound	_	_
 21	जा	जा	AUX	V_VAUX	Number=Sing|Person=3|Voice=Act	17	acl	_	_
