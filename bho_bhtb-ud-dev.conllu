@@ -1,67 +1,80 @@
 # newdoc
 # newpar
 # sent_id = 1
-# text = के कहल कि चमक-चमक के, झमक-झमक के, उचकि-उचकि के लपकि-लपकि के, देहि भाँजत गेना नियर उछलत चउए पर चलऽ जा।
+# text = के कहल कि चमक - चमक के , झमक-झमक के , उचकि - उचकि के लपकि-लपकि के , देहि भाँजत गेना नियर उछलत चउए पर चलऽ जा।
 1	के	के	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	2	compound	_	_
-2	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	nsubj	_	_
-3	कि	कि	SCONJ	CC_CCS	_	17	mark	_	_
-4	चमक-चमक	चमक-चमक	NOUN	N_NN	_	17	obj	_	_
-5	के,	केCOMMA	PUNCT	RD_PUNC	_	17	punct	_	_
-6	झमक-झमक	झमक-झमक	NOUN	N_NN	_	17	compound	_	_
-7	के,	केCOMMA	PUNCT	RD_PUNC	_	17	punct	_	_
-8	उचकि-उचकि	उचकि-उचकि	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	17	nmod	_	_
-9	के	को	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	8	case	_	_
-10	लपकि-लपकि	लपकि-लपकि	SCONJ	CC_CCS	_	17	conj	_	_
-11	के,	केCOMMA	PUNCT	RD_PUNC	_	17	punct	_	_
-12	देहि	देहि	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
-13	भाँजत	भाँजत	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
-14	गेना	गेना	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	17	nmod	_	_
-15	नियर	नियर	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
-16	उछलत	उछलत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
-17	चउए	चउया	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
-18	पर	पर	ADP	PSP	AdpType=Post	17	case	_	_
-19	चलऽ	चलऽ	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	compound	_	_
-20	जा।	जा।	PUNCT	RD_PUNC	_	17	punct	_	SpacesAfter=\n
+2	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	nsubj	_	_
+3	कि	कि	SCONJ	CC_CCS	_	24	mark	_	_
+4	चमक	चमक	NOUN	N_NN	_	6	compound	_	_
+5	-	-	PUNCT	RD_SYM	_	6	punct	_	_
+6	चमक	चमक	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	nmod	_	_
+7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	_
+8	,	COMMA	PUNCT	RD_PUNC	_	9	punct	_	_
+9	झमक-झमक	झमक-झमक	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	nmod	_	_
+10	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	9	case	_	_
+11	,	COMMA	PUNCT	RD_PUNC	_	9	punct	_	_
+12	उचकि	उचकि	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
+13	-	-	PUNCT	RD_PUNC	_	14	punct	_	_
+14	उचकि	उचकि	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	16	nmod	_	_
+15	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	14	case	_	_
+16	लपकि-लपकि	लपकि-लपकि	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	24	nmod	_	_
+17	के	को	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	16	case	_	_
+18	,	COMMA	PUNCT	RD_PUNC	_	20	punct	_	_
+19	देहि	देहि	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	compound	_	_
+20	भाँजत	भाँजत	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	compound	_	_
+21	गेना	गेना	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	24	nmod	_	_
+22	नियर	नियर	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	compound	_	_
+23	उछलत	उछलत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	compound	_	_
+24	चउए	चउया	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
+25	पर	पर	ADP	PSP	AdpType=Post	24	case	_	_
+26	चलऽ	चलऽ	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	compound	_	_
+27	जा।	जा।	PUNCT	RD_PUNC	_	24	punct	_	SpacesAfter=\n
 
 # sent_id = 2
-# text = राहे-राहे रासलीला, खेते-खेते वृंदावन…… ई फागुन के महीना, ई खेत, ई खरिहान, ई कटिया, ई धूप, ई बसंती चोली, ई गुलाबी चुनरी, मस्त चाल…… अजी, धनिया से के कहल कि अब चुनरी रँगा ल।
-1	राहे-राहे	राहे-राह	PRON	PR_PRQ	_	32	compound	_	_
-2	रासलीला,	रासलीलाCOMMA	PUNCT	RD_PUNC	_	32	punct	_	_
+# text = राहे-राहे रासलीला, खेते-खेते वृंदावन…… ई फागुन के महीना , ई खेत , ई खरिहान , ई कटिया, ई धूप , ई बसंती चोली , ई गुलाबी चुनरी , मस्त चाल …… अजी , धनिया से के कहल कि अब चुनरी रँगा ल।
+1	राहे-राहे	राहे-राह	PRON	PR_PRQ	_	38	acl	_	_
+2	रासलीला,	रासलीलाCOMMA	PUNCT	RD_PUNC	_	38	punct	_	_
 3	खेते-खेते	खेते-खेते	ADP	PSP	AdpType=Post	2	case	_	_
-4	वृंदावन	वृंदावन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	32	obl	_	SpaceAfter=No
-5	……	……	PUNCT	RD_PUNC	_	32	punct	_	_
+4	वृंदावन	वृंदावन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	38	nmod	_	SpaceAfter=No
+5	……	……	PUNCT	RD_PUNC	_	38	punct	_	_
 6	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	compound	_	_
-7	फागुन	फागुन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	32	nmod	_	_
+7	फागुन	फागुन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	nmod	_	_
 8	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	7	case	_	_
-9	महीना,	महीनाCOMMA	PUNCT	RD_PUNC	_	32	compound	_	_
-10	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	32	compound	_	_
-11	खेत,	खेतCOMMA	PUNCT	RD_PUNC	_	32	punct	_	_
-12	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	32	compound	_	_
-13	खरिहान,	खरिहानCOMMA	PUNCT	RD_PUNC	_	32	punct	_	_
-14	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	32	compound	_	_
-15	कटिया,	कटियाCOMMA	PUNCT	RD_PUNC	_	32	punct	_	_
-16	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	27	compound	_	_
-17	धूप,	धूपCOMMA	PUNCT	RD_PUNC	_	27	punct	_	_
-18	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	20	compound	_	_
-19	बसंती	बसंती	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	20	compound	_	_
-20	चोली	चोली	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	23	compound	_	SpaceAfter=No
+9	महीना	महीना	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	38	obl	_	_
+10	,	COMMA	PUNCT	RD_PUNC	_	38	punct	_	_
+11	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	_
+12	खेत	खेत	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	38	nmod	_	_
+13	,	COMMA	PUNCT	RD_PUNC	_	15	punct	_	_
+14	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	compound	_	_
+15	खरिहान	खरिहान	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	38	nmod	_	_
+16	,	COMMA	PUNCT	RD_PUNC	_	15	punct	_	_
+17	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	38	compound	_	_
+18	कटिया,	कटियाCOMMA	PUNCT	RD_PUNC	_	38	punct	_	_
+19	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	20	compound	_	_
+20	धूप	धूप	ADJ	JJ	_	38	amod	_	_
 21	,	COMMA	PUNCT	RD_PUNC	_	20	punct	_	_
-22	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	23	compound	_	_
-23	गुलाबी	गुलाबी	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	27	nmod	_	_
-24	चुनरी,	चुनरीCOMMA	PUNCT	RD_PUNC	_	27	punct	_	_
-25	मस्त	मस्त	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	compound	_	_
-26	चाल……	चाल……	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	compound	_	_
-27	अजी	अजी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	32	nmod	_	SpaceAfter=No
-28	,	COMMA	PUNCT	RD_PUNC	_	29	punct	_	_
-29	धनिया	धनिया	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	32	nmod	_	_
-30	से	से	ADP	PSP	AdpType=Post	29	case	_	_
-31	के	को	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	32	compound	_	_
-32	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-33	कि	कि	SCONJ	CC_CCS	_	37	mark	_	_
-34	अब	अब	NOUN	N_NST	Case=Nom|PronType=Prs	36	nmod	_	_
-35	चुनरी	चुनरी	ADJ	JJ	Case=Nom	36	amod	_	_
-36	रँगा	रँगा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	37	obj	_	_
-37	ल।	ल।	PUNCT	RD_PUNC	_	32	punct	_	SpacesAfter=\n
+22	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	24	compound	_	_
+23	बसंती	बसंती	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	24	compound	_	_
+24	चोली	चोली	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	28	compound	_	_
+25	,	COMMA	PUNCT	RD_PUNC	_	24	punct	_	_
+26	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	28	compound	_	_
+27	गुलाबी	गुलाबी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	28	compound	_	_
+28	चुनरी	चुनरी	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	38	nmod	_	_
+29	,	COMMA	PUNCT	RD_PUNC	_	33	punct	_	_
+30	मस्त	मस्त	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	33	compound	_	_
+31	चाल	चाल	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	33	compound	_	_
+32	……	……	PUNCT	RD_PUNC	_	33	punct	_	_
+33	अजी	अजी	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	28	conj	_	_
+34	,	COMMA	PUNCT	RD_PUNC	_	35	punct	_	_
+35	धनिया	धनिया	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	38	nmod	_	_
+36	से	से	ADP	PSP	AdpType=Post	35	case	_	_
+37	के	को	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	35	case	_	_
+38	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+39	कि	कि	SCONJ	CC_CCS	_	43	mark	_	_
+40	अब	अब	NOUN	N_NST	Case=Nom|PronType=Prs	42	nmod	_	_
+41	चुनरी	चुनरी	ADJ	JJ	Case=Nom	42	amod	_	_
+42	रँगा	रँगा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	43	obj	_	_
+43	ल।	ल।	PUNCT	RD_PUNC	_	38	punct	_	SpacesAfter=\n
 
 # sent_id = 3
 # text = तबे नू एह आ अइसन कलम के जादूगरी पर चकित होत डॉ।
@@ -79,7 +92,7 @@
 12	डॉ।	डॉ।	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
 
 # sent_id = 4
-# text = रामप्रवेश शास्त्री के लिखे के पड़ल – विवेकी राय जी के चुनरी के रंग, बिनावट, कारीगरी के जवन भी संज्ञा अच्छा लागे, दिहला में कवनो हरज ना बा, लेकिन अइसन कला के पटतर दिहल कठिन होला।
+# text = रामप्रवेश शास्त्री के लिखे के पड़ल – विवेकी राय जी के चुनरी के रंग , बिनावट , कारीगरी के जवन भी संज्ञा अच्छा लागे , दिहला में कवनो हरज ना बा , लेकिन अइसन कला के पटतर दिहल कठिन होला।
 1	रामप्रवेश	रामप्रवेश	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	_
 2	शास्त्री	शास्त्री	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
 3	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	2	case	_	_
@@ -91,112 +104,123 @@
 9	राय	राय	ADJ	JJ	Case=Nom	10	amod	_	_
 10	जी	जी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	nmod	_	_
 11	के	को	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	10	case	_	_
-12	चुनरी	चुनरी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	35	nmod	_	_
+12	चुनरी	चुनरी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	nmod	_	_
 13	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	12	case	_	_
-14	रंग,	रंगCOMMA	PUNCT	RD_PUNC	_	35	punct	_	_
-15	बिनावट,	बिनावटCOMMA	PUNCT	RD_PUNC	_	35	punct	_	_
-16	कारीगरी	कारीगरी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	21	nmod	_	_
-17	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	16	case	_	_
-18	जवन	जवन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	compound	_	_
-19	भी	भी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	compound	_	_
-20	संज्ञा	संज्ञा	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	compound	_	_
-21	अच्छा	अच्छा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	35	nmod	_	_
-22	लागे,	लागेCOMMA	PUNCT	RD_PUNC	_	35	punct	_	_
-23	दिहला	दिहल	VERB	V_VM	Aspect=Perf|Gender=Masc|VerbForm=Part	35	nmod	_	_
-24	में	में	ADP	PSP	AdpType=Post	23	case	_	_
-25	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	26	compound	_	_
-26	हरज	हरज	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	35	compound	_	_
-27	ना	ना	PART	RP_NEG	_	35	compound	_	_
-28	बा,	बाCOMMA	PUNCT	RD_PUNC	_	35	punct	_	_
-29	लेकिन	लेकिन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	31	compound	_	_
-30	अइसन	अइसन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	31	compound	_	_
-31	कला	कला	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	33	nmod	_	_
-32	के	को	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	31	case	_	_
-33	पटतर	पटतर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	35	compound	_	_
-34	दिहल	दिहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	35	compound	_	_
-35	कठिन	कठिन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	36	compound	_	_
-36	होला।	होला।	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n\s
+14	रंग	रंग	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	39	nmod	_	_
+15	,	COMMA	PUNCT	RD_PUNC	_	16	punct	_	_
+16	बिनावट	बिनावट	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	conj	_	_
+17	,	COMMA	PUNCT	RD_PUNC	_	24	punct	_	_
+18	कारीगरी	कारीगरी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	24	nmod	_	_
+19	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	18	case	_	_
+20	जवन	जवन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	compound	_	_
+21	भी	भी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	24	compound	_	_
+22	संज्ञा	संज्ञा	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	24	compound	_	_
+23	अच्छा	अच्छा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	compound	_	_
+24	लागे	लागा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	14	conj	_	_
+25	,	,	PUNCT	RD_PUNC	_	26	punct	_	_
+26	दिहला	दिहल	VERB	V_VM	Aspect=Perf|Gender=Masc|VerbForm=Part	39	nmod	_	_
+27	में	में	ADP	PSP	AdpType=Post	26	case	_	_
+28	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	compound	_	_
+29	हरज	हरज	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	30	compound	_	_
+30	ना	ना	VERB	V_VM	_	39	nmod	_	_
+31	बा	बा	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	30	aux	_	_
+32	,	COMMA	PUNCT	RD_PUNC	_	30	punct	_	_
+33	लेकिन	लेकिन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	39	compound	_	_
+34	अइसन	अइसन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	35	compound	_	_
+35	कला	कला	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	37	nmod	_	_
+36	के	को	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	35	case	_	_
+37	पटतर	पटतर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	39	compound	_	_
+38	दिहल	दिहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	39	compound	_	_
+39	कठिन	कठिन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	40	compound	_	_
+40	होला।	होला।	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n\s
 
 # sent_id = 5
-# text = जवन नित नया बा, ओके पुरान बटखरा से वजन कइले अतने लाभ हो सकेला कि पता चलि जाई कि हमरा जानकारी के कसौटी में कतना पर ई अधिका उतरल बा।
-1	जवन	जवन	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
-2	नित	नित	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
-3	नया	नया	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	nsubj	_	_
-4	बा,	बाCOMMA	PUNCT	RD_PUNC	_	13	compound	_	_
-5	ओके	ओको	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	13	obl	_	_
-6	पुरान	पुरान	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	_
-7	बटखरा	बटखरा	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	obl	_	_
-8	से	से	ADP	PSP	AdpType=Post	7	case	_	_
-9	वजन	वजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
-10	कइले	कइल	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part	13	obl	_	_
-11	अतने	अतने	ADP	PSP	AdpType=Post	10	case	_	_
-12	लाभ	लाभ	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	obl	_	_
-13	हो	हो	VERB	V_VM	Voice=Act	0	root	_	_
-14	सकेला	सकेला	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	13	aux	_	_
-15	कि	कि	SCONJ	CC_CCS	_	17	mark	_	_
-16	पता	पता	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	compound	_	_
-17	चलि	चलि	VERB	V_VM	_	13	ccomp	_	_
-18	जाई	जा	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	17	aux	_	_
-19	कि	कि	SCONJ	CC_CCS	_	30	mark	_	_
-20	हमरा	हमर	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	compound	_	_
-21	जानकारी	जानकारी	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	23	nmod	_	_
-22	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	21	case	_	_
-23	कसौटी	कसौटी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	30	obl	_	_
-24	में	में	ADP	PSP	AdpType=Post	23	case	_	_
-25	कतना	कतना	DET	DM_DMQ	Gender=Masc|Number=Sing|PronType=Ind	29	compound	_	_
-26	पर	पर	ADP	PSP	AdpType=Post	25	case	_	_
-27	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	29	compound	_	_
-28	अधिका	अधिका	DET	QT_QTF	Case=Nom|Gender=Fem|Number=Sing|Person=3	29	compound	_	_
-29	उतरल	उतरल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	nsubj	_	_
-30	बा।	बा।	PUNCT	RD_PUNC	_	17	punct	_	SpacesAfter=\n
+# text = जवन नित नया बा , ओके पुरान बटखरा से वजन कइले अतने लाभ हो सकेला कि पता चलि जाई कि हमरा जानकारी के कसौटी में कतना पर ई अधिका उतरल बा।
+1	जवन	जवन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	_
+2	नित	नित	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
+3	नया	नया	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
+4	बा	बा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	nsubj	_	_
+5	,	COMMA	PUNCT	RD_PUNC	_	4	punct	_	_
+6	ओके	ओको	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	14	obl	_	_
+7	पुरान	पुरान	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
+8	बटखरा	बटखरा	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	obl	_	_
+9	से	से	ADP	PSP	AdpType=Post	8	case	_	_
+10	वजन	वजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
+11	कइले	कइल	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part	14	obl	_	_
+12	अतने	अतने	ADP	PSP	AdpType=Post	11	case	_	_
+13	लाभ	लाभ	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obl	_	_
+14	हो	हो	VERB	V_VM	Voice=Act	0	root	_	_
+15	सकेला	सकेला	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	14	aux	_	_
+16	कि	कि	SCONJ	CC_CCS	_	18	mark	_	_
+17	पता	पता	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	18	compound	_	_
+18	चलि	चलि	VERB	V_VM	_	14	ccomp	_	_
+19	जाई	जा	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	18	aux	_	_
+20	कि	कि	SCONJ	CC_CCS	_	31	mark	_	_
+21	हमरा	हमर	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	22	compound	_	_
+22	जानकारी	जानकारी	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	24	nmod	_	_
+23	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	22	case	_	_
+24	कसौटी	कसौटी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	31	obl	_	_
+25	में	में	ADP	PSP	AdpType=Post	24	case	_	_
+26	कतना	कतना	DET	DM_DMQ	Gender=Masc|Number=Sing|PronType=Ind	30	compound	_	_
+27	पर	पर	ADP	PSP	AdpType=Post	26	case	_	_
+28	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	30	compound	_	_
+29	अधिका	अधिका	DET	QT_QTF	Case=Nom|Gender=Fem|Number=Sing|Person=3	30	compound	_	_
+30	उतरल	उतरल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	31	nsubj	_	_
+31	बा।	बा।	PUNCT	RD_PUNC	_	18	punct	_	SpacesAfter=\n
 
 # sent_id = 6
-# text = “अनिल कुमार आंजनेय एह कृति के भोजपुरी अंचल के दरपन बतावत कहले रहलीं- ”के कहल चुनरी रँगा ल’ भोजपुरी अंचल के दर्पण ह।
-1	“अनिल	“अनिल	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
-2	कुमार	कुमार	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
-3	आंजनेय	आंजनेय	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	5	compound	_	_
-4	एह	एह	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	_
-5	कृति	कृती	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
-6	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	5	case	_	_
-7	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	_
-8	अंचल	अंचल	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	nmod	_	_
-9	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	8	case	_	_
-10	दरपन	दरपन	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	compound	_	_
-11	बतावत	बतावत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	compound	_	_
-12	कहले	कहला	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	15	acl	_	_
-13	रहलीं-	रहलीं-	PUNCT	RD_PUNC	_	12	punct	_	_
-14	”के	”को	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	15	compound	_	_
-15	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-16	चुनरी	चुनरी	ADJ	JJ	Case=Nom	17	amod	_	_
-17	रँगा	रँगा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	nsubj	_	_
-18	ल’	ल’	PUNCT	RD_SYM	_	22	punct	_	_
-19	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	20	compound	_	_
-20	अंचल	अंचल	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	22	nmod	_	_
-21	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	20	case	_	_
-22	दर्पण	दर्पण	ADJ	JJ	_	23	compound	_	_
-23	ह।	ह।	PUNCT	RD_PUNC	_	15	punct	_	SpacesAfter=\n\s
+# text = “ अनिल कुमार आंजनेय एह कृति के भोजपुरी अंचल के दरपन बतावत कहले रहलीं - ” के कहल चुनरी रँगा ल ’ भोजपुरी अंचल के दर्पण ह।
+1	“	“	PUNCT	RD_PUNC	_	4	punct	_	_
+2	अनिल	अनिल	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
+3	कुमार	कुमार	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
+4	आंजनेय	आंजनेय	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	13	nsubj	_	_
+5	एह	एह	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	_
+6	कृति	कृती	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	nmod	_	_
+7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	_
+8	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	_
+9	अंचल	अंचल	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
+10	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	9	case	_	_
+11	दरपन	दरपन	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Plur|Person=3	13	compound	_	_
+12	बतावत	बतावत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
+13	कहले	कहला	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	18	nmod	_	_
+14	रहलीं	रहल	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	13	aux	_	_
+15	-	-	PUNCT	RD_SYM	_	13	punct	_	_
+16	”	”	PUNCT	RD_PUNC	_	13	punct	_	_
+17	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	13	case	_	_
+18	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	nsubj	_	_
+19	चुनरी	चुनरी	ADJ	JJ	Case=Nom	21	amod	_	_
+20	रँगा	रँगा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	compound	_	_
+21	ल	ल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+22	’	’	PUNCT	RD_SYM	_	21	punct	_	_
+23	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	24	compound	_	_
+24	अंचल	अंचल	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	26	nmod	_	_
+25	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	24	case	_	_
+26	दर्पण	दर्पण	ADJ	JJ	_	27	compound	_	_
+27	ह।	ह।	PUNCT	RD_PUNC	_	21	punct	_	SpacesAfter=\n\s
 
 # sent_id = 7
-# text = जेके भोजपुरी जिनिगी में, अंचल में गहराई तक पइठे के बा, ओके ई समीक्ष्य पुस्तक पढ़ल बहुते आवश्यक बा।
+# text = जेके भोजपुरी जिनिगी में , अंचल में गहराई तक पइठे के बा , ओके ई समीक्ष्य पुस्तक पढ़ल बहुते आवश्यक बा।
 1	जेके	जेके	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
 2	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	compound	_	_
-3	जिनिगी	जिनिगी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	18	nsubj	_	_
-4	में,	मेंCOMMA	PUNCT	RD_PUNC	_	18	punct	_	_
-5	अंचल	अंचल	PROPN	N_NNP	_	18	obl	_	_
-6	में	में	ADP	PSP	AdpType=Post	5	case	_	_
-7	गहराई	गहराया	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing	8	nmod	_	_
-8	तक	तक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	17	nmod	_	_
-9	पइठे	पइठा	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	8	case	_	_
-10	के	कर	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	8	case	_	_
-11	बा,	बाCOMMA	PUNCT	RD_PUNC	_	17	punct	_	_
-12	ओके	ओको	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	14	compound	_	_
-13	ई	ई	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
-14	समीक्ष्य	समीक्ष्य	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	nmod	_	_
-15	पुस्तक	पुस्तक	NOUN	N_NN	_	17	compound	_	_
-16	पढ़ल	पढ़ल	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
-17	बहुते	बहु	PART	RP_INTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	18	compound	_	_
-18	आवश्यक	आवश्यक	NOUN	N_NN	_	0	root	_	_
-19	बा।	बा।	PUNCT	RD_PUNC	_	18	punct	_	SpacesAfter=\n\s
+3	जिनिगी	जिनिगी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	nsubj	_	_
+4	में	में	ADP	PSP	AdpType=Post	3	case	_	_
+5	,	COMMA	PUNCT	RD_PUNC	_	12	punct	_	_
+6	अंचल	अंचल	PROPN	N_NNP	_	12	nsubj	_	_
+7	में	में	ADP	PSP	AdpType=Post	6	case	_	_
+8	गहराई	गहराया	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing	10	nmod	_	_
+9	तक	तक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
+10	पइठे	पइठा	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	nmod	_	_
+11	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	10	case	_	_
+12	बा	बा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	0	root	_	_
+13	,	COMMA	PUNCT	RD_PUNC	_	12	punct	_	_
+14	ओके	ओको	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	20	obl	_	_
+15	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	compound	_	_
+16	समीक्ष्य	समीक्ष्य	ADJ	JJ	Case=Nom	17	amod	_	_
+17	पुस्तक	पुस्तक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	19	nmod	_	_
+18	पढ़ल	पढ़ल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	compound	_	_
+19	बहुते	बहु	PART	RP_INTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	20	compound	_	_
+20	आवश्यक	आवश्यक	NOUN	N_NN	_	12	conj	_	_
+21	बा।	बा।	PUNCT	RD_PUNC	_	20	punct	_	SpacesAfter=\n\s
 
 # sent_id = 8
 # text = ई पुस्तक के गहरे पैठ अंतर्दृष्टि के साक्षी ह।
@@ -211,68 +235,73 @@
 9	ह।	ह।	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
 
 # sent_id = 9
-# text = आंजनेय जी के एह कहनाम से सहमति जतावत चंद्रशेखर तिवारी लिखले बाड़न- ”एह संग्रह के पढ़िके ई कहल जा सकेला कि डॉ।
+# text = आंजनेय जी के एह कहनाम से सहमति जतावत चंद्रशेखर तिवारी लिखले बाड़न - ” एह संग्रह के पढ़िके ई कहल जा सकेला कि डॉ।
 1	आंजनेय	आंजनेय	ADJ	JJ	Case=Nom	2	amod	_	_
 2	जी	जी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	nmod	_	_
 3	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	2	case	_	_
 4	एह	एह	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	_
-5	कहनाम	कहनाम	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obl	_	_
+5	कहनाम	कहनाम	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	20	obl	_	_
 6	से	से	ADP	PSP	AdpType=Post	5	case	_	_
 7	सहमति	सहमति	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	_
-8	जतावत	जतावत	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
-9	चंद्रशेखर	चंद्रशेखर	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
-10	तिवारी	तिवारी	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	11	compound	_	_
-11	लिखले	लिखला	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	_
-12	बाड़न-	बाड़न-	PUNCT	RD_SYM	_	11	punct	_	_
-13	”एह	”एह	DET	DM_DMD	NumType=Card	14	det	_	_
-14	संग्रह	संग्रह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	18	nmod	_	_
-15	के	को	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	14	case	_	_
-16	पढ़िके	पढ़िको	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	14	case	_	_
-17	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	18	compound	_	_
-18	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	ccomp	_	_
-19	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	aux	_	_
-20	सकेला	सकेला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	aux	_	_
-21	कि	कि	SCONJ	CC_CCS	_	22	mark	_	_
-22	डॉ।	डॉ।	PUNCT	RD_PUNC	_	18	punct	_	SpacesAfter=\n
+8	जतावत	जतावत	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	_
+9	चंद्रशेखर	चंद्रशेखर	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	compound	_	_
+10	तिवारी	तिवारी	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	20	compound	_	_
+11	लिखले	लिखला	NOUN	N_NST	Case=Nom|Number=Sing|Person=3	20	compound	_	_
+12	बाड़न	बाड़न	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	compound	_	_
+13	-	-	PUNCT	RD_SYM	_	20	punct	_	_
+14	”	”	PUNCT	RD_PUNC	_	20	compound	_	_
+15	एह	एह	DET	DM_DMD	NumType=Card	16	det	_	_
+16	संग्रह	संग्रह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	20	nmod	_	_
+17	के	को	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	16	case	_	_
+18	पढ़िके	पढ़िको	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	20	compound	_	_
+19	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	20	compound	_	_
+20	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+21	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	aux	_	_
+22	सकेला	सकेला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	aux	_	_
+23	कि	कि	SCONJ	CC_CCS	_	20	conj	_	_
+24	डॉ।	डॉ।	PUNCT	RD_PUNC	_	20	punct	_	SpacesAfter=\n
 
 # sent_id = 10
-# text = विवेकी राय जी अउरी साहित्यकारन खानी कागद की लेखी ना कहिके महात्मा कबीर का तरह ‘आँखिन के देखी’ कहले बाड़न, जवना से उनकर निबंध पाठक पर आपन एगो विशिष्ट छाप छोड़े में सफल भइल बाड़न स।
+# text = विवेकी राय जी अउरी साहित्यकारन खानी कागद की लेखी ना कहिके महात्मा कबीर का तरह ‘ आँखिन के देखी ’ कहले बाड़न , जवना से उनकर निबंध पाठक पर आपन एगो विशिष्ट छाप छोड़े में सफल भइल बाड़न स।
 1	विवेकी	विवेकी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	compound	_	_
 2	राय	राय	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
 3	जी	जी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	compound	_	_
 4	अउरी	अउरी	ADJ	JJ	Case=Nom	5	amod	_	_
 5	साहित्यकारन	साहित्यकारन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	_
-6	खानी	खानी	VERB	V_VM	Case=Nom|Number=Sing|Person=3	35	nmod	_	_
-7	कागद	कागद	PROPN	N_NNP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	35	compound	_	_
-8	की	की	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	compound	_	_
-9	लेखी	लेखी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	compound	_	_
-10	ना	ना	PART	RP_NEG	Case=Nom|Gender=Masc|Number=Sing|Person=3	35	compound	_	_
-11	कहिके	कहिको	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	35	compound	_	_
+6	खानी	खानी	VERB	V_VM	Case=Nom|Number=Sing|Person=3	19	nsubj	_	_
+7	कागद	कागद	PROPN	N_NNP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	19	compound	_	_
+8	की	की	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	_
+9	लेखी	लेखी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	compound	_	_
+10	ना	ना	PART	RP_NEG	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	compound	_	_
+11	कहिके	कहिको	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	19	compound	_	_
 12	महात्मा	महात्मा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
-13	कबीर	कबीर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	35	nmod	_	_
+13	कबीर	कबीर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	19	nmod	_	_
 14	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	13	case	_	_
-15	तरह	तरह	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	compound	_	_
-16	‘आँखिन	‘आँखिन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	18	nmod	_	_
-17	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	16	case	_	_
-18	देखी’	देखी’	PUNCT	RD_SYM	_	35	nmod	_	_
-19	कहले	कहला	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	35	amod	_	_
-20	बाड़न,	बाड़नCOMMA	PUNCT	RD_PUNC	_	35	punct	_	_
-21	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	25	obl	_	_
-22	से	से	ADP	PSP	AdpType=Post	21	case	_	_
-23	उनकर	उनकर	DET	DM_DMD	_	25	det	_	_
-24	निबंध	निबंध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	compound	_	_
-25	पाठक	पाठक	NOUN	N_NN	_	35	obl	_	_
-26	पर	पर	ADP	PSP	AdpType=Post	25	case	_	_
-27	आपन	आपन	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	compound	_	_
-28	एगो	एगो	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	compound	_	_
-29	विशिष्ट	विशिष्ट	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	35	nmod	_	_
-30	छाप	छाप	ADJ	JJ	_	31	compound	_	_
-31	छोड़े	छोड़ा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	34	nmod	_	_
-32	में	में	ADP	PSP	AdpType=Post	31	case	_	_
-33	सफल	सफल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	34	compound	_	_
-34	भइल	भइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	35	compound	_	_
-35	बाड़न	बाड़न	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-36	स।	स।	PUNCT	RD_PUNC	_	35	punct	_	SpacesAfter=\n\s
+15	तरह	तरह	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing|Person=3	19	compound	_	_
+16	‘	‘	PUNCT	RD_SYM	_	17	compound	_	_
+17	आँखिन	आँखिन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	19	nmod	_	_
+18	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	17	case	_	_
+19	देखी	देखा	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+20	’	’	PUNCT	RD_SYM	_	19	punct	_	_
+21	कहले	कहला	NOUN	N_NST	Mood=Sub|VerbForm=Fin|Voice=Act	38	obl	_	_
+22	बाड़न	बाड़न	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	38	nmod	_	_
+23	,	COMMA	PUNCT	RD_PUNC	_	24	punct	_	_
+24	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	28	obl	_	_
+25	से	से	ADP	PSP	AdpType=Post	24	case	_	_
+26	उनकर	उनकर	DET	DM_DMD	_	28	det	_	_
+27	निबंध	निबंध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	compound	_	_
+28	पाठक	पाठक	NOUN	N_NN	_	38	compound	_	_
+29	पर	पर	ADP	PSP	AdpType=Post	28	case	_	_
+30	आपन	आपन	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|Person=3	32	compound	_	_
+31	एगो	एगो	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	32	compound	_	_
+32	विशिष्ट	विशिष्ट	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	38	nmod	_	_
+33	छाप	छाप	ADJ	JJ	_	34	compound	_	_
+34	छोड़े	छोड़ा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	37	nmod	_	_
+35	में	में	ADP	PSP	AdpType=Post	34	case	_	_
+36	सफल	सफल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	37	compound	_	_
+37	भइल	भइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	38	compound	_	_
+38	बाड़न	बाड़न	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	conj	_	_
+39	स।	स।	PUNCT	RD_PUNC	_	38	punct	_	SpacesAfter=\n\s
 
 # sent_id = 11
 # text = एह पुस्तक के प्रकाशन निश्चित रूप से भोजपुरी साहित्य के ललित निबंधन का इतिहास में एगो महत्वपूर्ण घटना ह।
@@ -326,7 +355,7 @@
 26	स।	स।	PUNCT	RD_PUNC	_	25	punct	_	SpacesAfter=\n\s
 
 # sent_id = 13
-# text = एह संबंध में डॉ जया पाण्डेय के साफ-साफ विचार बा- ”विवेकी राय जी के कुल्हि निबंध शुरू से आखिर ले व्यक्ति-व्यंजकता का रंग में रँगाइल बाड़े सन।
+# text = एह संबंध में डॉ जया पाण्डेय के साफ-साफ विचार बा- ” विवेकी राय जी के कुल्हि निबंध शुरू से आखिर ले व्यक्ति-व्यंजकता का रंग में रँगाइल बाड़े सन।
 1	एह	एह	DET	DM_DMD	NumType=Card	2	det	_	_
 2	संबंध	संबंध	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
 3	में	में	ADP	PSP	AdpType=Post	2	case	_	_
@@ -335,25 +364,26 @@
 6	पाण्डेय	पांडेय	PROPN	N_NNP	Case=Acc|Number=Sing|Person=3	9	nmod	_	_
 7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	_
 8	साफ-साफ	साफ-साफ	NOUN	N_NN	Case=Acc	9	compound	_	_
-9	विचार	विचार	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	25	nsubj	_	_
-10	बा-	बा-	PUNCT	RD_SYM	_	25	compound	_	_
-11	”विवेकी	”विवेकी	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
-12	राय	राय	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	13	compound	_	_
-13	जी	जी	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	nmod	_	_
-14	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	13	case	_	_
-15	कुल्हि	कुल्हि	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	compound	_	_
-16	निबंध	निबंध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	compound	_	_
-17	शुरू	शुरू	PRON	PR_PRI	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	obl	_	_
-18	से	से	ADP	PSP	AdpType=Post	17	case	_	_
-19	आखिर	आखिर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	compound	_	_
-20	ले	ले	ADP	PSP	Number=Sing	25	advcl	_	_
-21	व्यक्ति-व्यंजकता	व्यक्ति-व्यंजकता	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	23	nmod	_	_
-22	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	21	case	_	_
-23	रंग	रंग	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	25	obl	_	_
-24	में	में	ADP	PSP	AdpType=Post	23	case	_	_
-25	रँगाइल	रँगाइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
-26	बाड़े	बाड़े	ADP	PSP	AdpType=Post	25	case	_	_
-27	सन।	सन।	PUNCT	RD_PUNC	_	25	punct	_	SpacesAfter=\n\s
+9	विचार	विचार	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
+10	बा-	बा-	PUNCT	RD_SYM	_	26	compound	_	_
+11	”	”	PUNCT	RD_PUNC	_	26	punct	_	_
+12	विवेकी	विवेकी	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
+13	राय	राय	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	26	nsubj	_	_
+14	जी	जी	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	nmod	_	_
+15	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	14	case	_	_
+16	कुल्हि	कुल्हि	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
+17	निबंध	निबंध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	nmod	_	_
+18	शुरू	शुरू	PRON	PR_PRI	Case=Nom|Gender=Masc|Number=Sing|Person=3	26	obl	_	_
+19	से	से	ADP	PSP	AdpType=Post	18	case	_	_
+20	आखिर	आखिर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	compound	_	_
+21	ले	ले	ADP	PSP	Number=Sing	26	advcl	_	_
+22	व्यक्ति-व्यंजकता	व्यक्ति-व्यंजकता	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	24	nmod	_	_
+23	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	22	case	_	_
+24	रंग	रंग	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	26	obl	_	_
+25	में	में	ADP	PSP	AdpType=Post	24	case	_	_
+26	रँगाइल	रँगाइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
+27	बाड़े	बाड़े	ADP	PSP	AdpType=Post	26	case	_	_
+28	सन।	सन।	PUNCT	RD_PUNC	_	26	punct	_	SpacesAfter=\n\s
 
 # sent_id = 14
 # text = कतहीं-कतहीं प्रगीतात्मक काव्य के आनंद आवता।
@@ -376,21 +406,22 @@
 8	प्रवृत्ति।	प्रवृत्ति।	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n\s
 
 # sent_id = 16
-# text = कवनो भाषा के गद्य साहित्य जतने समृद्ध होई, ऊ भाषा ओतने विकसित मान जाले।
+# text = कवनो भाषा के गद्य साहित्य जतने समृद्ध होई , ऊ भाषा ओतने विकसित मान जाले।
 1	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	_
 2	भाषा	भाषा	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
 3	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	2	case	_	_
-4	गद्य	गद्य	ADV	RB	_	13	advmod	_	_
-5	साहित्य	साहित्य	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	nmod	_	_
+4	गद्य	गद्य	ADV	RB	_	8	compound	_	_
+5	साहित्य	साहित्य	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	_
 6	जतने	जतने	ADP	PSP	AdpType=Post	5	case	_	_
-7	समृद्ध	समृद्ध	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
-8	होई,	होईCOMMA	PUNCT	RD_PUNC	_	13	punct	_	_
-9	ऊ	ऊ	PRON	PR_PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
-10	भाषा	भाषा	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	13	compound	_	_
-11	ओतने	ओत	PRON	PR_PRF	Case=Acc,Erg|Number=Sing|Person=2|Polite=Form|PronType=Prs	13	nmod	_	_
-12	विकसित	विकसित	ADJ	JJ	_	13	compound	_	_
-13	मान	मान	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-14	जाले।	जाले।	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n\s
+7	समृद्ध	समृद्ध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
+8	होई	हो	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
+9	,	,	PUNCT	RD_PUNC	_	8	punct	_	_
+10	ऊ	ऊ	PRON	PR_PRP	Case=Nom|Number=Sing	14	amod	_	_
+11	भाषा	भाषा	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	compound	_	_
+12	ओतने	ओत	PRON	PR_PRF	Case=Acc,Erg|Number=Sing|Person=2|Polite=Form|PronType=Prs	14	nmod	_	_
+13	विकसित	विकसित	ADJ	JJ	_	14	compound	_	_
+14	मान	मान	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	conj	_	_
+15	जाले।	जाले।	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n\s
 
 # sent_id = 17
 # text = विवेकी राय के तमाम निबंध विकासमान बोली के भाषा के प्रौढ़ता प्रदान कइलन स।
@@ -410,34 +441,36 @@
 14	स।	स।	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
 
 # sent_id = 18
-# text = “ विवेकी राय के हिन्दी-भोजपुरी के कृतित्वे-भर आंचलिक ना रहे, उहाँ के शख्सियतो एड़ी से चोटी ले आंचलिकता से लैस रहे- सहनशीलता आ जीवट से लबालब भइल।
-1	“	“	PUNCT	RD_PUNC	_	3	compound	_	_
+# text = “ विवेकी राय के हिन्दी-भोजपुरी के कृतित्वे-भर आंचलिक ना रहे , उहाँ के शख्सियतो एड़ी से चोटी ले आंचलिकता से लैस रहे - सहनशीलता आ जीवट से लबालब भइल।
+1	“	“	PUNCT	RD_PUNC	_	3	punct	_	_
 2	विवेकी	विवेकी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	3	compound	_	_
-3	राय	राय	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
+3	राय	राय	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	_
 4	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	case	_	_
-5	हिन्दी-भोजपुरी	हिन्दी-भोजपुरी	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
+5	हिन्दी-भोजपुरी	हिन्दी-भोजपुरी	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	_
 6	के	के	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	5	case	_	_
-7	कृतित्वे-भर	कृतित्वे-भर	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
-8	आंचलिक	आंचलिक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	_
-9	ना	ना	VERB	V_VM	_	0	root	_	_
-10	रहे,	रहेCOMMA	PUNCT	RD_PUNC	_	26	punct	_	_
-11	उहाँ	उहाँ	NOUN	N_NST	Case=Acc|PronType=Prs	26	nmod	_	_
-12	के	कर	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	11	case	_	_
-13	शख्सियतो	शख्सियत	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	26	nsubj	_	_
-14	एड़ी	एड़ी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	26	obl	_	_
-15	से	से	ADP	PSP	AdpType=Post	14	case	_	_
-16	चोटी	चोटी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	26	obj	_	_
-17	ले	ला	ADP	PSP	Number=Sing	26	advcl	_	_
-18	आंचलिकता	आंचलिकता	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	26	obl	_	_
-19	से	से	ADP	PSP	AdpType=Post	18	case	_	_
-20	लैस	लैस	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	compound	_	_
-21	रहे-	रहे-	PUNCT	RD_SYM	_	26	punct	_	_
-22	सहनशीलता	सहनशीलता	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	26	obj	_	_
-23	आ	आ	CCONJ	CC_CCD	_	26	advcl	_	_
-24	जीवट	जीवट	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	26	obl	_	_
-25	से	से	ADP	PSP	AdpType=Post	24	case	_	_
-26	लबालब	लबालब	NOUN	N_NST	Case=Nom|PronType=Prs	9	conj	_	_
-27	भइल।	भइल।	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n\s
+7	कृतित्वे-भर	कृतित्वे-भर	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
+8	आंचलिक	आंचलिक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
+9	ना	ना	VERB	V_VM	_	10	compound	_	_
+10	रहे	रह	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part	21	obl	_	_
+11	,	,	PUNCT	RD_PUNC	_	10	punct	_	_
+12	उहाँ	उहाँ	NOUN	N_NST	Case=Acc|PronType=Prs	21	nmod	_	_
+13	के	कर	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	12	case	_	_
+14	शख्सियतो	शख्सियत	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Plur|Person=3	15	compound	_	_
+15	एड़ी	एड़ी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	21	obl	_	_
+16	से	से	ADP	PSP	AdpType=Post	15	case	_	_
+17	चोटी	चोटी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	18	compound	_	_
+18	ले	ला	ADP	PSP	Number=Sing	21	advcl	_	_
+19	आंचलिकता	आंचलिकता	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	obl	_	_
+20	से	से	ADP	PSP	AdpType=Post	19	case	_	_
+21	लैस	लैस	VERB	V_VM	Gender=Masc|Number=Plur|Voice=Act	0	root	_	_
+22	रहे	रह	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part	28	acl	_	_
+23	-	-	PUNCT	RD_PUNC	_	28	punct	_	_
+24	सहनशीलता	सहनशीलता	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	28	obj	_	_
+25	आ	आ	CCONJ	CC_CCD	_	28	advcl	_	_
+26	जीवट	जीवट	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	28	obl	_	_
+27	से	से	ADP	PSP	AdpType=Post	26	case	_	_
+28	लबालब	लबालब	NOUN	N_NST	Case=Nom|PronType=Prs	29	nmod	_	_
+29	भइल।	भइल।	PUNCT	RD_PUNC	_	21	punct	_	SpacesAfter=\n\s
 
 # sent_id = 19
 # text = तबे नू, अढ़ाई दशक पहिले हृदयाघात के हरु पटे त विजयी भइलीं।
@@ -513,33 +546,37 @@
 29	लिहलीं।	लिहलीं।	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n\s
 
 # sent_id = 22
-# text = अतिशय सज्जनता आ साधुता के प्रतिमूर्ति, गँवई जिनिगी के अद्भुत चितेरा, गँवई गंध गुलाब’ से साहित्य-वाटिका के गमगमावे वाला ‘मनबोध मास्टर’ के हमार अशेष प्रणामांजलि !
+# text = अतिशय सज्जनता आ साधुता के प्रतिमूर्ति , गँवई जिनिगी के अद्भुत चितेरा , गँवई गंध गुलाब’ से साहित्य-वाटिका के गमगमावे वाला ‘ मनबोध मास्टर ’ के हमार अशेष प्रणामांजलि !
 1	अतिशय	अतिशय	ADJ	JJ	Case=Nom	2	amod	_	_
-2	सज्जनता	सज्जनता	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	nmod	_	_
-3	आ	आ	CCONJ	CC_CCD	_	25	advcl	_	_
-4	साधुता	साधुता	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	25	nmod	_	_
+2	सज्जनता	सज्जनता	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	nmod	_	_
+3	आ	आ	CCONJ	CC_CCD	_	29	advcl	_	_
+4	साधुता	साधुता	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
 5	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	4	case	_	_
-6	प्रतिमूर्ति,	प्रतिमूर्तिCOMMA	PUNCT	RD_PUNC	_	25	punct	_	_
-7	गँवई	गँवई	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
-8	जिनिगी	जिनिगी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	_
-9	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	8	case	_	_
-10	अद्भुत	अद्भुत	VERB	V_VM	Case=Acc	25	amod	_	_
-11	चितेरा,	चितेराCOMMA	PUNCT	RD_PUNC	_	25	punct	_	_
-12	गँवई	गँवया	NOUN	N_NN	Case=Nom	13	compound	_	_
-13	गंध	गंध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	nmod	_	_
-14	गुलाब’	गुलाब’	PUNCT	RD_SYM	_	25	punct	_	_
-15	से	से	ADP	PSP	AdpType=Post	25	nmod	_	_
-16	साहित्य-वाटिका	साहित्य-वाटिका	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	18	nmod	_	_
-17	के	को	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	16	case	_	_
-18	गमगमावे	गमगमावे	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	compound	_	_
-19	वाला	वाला	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	18	case	_	_
-20	‘मनबोध	‘मनबोध	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	25	compound	_	_
-21	मास्टर’	मास्टर’	PUNCT	RD_SYM	_	25	punct	_	_
-22	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	21	case	_	_
-23	हमार	हमार	PRON	PR_PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	compound	_	_
-24	अशेष	अशेष	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	compound	_	_
-25	प्रणामांजलि	प्रणामांजलि	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-26	!	!	PUNCT	RD_PUNC	_	25	punct	_	SpacesAfter=\n
+6	प्रतिमूर्ति	प्रतिमूर्ति	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	29	obl	_	_
+7	,	COMMA	PUNCT	RD_PUNC	_	12	punct	_	_
+8	गँवई	गँवई	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	_
+9	जिनिगी	जिनिगी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	12	nmod	_	_
+10	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	9	case	_	_
+11	अद्भुत	अद्भुत	VERB	V_VM	Case=Acc	12	compound	_	_
+12	चितेरा	चितेरा	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	6	conj	_	_
+13	,	COMMA	PUNCT	RD_PUNC	_	14	punct	_	_
+14	गँवई	गँवया	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+15	गंध	गंध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	compound	_	_
+16	गुलाब’	गुलाब’	PUNCT	RD_SYM	_	29	punct	_	_
+17	से	से	ADP	PSP	AdpType=Post	29	nmod	_	_
+18	साहित्य-वाटिका	साहित्य-वाटिका	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	20	nmod	_	_
+19	के	को	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	18	case	_	_
+20	गमगमावे	गमगमावे	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	nmod	_	_
+21	वाला	वाला	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	29	compound	_	_
+22	‘	‘	PUNCT	RD_SYM	_	29	punct	_	_
+23	मनबोध	मनबोध	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	24	compound	_	_
+24	मास्टर	मास्टर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	nmod	_	_
+25	’	’	PUNCT	RD_SYM	_	24	punct	_	_
+26	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	24	case	_	_
+27	हमार	हमार	PRON	PR_PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	compound	_	_
+28	अशेष	अशेष	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	compound	_	_
+29	प्रणामांजलि	प्रणामांजलि	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+30	!	!	PUNCT	RD_PUNC	_	29	punct	_	SpacesAfter=\n
 
 # sent_id = 23
 # text = आजु स्टाफ रूम में इंस्पेक्शन के बात एक-एक क के उघरत रहे।
@@ -557,24 +594,26 @@
 12	रहे।	रहे।	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
 
 # sent_id = 24
-# text = हमरा प्राचार्य डॉ संजय सिंह ‘सेंगर’ जी याद आ गइल रहीं आ हम भावुक हो गइल रहीं।
+# text = हमरा प्राचार्य डॉ संजय सिंह ‘ सेंगर ’ जी याद आ गइल रहीं आ हम भावुक हो गइल रहीं।
 1	हमरा	हमर	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	compound	_	_
 2	प्राचार्य	प्राचार्य	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
 3	डॉ	डॉ	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	_
 4	संजय	संजय	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	compound	_	_
-5	सिंह	सिंह	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
-6	‘सेंगर’	‘सेंगर’	PUNCT	RD_SYM	_	8	compound	_	_
-7	जी	जी	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
-8	याद	याद	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
-9	आ	आ	CCONJ	CC_CCD	_	15	advcl	_	_
-10	गइल	गइल	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	compound	_	_
-11	रहीं	रह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part	15	obl	_	_
-12	आ	आ	CCONJ	CC_CCD	_	15	advcl	_	_
-13	हम	हम	PRON	PR_PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	compound	_	_
-14	भावुक	भावुक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	compound	_	_
-15	हो	हो	VERB	V_VM	Voice=Act	0	root	_	_
-16	गइल	गइल	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	aux	_	_
-17	रहीं।	रहीं।	PUNCT	RD_PUNC	_	15	punct	_	SpacesAfter=\n
+5	सिंह	सिंह	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
+6	‘	‘	PUNCT	RD_SYM	_	10	compound	_	_
+7	सेंगर	सेंगर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
+8	’	’	PUNCT	RD_SYM	_	10	punct	_	_
+9	जी	जी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	compound	_	_
+10	याद	याद	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nsubj	_	_
+11	आ	आ	CCONJ	CC_CCD	_	17	advcl	_	_
+12	गइल	गइल	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	aux	_	_
+13	रहीं	रह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part	11	aux	_	_
+14	आ	आ	CCONJ	CC_CCD	_	17	advcl	_	_
+15	हम	हम	PRON	PR_PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	compound	_	_
+16	भावुक	भावुक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
+17	हो	हो	VERB	V_VM	Voice=Act	0	root	_	_
+18	गइल	गइल	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	aux	_	_
+19	रहीं।	रहीं।	PUNCT	RD_PUNC	_	17	punct	_	SpacesAfter=\n
 
 # sent_id = 25
 # text = 5 जनवरी के उहाँ से खड़े-खड़े भइल आधा घंटा के बतकही के एक-एक शब्द हमरा याद रहे।
