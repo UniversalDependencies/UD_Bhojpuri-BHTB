@@ -1,6 +1,6 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+The Bhojpuri Treebank (BHTB) is a part of the [Universal Dependency treebank](http://universaldependencies.org/) project. Initially, it was started by me ([Atul Kr. Ojha](https://scholar.google.com/citations?user=nY_o0hMAAAAJ&hl=en)) at [Jawaharlal Nehru University, New Delhi](http://sanskrit.jnu.ac.in/index.jsp) during the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work.
 
 # Introduction
 
@@ -25,7 +25,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: converted from manual
-Contributors: Ojha, Atul Kumar
+Contributors: Ojha, Dr. Atul Kumar
 Contributing: elsewhere
 Contact: shashwatup9k@gmail.com
 ===============================================================================
