@@ -1330,48 +1330,48 @@
 2	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	1	case	_	_
 3	अतना	अतना	PART	QT_QTF	_	4	obl	_	_
 4	विश्वास	विश्वास	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
-5	हो	हो	VERB	V_VM	Voice=Act	32	acl	_	_
+5	हो	हो	VERB	V_VM	_	0	root	_	_
 6	गइल	गइल	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	aux	_	_
 7	रहे	रह	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part	5	aux	_	_
-8	कि	कि	SCONJ	CC_CCS	_	32	mark	_	_
+8	कि	कि	SCONJ	CC_CCS	_	43	mark	_	_
 9	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	det	_	_
-10	विद्यार्थी	विद्यार्थी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	17	nmod	_	_
+10	विद्यार्थी	विद्यार्थी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	16	nmod	_	_
 11	के	को	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	10	case	_	_
 12	आसानी	आसानी	ADV	RB	_	14	obl	_	_
 13	से	से	ADP	PSP	AdpType=Post	12	case	_	_
-14	पटरी	पटरी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	nmod	_	_
+14	पटरी	पटरी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	nmod	_	_
 15	पर	पर	ADP	PSP	AdpType=Post	12	case	_	_
-16	ले	ले	ADP	PSP	Number=Sing	32	compound	_	_
-17	आइल	आइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	32	acl	_	_
-18	जा	जा	AUX	V_VAUX	_	17	aux	_	_
-19	सकता	सकता	AUX	V_VAUX	_	17	aux	_	_
-20	,	COMMA	PUNCT	RD_PUNC	_	17	punct	_	_
+16	ले	ले	VERB	V_VM	_	28	acl	_	_
+17	आइल	आइल	AUX	V_VAUX	_	16	aux	_	_
+18	जा	जा	AUX	V_VAUX	_	16	aux	_	_
+19	सकता	सकता	AUX	V_VAUX	_	16	aux	_	_
+20	,	COMMA	PUNCT	RD_PUNC	_	16	punct	_	_
 21	संसार	संसार	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	24	nmod	_	_
 22	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	21	case	_	_
-23	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	compound	_	_
+23	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	det	_	_
 24	रोग	रोग	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	26	obl	_	_
 25	से	से	ADP	PSP	AdpType=Post	24	case	_	_
-26	बिना	बिना	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	32	nmod	_	_
-27	दवा	दवा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	compound	_	_
-28	खइले	खइल	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part	32	compound	_	_
-29	छुटकारा	छुटकारा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	compound	_	_
-30	पावल	पावल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	32	compound	_	_
-31	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	32	nmod	_	_
-32	सकता	सकता	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-33	,	COMMA	PUNCT	RD_PUNC	_	45	punct	_	_
+26	बिना	बिना	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	27	nmod	_	_
+27	दवा	दवा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	nmod	_	_
+28	खइले	खइल	VERB	V_VM	_	5	xcomp	_	_
+29	छुटकारा	छुटकारा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	nmod	_	_
+30	पावल	पावल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	ccomp	_	_
+31	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	aux	_	_
+32	सकता	सकता	AUX	V_VAUX	Case=Acc|Gender=Masc|Number=Sing|Person=3	30	aux	_	_
+33	,	COMMA	PUNCT	RD_PUNC	_	30	punct	_	_
 34	ढंग	ढंग	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	37	nmod	_	_
 35	से	से	ADP	PSP	AdpType=Post	34	case	_	_
 36	काउंसिलिंग	काउंसिलिंग	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	37	compound	_	_
-37	क	क	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	45	nmod	_	_
-38	दिहल	दिहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	45	compound	_	_
-39	जाव	जाव	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	45	nmod	_	_
-40	त	त	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	41	compound	_	_
-41	केहू	केहू	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	45	nsubj	_	_
-42	आत्महत्या	आत्महत्या	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	45	compound	_	_
-43	ना	ना	PART	RP_NEG	_	45	compound	_	_
-44	करी	करी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	45	compound	_	_
-45	कबो	कबो	PROPN	N_NNP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	32	conj	_	SpacesAfter=\s\s
-46	।	।	PUNCT	RD_PUNC	_	45	punct	_	SpacesAfter=\n
+37	क	क	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	43	acl	_	_
+38	दिहल	दिहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	37	aux	_	_
+39	जाव	जाव	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	37	aux	_	_
+40	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	41	obl	_	_
+41	केहू	केहू	PART	QT_QTF	Case=Nom|Number=Sing|Person=3	42	obl	_	_
+42	आत्महत्या	आत्महत्या	NOUN	N_NN	_	43	nmod	_	_
+43	ना	ना	VERB	V_VM	_	5	xcomp	_	_
+44	करी	करी	AUX	V_VAUX	_	43	aux	_	_
+45	कबो	कबो	PRON	PR_PRI	_	42	obl	_	SpacesAfter=\s\s
+46	।	।	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = 61
 # text = हमरा एह बात पर सभ विश्वास ना कर पाई , ई हम जानतानी बाकिर हमरा विश्वास में आजुओ कवनो कमी नइखे आइल ।
@@ -2675,14 +2675,14 @@
 
 # sent_id = 123
 # text = अब जवन होखे के बा तवन काल्हु सामने आइए जाई ।
-1	अब	अब	DET	N_NST	Case=Nom|PronType=Prs	3	nmod	_	_
+1	अब	अब	DET	N_NST	Case=Nom|PronType=Prs	9	acl	_	_
 2	जवन	जवन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
-3	होखे	होखा	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
-4	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	case	_	_
-5	बा	बा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	_
-6	तवन	तवन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	_
+3	होखे	होखा	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	xcomp	_	_
+4	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	mark	_	_
+5	बा	बा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	aux	_	_
+6	तवन	तवन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	det	_	_
 7	काल्हु	काल्हु	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
-8	सामने	सामने	NOUN	N_NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	_
+8	सामने	सामने	NOUN	N_NN	_	9	nmod	_	_
 9	आइए	आइया	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
 10	जाई	जा	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	9	aux	_	SpacesAfter=\s\s
 11	।	।	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
@@ -3193,20 +3193,20 @@
 
 # sent_id = 149
 # text = बोले भा अभिव्यक्ति के आजादी सबले खास मौलिक अधिकार हवे हमहन के संविधान के ।
-1	बोले	बोला	NOUN	N_NST	Mood=Sub|VerbForm=Fin|Voice=Act	3	nmod	_	_
-2	भा	भा	CCONJ	CC_CCD	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
-3	अभिव्यक्ति	अभिव्यक्ति	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	nmod	_	_
+1	बोले	बोला	VERB	V_VM	Mood=Sub|VerbForm=Fin|Voice=Act	10	nmod	_	_
+2	भा	भा	PART	RP_RPD	_	1	compound	_	_
+3	अभिव्यक्ति	अभिव्यक्ति	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	5	nmod	_	_
 4	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	case	_	_
-5	आजादी	आजादी	NOUN	N_NN	_	13	nmod	_	_
+5	आजादी	आजादी	NOUN	N_NN	_	10	nsubj	_	_
 6	सबले	सबला	DET	RP_INTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	det	_	_
 7	खास	खास	ADJ	JJ	Case=Acc	8	amod	_	_
-8	मौलिक	मौलिक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
-9	अधिकार	अधिकार	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
-10	हवे	हवे	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
+8	मौलिक	मौलिक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nmod	_	_
+9	अधिकार	अधिकार	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	obj	_	_
+10	हवे	हवे	VERB	V_VM	_	0	root	_	_
 11	हमहन	हमहन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
-12	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	11	case	_	_
-13	संविधान	संविधान	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-14	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	13	case	_	_
+12	के	के	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	11	case	_	_
+13	संविधान	संविधान	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	iobj	_	_
+14	के	के	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	13	case	_	_
 15	।	।	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
 
 # sent_id = 150
