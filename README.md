@@ -33,7 +33,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: manual native
-Contributors: Ojha, Dr. Atul Kr.; Zeman, Daniel
+Contributors: Ojha, Atul Kr.; Zeman, Daniel
 Contributing: here
 Contact: shashwatup9k@gmail.com, zeman@ufal.mff.cuni.cz
 ===============================================================================
