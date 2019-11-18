@@ -34,6 +34,12 @@ Preparation of this treebank was supported by LINDAT/CLARIAH-CZ (grant no. LM201
 </pre>
 
 
+# Changelog
+
+* 2019-11-15 v2.5
+  * Initial release in Universal Dependencies.
+
+
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v2.5
