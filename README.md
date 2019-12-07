@@ -10,7 +10,8 @@ The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) UD Treebank (BHT
 
 # Acknowledgments
 
-Preparation of this treebank was supported by LINDAT/CLARIAH-CZ (grant no. LM2018051).
+Preparation of this treebank was supported by LINDAT/CLARIAH-CZ (grant no. LM2018051)
+and Khresmoi (grants no. FP7-ICT-2010-6-257528 and MŠMT 7E11042).
 [ÚFAL](http://ufal.mff.cuni.cz/), Faculty of Mathematics and Physics, Charles University, Prague.
 
 ## References
