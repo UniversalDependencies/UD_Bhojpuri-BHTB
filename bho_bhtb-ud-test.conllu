@@ -1326,7 +1326,7 @@
 5	भासा	भासा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
 6	उधार	उधार	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obj	_	_
 7	ले	ले	VERB	V_VM	_	11	acl	_	_
-8	लीं	लाँ	AUX	V_AUX	_	7	aux	_	_
+8	लीं	ला	AUX	V_AUX	_	7	aux	_	_
 9	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
 10	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	compound	_	_
 11	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
