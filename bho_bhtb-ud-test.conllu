@@ -1326,7 +1326,7 @@
 5	भासा	भासा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing	6	amod	_	_
 6	उधार	उधार	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	obj	_	_
 7	ले	ले	VERB	V_VM	_	11	acl	_	_
-8	लीं	लाँ	AUX	V_AUX	_	7	aux	_	_
+8	लीं	ला	AUX	V_AUX	_	7	aux	_	_
 9	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
 10	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	compound	_	_
 11	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
@@ -1469,7 +1469,7 @@
 10	छोट	छोट	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur|Person=3	13	amod	_	_
 11	ह	ह	VERB	V_VM	NumType=Card	0	root	_	_
 12	कि	कि	SCONJ	CC_CCS	_	10	conj	_	_
-13	बड़	बड	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
+13	बड़	बड़	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
 14	।	।	PUNCT	RD_PUNC	_	11	punct	_	_
 
 # sent_id = f1-53
@@ -1490,7 +1490,7 @@
 14	दिहलसि	दिहलसि	AUX	V_VAUX	_	13	aux	_	_
 15	कि	कि	SCONJ	CC_CCS	_	14	conj	_	_
 16	छोट	छोट	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
-17	बड़	बड	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	nmod	_	_
+17	बड़	बड़	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	19	nmod	_	_
 18	बाढ़	बाढ़	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	nmod	_	_
 19	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	dep	_	_
 20	हर	हर	DET	QT_QTF	PronType=Ind	21	det	_	_
@@ -1635,7 +1635,7 @@
 4	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	2	case	_	_
 5	आपने	आप	PRON	PR_PRF	Case=Acc,Erg|Number=Sing|Person=2|Polite=Form|PronType=Prs	12	nsubj	_	_
 6	बिआह	बिआह	NOUN	N_NN	NumType=Card	10	obj	_	_
-7	बड़	बड	ADJ	JJ	NumType=Card	8	amod	_	_
+7	बड़	बड़	ADJ	JJ	NumType=Card	8	amod	_	_
 8	फजीहत	फजीहत	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obl	_	_
 9	से	से	ADP	PSP	AdpType=Post	8	case	_	_
 10	भइल	भइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
@@ -1929,10 +1929,10 @@
 2	चैनल	चैनल	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	amod	_	_
 3	चीफ	चीफ	NOUN	N_NN	Case=Acc	4	nmod	_	_
 4	चहक	चहक	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
-5	के	के	VERB	V_VM	_	18	discourse	_	_
-6	बोलल	बोलल	AUX	V_VAUX	_	5	aux	_	_
+5	के	के	ADP	PSP	_	4	compound	_	_
+6	बोलल	बोलल	VERB	V_VM	_	12	xcomp	_	_
 7	–	–	PUNCT	RD_SYM	_	5	punct	_	_
-8	चलीं	चल	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	11	aux	_	_
+8	चलीं	चल	VERB	V_VM	_	12	sconj	_	_
 9	अब	अब	NOUN	N_NST	Case=Nom|PronType=Prs	12	obl	_	_
 10	रउरो	रउरो	PRON	PR_PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
 11	कन्फर्म	कन्फर्म	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nmod	_	_
@@ -1986,7 +1986,7 @@
 3	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	2	case	_	_
 4	बिआह	बिआह	NOUN	N_NN	NumType=Card	5	nmod	_	_
 5	बहुते	बहु	PART	RP_INTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	8	nmod	_	_
-6	बड़	बड	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod	_	_
+6	बड़	बड़	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nmod	_	_
 7	खबर	खबर	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	_
 8	बा	बा	VERB	V_VM	Case=Nom|Number=Sing|Person=3	0	root	_	_
 9	।	।	PUNCT	RD_PUNC	_	8	punct	_	_
@@ -2578,7 +2578,7 @@
 10	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	9	case	_	_
 11	दरपन	दरपन	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Plur|Person=3	13	compound	_	_
 12	बतावत	बतावत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
-13	कहले	कहला	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	18	nmod	_	_
+13	कहले	कह	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	18	nmod	_	_
 14	रहलीं	रह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	13	aux	_	_
 15	-	-	PUNCT	RD_SYM	_	13	punct	_	_
 16	”	”	PUNCT	RD_PUNC	_	13	punct	_	_
@@ -2680,7 +2680,7 @@
 43	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	42	case	_	_
 44	देखी	देखा	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	64	acl	_	_
 45	’	’	PUNCT	RD_SYM	_	44	punct	_	_
-46	कहले	कहला	NOUN	N_NST	Mood=Sub|VerbForm=Fin|Voice=Act	64	nmod	_	_
+46	कहले	कह	NOUN	N_NST	Mood=Sub|VerbForm=Fin|Voice=Act	64	nmod	_	_
 47	बाड़न	बाड़न	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	64	compound	_	_
 48	,	COMMA	PUNCT	RD_PUNC	_	49	punct	_	_
 49	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	53	obl	_	_
@@ -5041,10 +5041,10 @@
 
 # sent_id = f2-122
 # text = कहले बा बड़ बड़ जने दहाइल जासु , गदहा थाहे कतना पानी ।
-1	कहले	कहला	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+1	कहले	कह	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 2	बा	बा	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	1	aux	_	_
-3	बड़	बड	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	amod	_	_
-4	बड़	बड	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
+3	बड़	बड़	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	amod	_	_
+4	बड़	बड़	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
 5	जने	जने	NOUN	N_NN	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
 6	दहाइल	दहाइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	_
 7	जासु	जासु	DET	QT_QTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	obl	_	_
@@ -5536,7 +5536,7 @@
 # sent_id = f2-147
 # text = रउरा कहले बानी कि हिन्दुस्तान पुरातन काल से बरदाश्ती रहल बा आ हर तरह के बाति , विचार , संस्कारन के जगहा देत आइल बा ।
 1	रउरा	रउरा	PRON	PR_PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	_
-2	कहले	कहला	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+2	कहले	कह	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 3	बानी	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	2	aux	_	_
 4	कि	कि	SCONJ	CC_CCS	_	24	mark	_	_
 5	हिन्दुस्तान	हिन्दुस्तान	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Plur|Person=3	10	nsubj	_	_
@@ -5544,7 +5544,7 @@
 7	काल	काल	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	obl	_	_
 8	से	से	ADP	PSP	AdpType=Post	7	case	_	_
 9	बरदाश्ती	बरदाश्ती	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
-10	रहल	रहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	nsubj	_	_
+10	रहल	रह	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	nsubj	_	_
 11	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	10	aux	_	_
 12	आ	आ	CCONJ	CC_CCD	_	24	advcl	_	_
 13	हर	हर	DET	QT_QTF	PronType=Ind	14	det	_	_
@@ -5594,7 +5594,7 @@
 # sent_id = f2-150
 # text = आगे कहले बानी कि भारत हमेशा से शिक्षा के क्षेत्र में विश्व नेता रहल बा ।
 1	आगे	आग	NOUN	N_NST	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part	2	compound	_	_
-2	कहले	कहला	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
+2	कहले	कह	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	0	root	_	_
 3	बानी	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	2	aux	_	_
 4	कि	कि	SCONJ	CC_CCS	_	13	mark	_	_
 5	भारत	भारत	NOUN	N_NN	_	6	compound	_	_
