@@ -5182,7 +5182,7 @@
 20	बिया	बिया	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	obj	_	_
 21	कि	कि	SCONJ	CC_CCS	_	24	mark	_	_
 22	पिया	पर	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	24	obj	_	_
-23	नाहीं	ना	PART	RP_NEG	_	24	aux	_	_
+23	नाहीं	ना	PART	RP_NEG	_	24	compound	_	_
 24	अइले	अइल	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part	0	root	_	_
 25	अबकी	अबकी	ADJ	JJ	_	26	compound	_	_
 26	फगुनवो	फगुनवो	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	24	obl	_	_
