@@ -1,4 +1,4 @@
-# newdoc id = bho_bhtb-ud-test.conllu	
+# newdoc id = bho_bhtb-ud-test.conllu
 # sent_id = f1-1
 # text = लोकरंजन आ सांस्कृतिक गीत -
 1	लोकरंजन	लोकरंजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
@@ -73,7 +73,7 @@
 8	नेवता	नेव	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	SpacesAfter=\n
 9	दीहल	दीहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 10	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
-11	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
+11	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
 12	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	9	aux	_	_
 13	।	।	PUNCT	RD_PUNC	_	9	punct	_	_
 
@@ -462,7 +462,7 @@
 3	शाही	शाही	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	compound	_	_
 4	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	case	_	_
 5	कहना	कह	VERB	V_VM	Case=Nom|VerbForm=Inf	0	root	_	_
-6	रहल	रहल	AUX	V_VAUX	Number=Sing|Voice=Act	5	aux	_	_
+6	रहल	रह	AUX	V_VAUX	Number=Sing|Voice=Act	5	aux	_	_
 7	कि	कि	SCONJ	CC_CCS	_	35	mark	_	_
 8	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	35	iobj	_	_
 9	भलही	भलही	PART	RP_INTF	Case=Nom|Number=Sing|Person=3|PronType=Dem	10	acl	_	_
@@ -550,7 +550,7 @@
 10	प्रधान	प्रधान	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	compound	_	_
 11	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	10	case	_	_
 12	कहना	कह	VERB	V_VM	Case=Nom|VerbForm=Inf	0	root	_	_
-13	रहल	रहल	AUX	V_VAUX	Number=Sing|Voice=Act	12	aux	_	_
+13	रहल	रह	AUX	V_VAUX	Number=Sing|Voice=Act	12	aux	_	_
 14	कि	कि	SCONJ	CC_CCS	_	21	cc	_	_
 15	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	obj	_	_
 16	कविता	कविता	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	iobj	_	_
@@ -1048,7 +1048,7 @@
 22	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	20	case	_	_
 23	आयोजन	आयोजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	obl	_	_
 24	कर	कर	VERB	V_VM	_	0	root	_	_
-25	रहल	रहल	AUX	V_VAUX	_	24	aux	_	_
+25	रहल	रह	AUX	V_VAUX	_	24	aux	_	_
 26	बा	बा	AUX	V_VAUX	_	24	aux	_	_
 27	।	।	PUNCT	RD_PUNC	_	24	punct	_	_
 
@@ -1083,7 +1083,7 @@
 27	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	26	case	_	_
 28	आयोजन	आयोजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	compound	_	_
 29	कर	कर	VERB	V_VM	_	0	root	_	_
-30	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	aux	_	_
+30	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	29	aux	_	_
 31	बानी	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	29	aux	_	_
 32	।	।	PUNCT	RD_PUNC	_	29	punct	_	_
 
@@ -1902,7 +1902,7 @@
 8	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	6	case	_	_
 9	पुनर्मिलन	पुनर्मिलन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
 10	हो	हो	VERB	V_VM	_	0	root	_	_
-11	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	aux	_	_
+11	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	aux	_	_
 12	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	10	aux	_	_
 13	।	।	PUNCT	RD_PUNC	_	10	punct	_	_
 
@@ -2025,7 +2025,7 @@
 5	ब्रेकिंग	ब्रेकिंग	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	amod	_	SpacesAfter=\n
 6	न्यूज	न्यूज	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	7	obj	_	_
 7	आ	आ	VERB	V_VM	_	0	root	_	_
-8	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	aux	_	_
+8	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	aux	_	_
 9	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	6	aux	_	_
 10	–	–	PUNCT	RD_SYM	_	7	punct	_	_
 11	सबले	सबला	DET	RP_INTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	det	_	_
@@ -2928,7 +2928,7 @@
 10	कहला	कहला	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	obl	_	_
 11	में	में	ADP	PSP	AdpType=Post	10	case	_	_
 12	ना	ना	PART	RP_NEG	_	13	compound	_	_
-13	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	acl	_	_
+13	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	acl	_	_
 14	,	COMMA	PUNCT	RD_PUNC	_	13	punct	_	_
 15	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	compound	_	_
 16	बायाँ	बायाँ	DET	DM_DMD	Case=Nom|PronType=Prs	24	obl	_	_
@@ -3306,7 +3306,7 @@
 15	सामान्य	सामान्य	ADJ	JJ	Case=Nom	16	amod	_	_
 16	जीवन	जीवन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
 17	जी	जी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
-18	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	aux	_	_
+18	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	aux	_	_
 19	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	17	aux	_	SpacesAfter=\s\s
 20	।	।	PUNCT	RD_PUNC	_	17	punct	_	SpacesAfter=\n
 
@@ -4053,7 +4053,7 @@
 25	सभ	सभ	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	27	compound	_	_
 26	नीमन	नीमन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	compound	_	_
 27	चल	चल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-28	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	aux	_	_
+28	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	aux	_	_
 29	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	27	aux	_	SpacesAfter=\s\s
 30	।	।	PUNCT	RD_PUNC	_	27	punct	_	SpacesAfter=\n
 
@@ -4080,7 +4080,7 @@
 19	-	-	PUNCT	RD_SYM	_	18	punct	_	_
 20	थू	थू	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	compound	_	_
 21	कर	कर	VERB	V_VM	_	0	root	_	_
-22	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	aux	_	_
+22	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	aux	_	_
 23	बा	बा	AUX	V_VAUX	_	21	aux	_	_
 24	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	34	acl	_	_
 25	बाहबाही	बाहबाही	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	34	nmod	_	_
@@ -4411,7 +4411,7 @@
 10	जेतना	जेतना	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	12	nmod	_	_
 11	लोग	लोग	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	compound	_	_
 12	चल	चल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-13	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	_
+13	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	_
 14	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	12	aux	_	_
 15	ओहमें	ओहम	DET	DM_DMD	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	17	det	_	_
 16	ऊहो	ऊहो	PRON	PR_PRP	Number=Sing|Voice=Act	17	amod	_	_
@@ -4634,7 +4634,7 @@
 5	जवन	जवन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	_
 6	काम	काम	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	nsubj	_	_
 7	हो	हो	VERB	V_VM	_	0	root	_	_
-8	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	aux	_	_
+8	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	aux	_	_
 9	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	7	aux	_	_
 10	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	16	nmod	_	_
 11	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	10	case	_	_
@@ -4800,7 +4800,7 @@
 6	अइसने	अइसने	NOUN	N_NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	7	amod	_	_
 7	खुरचाली	खुरचाली	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	_
 8	हो	हो	VERB	V_VM	_	0	root	_	_
-9	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	aux	_	_
+9	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	aux	_	_
 10	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	8	aux	_	SpacesAfter=\s\s
 11	।	।	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
 
@@ -5606,7 +5606,7 @@
 11	में	में	ADP	PSP	AdpType=Post	10	case	_	_
 12	विश्व	विश्व	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
 13	नेता	ने	VERB	V_VM	Case=Nom|Gender=Masc|Number=Plur|Person=3	2	ccomp	_	_
-14	रहल	रहल	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	aux	_	_
+14	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	aux	_	_
 15	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	13	aux	_	_
 16	।	।	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
 
