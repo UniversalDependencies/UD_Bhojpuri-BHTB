@@ -5003,7 +5003,7 @@
 10	के	को	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	9	case	_	_
 11	गीत	गीत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	compound	_	_
 12	उठावे	उठावे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-13	पड़	पड	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	_
+13	पड़	पड़	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	_
 14	जाला	जाला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	SpacesAfter=\s\s
 15	।	।	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
