@@ -1306,7 +1306,7 @@
 15	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	14	case	_	_
 16	अपेक्षा	अपेक्षा	NOUN	N_NN	Case=Acc|Gender=Fem	14	case	_	_
 17	कर	कर	VERB	V_VM	_	0	root	_	_
-18	सकेनी	सके	AUX	V_VAUX	Gender=Fem|Number=Sing|VerbForm=Inf	17	aux	_	_
+18	सकेनी	सक	AUX	V_VAUX	Gender=Fem|Number=Sing|VerbForm=Inf	17	aux	_	_
 19	जा	जा	AUX	V_VAUX	_	17	aux	_	_
 20	।	।	PUNCT	RD_PUNC	_	17	punct	_	_
 
@@ -1331,7 +1331,7 @@
 10	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	compound	_	_
 11	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 12	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	aux	_	_
-13	सकेला	सकेला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	aux	_	_
+13	सकेला	सक	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	aux	_	_
 14	कि	कि	SCONJ	CC_CCS	_	19	mark	_	_
 15	पूरा	पूरा	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	16	amod	_	_
 16	मुल्के	मुल्का	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	19	nmod	_	_
@@ -2905,7 +2905,7 @@
 4	अढ़ाई	अढ़ा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	_
 5	दशक	दशक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	_
 6	पहिले	पहिला	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	7	nmod	_	_
-7	हृदयाघात	हृदयाघात	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Plur|Person=3	9	nmod	_	_
+7	हृदयाघात	हृदयाघात	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	9	nmod	_	_
 8	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	7	case	_	_
 9	हरु	हरु	NOUN	N_NST	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nmod	_	_
 10	पटे	पटा	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	9	case	_	_
@@ -3241,9 +3241,9 @@
 14	आइल	आइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	xcomp	_	_
 15	आ	आ	AUX	V_VM	_	14	aux	_	_
 16	बचपनवाला	बचपन	NOUN	N_NN	_	23	obl	_	_
-17	स्टाइल	स्टाइल	AUX	V_VAUX	Foreign=Yes	16	aux	_	_
+17	स्टाइल	स्टाइल	X	RD_RDF	Foreign=Yes	16	fixed	_	_
 18	में	में	ADP	PSP	AdpType=Post	16	case	_	_
-19	मुक्का	मुक्क	PRON	PR_PRP	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part|Voice=Act	23	compound	_	_
+19	मुक्का	मुक्क	PRON	PR_PRP	_	23	compound	_	_
 20	-	-	PUNCT	RD_PUNC	_	23	punct	_	_
 21	मुक्की	मुक्की	ADJ	JJ	_	23	compound	_	_
 22	शुरू	शुरू	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	compound	_	_
@@ -3843,10 +3843,10 @@
 # sent_id = f2-67
 # text = हमरा आजु तक ना बुझाइल कि हमनी का खाली टिप्पणिए देबे खातिर पैदा भइल बानी जा कि कुछु करबो करबि जा ।
 1	हमरा	हमर	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	2	compound	_	_
-2	आजु	आजु	DET	QT_QTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	3	det	_	_
-3	तक	तक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
-4	ना	ना	VERB	V_VM	_	0	root	_	_
-5	बुझाइल	बुझाइल	AUX	V_VAUX	_	4	aux	_	_
+2	आजु	आजु	DET	QT_QTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	5	det	_	_
+3	तक	तक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
+4	ना	ना	PART	RP_NEG	_	5	compound	_	_
+5	बुझाइल	बुझाइल	VERB	V_VM	_	0	root	_	_
 6	कि	कि	SCONJ	CC_CCS	_	14	mark	_	_
 7	हमनी	हमनी	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	nmod	_	_
 8	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	7	case	_	_
@@ -3855,7 +3855,7 @@
 11	देबे	देबा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	14	compound	_	_
 12	खातिर	खातिर	ADP	PSP	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
 13	पैदा	पैदा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
-14	भइल	भइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	ccomp	_	_
+14	भइल	भइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	ccomp	_	_
 15	बानी	बानी	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	14	aux	_	_
 16	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	aux	_	_
 17	कि	कि	SCONJ	CC_CCS	_	20	mark	_	_
@@ -4585,7 +4585,7 @@
 44	करबि	करबि	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	45	compound	_	_
 45	तब	तब	NOUN	N_NST	Case=Nom|PronType=Prs	60	nmod	_	_
 46	)	)	PUNCT	RD_SYM	_	60	punct	_	_
-47	नाहीं	नाह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	60	acl	_	_
+47	नाहीं	ना	PART	RP_NEG	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	60	acl	_	_
 48	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	49	compound	_	_
 49	रफी	रफी	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	60	nsubj	_	_
 50	,	COMMA	PUNCT	RD_PUNC	_	51	punct	_	_
