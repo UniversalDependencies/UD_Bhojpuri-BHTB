@@ -981,7 +981,7 @@
 36	बारे	बारे	NOUN	N_NN	AdpType=Post	34	case	_	_
 37	में	में	ADP	PSP	AdpType=Post	34	case	_	_
 38	प्रयासरत	प्रयासरत	NOUN	N_NN	_	39	compound	_	SpacesAfter=\n
-39	रहेले	रहेला	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	13	acl	_	_
+39	रहेले	रह	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	13	acl	_	_
 40	।	।	PUNCT	RD_PUNC	_	13	punct	_	_
 
 # sent_id = f1-33
@@ -1496,7 +1496,7 @@
 20	हर	हर	DET	QT_QTF	PronType=Ind	21	det	_	_
 21	साल	साल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	22	obl	_	SpacesAfter=\n
 22	आवत	आवत	VERB	V_VM	_	13	acl	_	_
-23	रहेले	रहेला	AUX	V_VAUX	_	22	aux	_	_
+23	रहेले	रह	AUX	V_VAUX	_	22	aux	_	_
 24	।	।	PUNCT	RD_PUNC	_	13	punct	_	_
 
 # sent_id = f1-54
@@ -1639,7 +1639,7 @@
 8	फजीहत	फजीहत	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	10	obl	_	_
 9	से	से	ADP	PSP	AdpType=Post	8	case	_	_
 10	भइल	भइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
-11	रहुवे	रहुवे	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3|Polite=Form|PronType=Prs	10	aux	_	_
+11	रहुवे	रह	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3|Polite=Form|PronType=Prs	10	aux	_	_
 12	उहो	उहो	PRON	PR_PRP	Number=Sing|Voice=Act	14	acl	_	_
 13	लोग	लोग	NUM	RP_CL	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	flat	_	_
 14	एही	एही	DET	DM_DMD	Case=Acc|Gender=Fem|Number=Sing|Person=3	16	det	_	_
@@ -1776,7 +1776,7 @@
 18	दोकान	दोकान	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	31	nmod	_	_
 19	से	से	ADP	PSP	AdpType=Post	18	case	_	_
 20	आइल	आइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	10	xcomp	_	_
-21	रहुवे	रहुवे	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	aux	_	_
+21	रहुवे	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	aux	_	_
 22	ओह	ओह	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	compound	_	_
 23	दोकान	दोकान	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	26	nmod	_	_
 24	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	23	case	_	_
@@ -2579,7 +2579,7 @@
 11	दरपन	दरपन	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Plur|Person=3	13	compound	_	_
 12	बतावत	बतावत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
 13	कहले	कहला	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	18	nmod	_	_
-14	रहलीं	रहल	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	13	aux	_	_
+14	रहलीं	रह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	13	aux	_	_
 15	-	-	PUNCT	RD_SYM	_	13	punct	_	_
 16	”	”	PUNCT	RD_PUNC	_	13	punct	_	_
 17	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	13	case	_	_
@@ -3391,7 +3391,7 @@
 1	ऊ	ऊ	PRON	PR_PRP	Case=Nom	2	amod	_	_
 2	जापान	जापान	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
 3	गइल	जा	VERB	V_VM	_	0	root	_	_
-4	रहन	रहन	AUX	V_VAUX	_	3	aux	_	SpacesAfter=\s\s
+4	रहन	रह	AUX	V_VAUX	_	3	aux	_	SpacesAfter=\s\s
 5	।	।	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = f2-46
@@ -3679,7 +3679,7 @@
 11	मोबाइल	मोबाइल	NOUN	N_NN	_	12	nmod	_	_
 12	ऑन	ऑन	VERB	V_VM	_	5	xcomp	_	_
 13	ना	ना	PART	RP_NEG	_	12	compound	_	_
-14	रहत	रहत	AUX	V_VAUX	_	12	aux	_	_
+14	रहत	रह	AUX	V_VAUX	_	12	aux	_	_
 15	रहे	रह	AUX	V_VAUX	_	12	aux	_	_
 16	,	,	PUNCT	RD_PUNC	_	12	punct	_	_
 17	ढेर	ढेर	PART	QT_QTF	_	21	nmod	_	_
@@ -5241,7 +5241,7 @@
 7	रहे	रह	AUX	V_VAUX	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part	9	nsubj	_	_
 8	के	कर	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	7	case	_	_
 9	पड़त	पड़त	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
-10	रहुवे	रहुवे	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3|Polite=Form|PronType=Prs	9	aux	_	_
+10	रहुवे	रह	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3|Polite=Form|PronType=Prs	9	aux	_	_
 11	कि	कि	SCONJ	CC_CCS	_	18	mark	_	_
 12	केनियो	केनियो	PROPN	N_NNP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	18	nmod	_	_
 13	से	से	ADP	PSP	AdpType=Post	12	case	_	_
