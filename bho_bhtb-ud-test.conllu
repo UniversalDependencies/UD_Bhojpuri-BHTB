@@ -1380,7 +1380,7 @@
 25	बिआह	बिआह	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	26	compound	_	_
 26	करे	कर	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	12	obj	_	_
 27	जात	जा	AUX	V_VAUX	Case=Acc	28	amod	_	_
-28	बाड़ी	बाडी	VERB	V_VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	0	root	_	_
+28	बाड़ी	बा	VERB	V_VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	0	root	_	_
 29	।	।	PUNCT	RD_PUNC	_	28	punct	_	_
 
 # sent_id = f1-48
@@ -1403,7 +1403,7 @@
 16	बिआह	बिआह	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	compound	_	_
 17	करे	कर	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	19	advcl	_	_
 18	जात	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Plur|Person=3	19	obj	_	_
-19	बाड़ी	बाडी	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	21	acl	_	_
+19	बाड़ी	बा	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	21	acl	_	_
 20	कि	कि	SCONJ	CC_CCS	_	21	mark	_	_
 21	बड़	बड़	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	obl	_	_
 22	से	से	ADP	PSP	AdpType=Post	21	case	_	_
@@ -1669,7 +1669,7 @@
 3	त	त	PART	RP_RPD	_	4	compound	_	_
 4	बिआहे	बिआह	NOUN	N_NN	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	5	obj	_	_
 5	भरोसे	भरोसा	VERB	V_VM	Case=Acc|Gender=Masc|Number=Plur|Person=3|PronType=Dem	0	root	_	_
-6	बाड़ी	बाडी	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	aux	_	_
+6	बाड़ी	बा	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	aux	_	_
 7	सँ	सँ	PART	RP_RPD	Case=Nom|PronType=Prs	6	goeswith	_	_
 8	।	।	PUNCT	RD_PUNC	_	5	punct	_	_
 
@@ -3336,7 +3336,7 @@
 12	के	के	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	11	case	_	_
 13	का	के	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	11	case	_	_
 14	कहल	कहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-15	जाउ	जाउ	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	aux	_	_
+15	जाउ	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	aux	_	_
 16	?	-	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\s\n
 
 # sent_id = f2-42
@@ -3726,7 +3726,7 @@
 16	ले	ले	VERB	V_VM	_	28	acl	_	_
 17	आइल	आइल	AUX	V_VAUX	_	16	aux	_	_
 18	जा	जा	AUX	V_VAUX	_	16	aux	_	_
-19	सकता	सकता	AUX	V_VAUX	_	16	aux	_	_
+19	सकता	सक	AUX	V_VAUX	_	16	aux	_	_
 20	,	COMMA	PUNCT	RD_PUNC	_	16	punct	_	_
 21	संसार	संसार	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	24	nmod	_	_
 22	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	21	case	_	_
@@ -3739,7 +3739,7 @@
 29	छुटकारा	छुटकारा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	nmod	_	_
 30	पावल	पावल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	ccomp	_	_
 31	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	aux	_	_
-32	सकता	सकता	AUX	V_VAUX	Case=Acc|Gender=Masc|Number=Sing|Person=3	30	aux	_	_
+32	सकता	सक	AUX	V_VAUX	Case=Acc|Gender=Masc|Number=Sing|Person=3	30	aux	_	_
 33	,	COMMA	PUNCT	RD_PUNC	_	30	punct	_	_
 34	ढंग	ढंग	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	37	nmod	_	_
 35	से	से	ADP	PSP	AdpType=Post	34	case	_	_
@@ -3879,7 +3879,7 @@
 10	रंग	रंग	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nmod	_	_
 11	जे	जे	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	det	_	_
 12	कीन	कीन	VERB	V_VM	_	31	obj	_	_
-13	सकता	सकता	AUX	V_VAUX	_	12	aux	_	_
+13	सकता	सक	AUX	V_VAUX	_	12	aux	_	_
 14	,	COMMA	PUNCT	RD_PUNC	_	31	punct	_	_
 15	ऊ	ऊ	PRON	PR_PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	iobj	_	_
 16	दू	दू	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	nummod	_	_
