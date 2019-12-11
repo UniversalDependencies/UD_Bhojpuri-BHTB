@@ -828,7 +828,7 @@
 1	आजु	आजु	DET	N_NST	_	2	det	_	_
 2	दिल्ली	दिल्ली	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	csubj	_	_
 3	में	में	ADP	PSP	AdpType=Post	2	case	_	_
-4	लागी	लागी	VERB	V_VM	Case=Acc|Gender=Fem|Number=Sing	54	xcomp	_	_
+4	लागी	लग	VERB	V_VM	Case=Acc|Gender=Fem|Number=Sing	54	xcomp	_	_
 5	भोजपुरियन	भोजपुरियन	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing|Person=3	7	amod	_	_
 6	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	5	case	_	_
 7	जमावड़ा	जमावड़ा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	nmod	_	SpacesAfter=\n
@@ -4496,7 +4496,7 @@
 13	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	obl	_	_
 14	हमरा	हमार	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	nmod	_	_
 15	काहें	काह	VERB	V_VM	_	37	acl	_	_
-16	लागी	लागी	AUX	V_AUX	_	15	aux	_	_
+16	लागी	लग	AUX	V_AUX	_	15	aux	_	_
 17	,	COMMA	PUNCT	RD_PUNC	_	15	punct	_	_
 18	बाकिर	बाकिर	CCONJ	CC_CCD	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	conj	_	_
 19	एक	एक	NUM	QT_QTC	NumType=Card	22	nummod	_	_
@@ -4858,7 +4858,7 @@
 4	से	से	ADP	PSP	AdpType=Post	3	case	_	_
 5	दूर	दूर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	_
 6	जाए	जाया	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	21	nsubj	_	_
-7	लगीहें	लगीह	AUX	V_VAUX	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	aux	_	_
+7	लगीहें	लग	AUX	V_VAUX	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	6	aux	_	_
 8	आ	आ	CCONJ	CC_CCD	_	6	conj	_	_
 9	अपना	अपना	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	11	nmod	_	_
 10	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	9	case	_	_
@@ -5090,7 +5090,7 @@
 17	जी	जी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	compound	_	_
 18	लुकारी	लुकार	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	19	compound	_	_
 19	भाँजे	भाँज	VERB	V_VM	_	0	root	_	_
-20	लगीहें	लगीह	AUX	V_VAUX	Number=Sing|Person=2|Polite=Form	19	aux	_	SpacesAfter=\s\s
+20	लगीहें	लग	AUX	V_VAUX	Number=Sing|Person=2|Polite=Form	19	aux	_	SpacesAfter=\s\s
 21	।	।	PUNCT	RD_PUNC	_	19	punct	_	SpacesAfter=\n
 
 # sent_id = f2-125
