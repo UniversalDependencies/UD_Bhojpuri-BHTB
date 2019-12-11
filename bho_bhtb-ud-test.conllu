@@ -889,7 +889,7 @@
 4	बजे	बज	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	31	obl	_	_
 5	से	से	ADP	PSP	AdpType=Post	4	case	_	_
 6	शुरु	शुरु	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-7	होखी	होखा	AUX	V_VAUX	Case=Acc|Gender=Fem|Number=Sing	6	aux	_	_
+7	होखी	हो	AUX	V_VAUX	Case=Acc|Gender=Fem|Number=Sing	6	aux	_	_
 8	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	31	det	_	_
 9	में	में	ADP	PSP	AdpType=Post	8	case	_	_
 10	इन्टरनेट	इन्टरनेट	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	_
@@ -903,7 +903,7 @@
 18	परिचर्चा	परिचर्चा	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	31	obl	_	_
 19	से	से	ADP	PSP	AdpType=Post	18	case	_	_
 20	शुरुआत	शुरुआत	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	compound	_	_
-21	होखी	होखा	VERB	V_VM	Case=Acc|Gender=Fem|Number=Sing	22	amod	_	_
+21	होखी	हो	VERB	V_VM	Case=Acc|Gender=Fem|Number=Sing	22	amod	_	_
 22	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	31	det	_	_
 23	में	में	ADP	PSP	AdpType=Post	22	case	_	_
 24	देश	देश	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	compound	_	_
@@ -924,7 +924,7 @@
 4	सांस्कृतिक	सांस्कृतिक	ADJ	JJ	Case=Acc	3	amod	_	_
 5	कार्यक्रम	कार्यक्रम	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	7	obl	_	_
 6	से	से	ADP	PSP	AdpType=Post	5	case	_	_
-7	होखी	होखा	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	8	acl	_	_
+7	होखी	हो	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part	8	acl	_	_
 8	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	obl	_	_
 9	में	में	ADP	PSP	AdpType=Post	8	case	_	_
 10	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	nmod	_	_
