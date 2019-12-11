@@ -875,7 +875,7 @@
 48	भोजपुरियन	भोजपुरियन	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	51	nmod	_	_
 49	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	48	case	_	_
 50	शामिल	शामिल	NOUN	N_NN	Case=Acc	51	amod	_	_
-51	होखे	होखा	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	53	nmod	_	_
+51	होखे	हो	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	53	nmod	_	_
 52	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	51	case	_	_
 53	उमेद	उमेद	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	54	obj	_	_
 54	बा	बा	VERB	V_VM	Gender=Masc|Number=Plur|Person=3|Voice=Act	0	root	_	_
@@ -2074,7 +2074,7 @@
 8	चोपड़ा	चोपडा	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	_
 9	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	8	case	_	_
 10	बिआह	बिआह	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	11	obj	_	_
-11	होखे	होखा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	_
+11	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	_
 12	तकले	तकल	SCONJ	CC_CC	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	11	conj	_	_
 13	इंतजार	इंतजार	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
 14	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	ccomp	_	_
@@ -2089,7 +2089,7 @@
 4	जीयल	जीयल	NOUN	N_NN	Case=Acc	7	nsubj	_	_
 5	आसान	आसान	ADJ	JJ	_	6	amod	_	_
 6	ना	ना	PART	RP_NEG	_	7	obj	_	_
-7	होखे	होखा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	_
+7	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	_
 8	।	।	PUNCT	RD_PUNC	_	7	punct	_	_
 
 # sent_id = f1-88
@@ -2377,7 +2377,7 @@
 5	जीयल	जीयल	NOUN	N_NN	Case=Acc	8	iobj	_	_
 6	आसान	आसान	ADJ	JJ	_	8	obj	_	_
 7	ना	ना	PART	RP_NEG	_	8	obl	_	_
-8	होखे	होखा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	_
+8	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	_
 9	।	।	PUNCT	RD_PUNC	_	8	punct	_	_
 
 # newdoc
@@ -4335,7 +4335,7 @@
 6	सरकारी	सरकारी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	_
 7	फरमानो	फरमानो	DET	DM_DMI	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	_
 8	जारी	जारी	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	9	compound	_	_
-9	होखे	होखा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	12	xcomp	_	_
+9	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	12	xcomp	_	_
 10	लागल	लागल	AUX	V_VAUX	_	9	aux	_	_
 11	बा	बा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
 12	आउर	आउर	CCONJ	CC_CCD	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	obl	_	_
@@ -4356,7 +4356,7 @@
 1	कहीं	कह	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	24	compound	_	_
 2	अइसन	अइसन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
 3	मत	मत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
-4	होखे	होखा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	24	nmod	_	_
+4	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	24	nmod	_	_
 5	कि	कि	SCONJ	CC_CCS	_	24	mark	_	_
 6	एंटीबायोटिक	एंटीबायोटिक	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
 7	का	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	6	case	_	_
@@ -4672,7 +4672,7 @@
 21	ब्लू	ब्लू	PRON	PR_PRI	Case=Nom	24	compound	_	_
 22	फिलिम	फिलिम	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	24	compound	_	_
 23	चलावत	चलावत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	compound	_	_
-24	होखे	होखा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	48	obl	_	_
+24	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	48	obl	_	_
 25	,	COMMA	PUNCT	RD_PUNC	_	24	punct	_	_
 26	भा	भा	CCONJ	CC_CCD	Case=Nom|Gender=Masc|Number=Sing|Person=3	27	compound	_	_
 27	ठेंठ	ठेंठ	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	compound	_	_
@@ -4686,7 +4686,7 @@
 35	के	को	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	34	case	_	_
 36	यथार्थ	यथार्थ	NOUN	N_NN	_	38	compound	_	_
 37	परोसत	परोसत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	38	compound	_	_
-38	होखे	होखा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	24	conj	_	_
+38	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	24	conj	_	_
 39	,	,	PUNCT	RD_PUNC	_	24	punct	_	_
 40	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	41	obl	_	_
 41	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	48	obl	_	_
@@ -4732,7 +4732,7 @@
 5	खतम	खतम	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	compound	_	_
 6	करे	कर	VERB	V_VM	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	8	nmod	_	_
 7	के	के	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3|Polite=Form	6	case	_	_
-8	होखे	होखा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	16	acl	_	_
+8	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	16	acl	_	_
 9	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	obl	_	_
 10	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	16	acl	_	_
 11	नाभि	नाभि	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
@@ -4986,7 +4986,7 @@
 6	कइल	कइल	AUX	V_VAUX	Foreign=Yes	5	aux	_	_
 7	आसान	आसान	ADJ	JJ	_	9	compound	_	_
 8	ना	ना	PART	RP_NEG	_	9	compound	_	_
-9	होखे	होखा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\s\s
+9	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\s\s
 10	।	।	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = f2-119
@@ -5032,7 +5032,7 @@
 8	त	त	PART	RP_RPD	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	compound	_	_
 9	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	14	acl	_	_
 10	गलत	गलत	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	compound	_	_
-11	होखे	होखा	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	nmod	_	_
+11	होखे	हो	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	nmod	_	_
 12	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	11	case	_	_
 13	पूरा	पूरा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	14	amod	_	_
 14	अनेसा	अनेसा	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
@@ -5059,7 +5059,7 @@
 # text = अब जवन होखे के बा तवन काल्हु सामने आइए जाई ।
 1	अब	अब	DET	N_NST	Case=Nom|PronType=Prs	9	acl	_	_
 2	जवन	जवन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
-3	होखे	होखा	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	xcomp	_	_
+3	होखे	हो	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	xcomp	_	_
 4	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	mark	_	_
 5	बा	बा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	aux	_	_
 6	तवन	तवन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	det	_	_
@@ -5468,7 +5468,7 @@
 12	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	15	nmod	_	_
 13	जगहा	जगहा	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	compound	_	_
 14	ना	ना	PART	RP_NEG	Case=Acc|Gender=Fem|Number=Sing|Person=3	15	compound	_	_
-15	होखे	होखा	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	nmod	_	_
+15	होखे	हो	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	nmod	_	_
 16	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	15	case	_	_
 17	चाहीं	चाह	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	3	ccomp	_	_
 18	।	।	PUNCT	RD_PUNC	_	17	punct	_	SpacesAfter=\n
