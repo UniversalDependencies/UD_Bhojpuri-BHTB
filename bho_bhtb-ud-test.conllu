@@ -3949,7 +3949,7 @@
 17	से	से	ADP	PSP	AdpType=Post	16	case	_	_
 18	काहें	काह	DET	DM_DMD	Case=Acc,Dat|Number=Sing|Person=1|PronType=Prs	20	det	_	_
 19	रङा	रङा	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	20	compound	_	_
-20	जाला	जाला	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
+20	जाला	जा	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
 21	?	।	PUNCT	RD_PUNC	_	20	punct	_	SpacesAfter=\s\n
 
 # sent_id = f2-72
@@ -4778,16 +4778,16 @@
 10	नाम	नाम	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
 11	प	प	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	nmod	_	_
 12	लगावल	लगावल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	compound	_	_
-13	जाला	जाला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	nmod	_	_
+13	जाला	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	nmod	_	_
 14	,	COMMA	PUNCT	RD_PUNC	_	13	punct	_	_
 15	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	21	nmod	_	_
 16	के	के	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	15	case	_	_
 17	सुधारे	सुधारा	DET	QT_QTF	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	compound	_	_
 18	सभ्य	सभ्य	ADJ	JJ	Case=Nom	19	amod	_	_
-19	बनावे	बनावे	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	nmod	_	_
-20	खाति	खाति	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	21	compound	_	_
+19	बनावे	बन	VERB	V_VM	_	21	nmod	_	_
+20	खाति	खाति	ADP	PSP	_	21	compound	_	_
 21	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-22	जाला	जाला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	aux	_	SpacesAfter=\s\s
+22	जाला	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	aux	_	SpacesAfter=\s\s
 23	।	।	PUNCT	RD_PUNC	_	21	punct	_	SpacesAfter=\n
 
 # sent_id = f2-108
@@ -4827,7 +4827,7 @@
 19	खुरचाली	खुरचाली	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	24	nmod	_	_
 20	में	में	ADP	PSP	AdpType=Post	19	case	_	_
 21	श्लील	श्लील	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	22	compound	_	_
-22	बनावे	बनावे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	compound	_	_
+22	बनावे	बन	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	compound	_	_
 23	प	प	ADJ	JJ	_	24	amod	_	_
 24	लागल	लागल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 25	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	24	aux	_	SpacesAfter=\s\s
@@ -5004,7 +5004,7 @@
 11	गीत	गीत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	compound	_	_
 12	उठावे	उठावे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 13	पड़	पड़	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	_
-14	जाला	जाला	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	SpacesAfter=\s\s
+14	जाला	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	aux	_	SpacesAfter=\s\s
 15	।	।	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = f2-120
