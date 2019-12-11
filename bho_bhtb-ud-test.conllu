@@ -1469,7 +1469,7 @@
 10	छोट	छोट	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur|Person=3	13	amod	_	_
 11	ह	ह	VERB	V_VM	NumType=Card	0	root	_	_
 12	कि	कि	SCONJ	CC_CCS	_	10	conj	_	_
-13	बड़	बड	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
+13	बड़	बड़	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
 14	।	।	PUNCT	RD_PUNC	_	11	punct	_	_
 
 # sent_id = f1-53
@@ -1508,7 +1508,7 @@
 5	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	dep	_	_
 6	एके	एके	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	_
 7	बेर	बेर	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	obj	_	_
-8	होखी	होख	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	_
+8	होखी	हो	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	_
 9	।	।	PUNCT	RD_PUNC	_	8	punct	_	_
 
 # sent_id = f1-55
@@ -1522,7 +1522,7 @@
 7	सबले	सबला	PART	RP_INTF	AdpType=Post	8	case	_	_
 8	बड़का	बड़का	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
 9	इवेन्ट	इवेन्ट	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	compound	_	_
-10	बावे	बावे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+10	बावे	बा	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 11	।	।	PUNCT	RD_PUNC	_	10	punct	_	_
 
 # sent_id = f1-56
