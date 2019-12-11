@@ -5104,9 +5104,9 @@
 7	बाकि	बाकि	NUM	QT_QTO	_	8	nummod	_	_
 8	हम	हम	PRON	PR_PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nmod	_	_
 9	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	dep	_	_
-10	आजुए	आजुया	DET	N_NST	_	11	det	_	_
+10	आजुए	आजु	DET	N_NST	_	11	det	_	_
 11	झँउसि	झँउसि	VERB	V_VM	_	0	root	_	_
-12	जाइब	जाइब	AUX	V_VAUX	_	11	aux	_	SpacesAfter=\s\s
+12	जाइब	जा	AUX	V_VAUX	_	11	aux	_	SpacesAfter=\s\s
 13	।	।	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
 
 # sent_id = f2-126
