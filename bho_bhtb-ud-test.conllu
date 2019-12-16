@@ -2273,7 +2273,7 @@
 10	कुछ	कुछ	DET	QT_QTF	PronType=Ind	11	det	_	SpacesAfter=\n
 11	ना	ना	PART	RP_NEG	_	12	compound	_	_
 12	उखाड़	उखाड	VERB	V_VM	Number=Sing|Person=3|Polite=Form	0	root	_	_
-13	पवलें	पवल	AUX	V_VAUX	Number=Sing|Person=2|Polite=Form	12	aux	_	_
+13	पवलें	पा	AUX	V_VAUX	Number=Sing|Person=2|Polite=Form	12	aux	_	_
 14	।	।	PUNCT	RD_PUNC	_	12	punct	_	_
 
 # sent_id = f1-98
@@ -4010,8 +4010,8 @@
 6	में	में	ADP	PSP	AdpType=Post	5	case	_	_
 7	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	_
 8	नीमन	नीमन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	_	_
-9	ना	ना	VERB	V_VM	_	10	compound	_	_
-10	कहाई	कहा	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	20	acl	_	_
+9	ना	ना	PART	RP_RPD	_	10	compound	_	_
+10	कहाई	कहा	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	20	acl	_	_
 11	कि	कि	SCONJ	CC_CCS	_	20	mark	_	_
 12	लेखको	लेखको	PROPN	N_NNP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	14	nmod	_	_
 13	लोग	लोग	NUM	RP_CL	Case=Nom|Gender=Masc|Number=Plur|Person=3	14	compound	_	_
@@ -4127,7 +4127,7 @@
 
 # sent_id = f2-78
 # text = बताईं ईहे लेखक के धर्म हटे ?
-1	बताईं	बता	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	6	nsubj	_	_
+1	बताईं	बता	VERB	V_VM	_	6	nsubj	_	_
 2	ईहे	ईह	PRON	PR_PRQ	_	3	compound	_	_
 3	लेखक	लेखक	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
 4	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	3	case	_	_
