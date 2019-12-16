@@ -1928,11 +1928,11 @@
 1	ऊ	ऊ	PRON	PR_PRP	Case=Nom|Number=Sing	2	amod	_	_
 2	चैनल	चैनल	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	amod	_	_
 3	चीफ	चीफ	NOUN	N_NN	Case=Acc	4	nmod	_	_
-4	चहक	चहक	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
-5	के	के	VERB	V_VM	_	18	discourse	_	_
-6	बोलल	बोलल	AUX	V_VAUX	_	5	aux	_	_
-7	–	–	PUNCT	RD_SYM	_	5	punct	_	_
-8	चलीं	चल	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	11	aux	_	_
+4	चहक	चहक	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
+5	के	के	ADP	PSP	_	4	case	_	_
+6	बोलल	बोलल	VERB	V_VM	_	12	discourse	_	_
+7	–	–	PUNCT	RD_SYM	_	6	punct	_	_
+8	चलीं	चल	VERB	V_VM	_	6	compound	_	_
 9	अब	अब	NOUN	N_NST	Case=Nom|PronType=Prs	12	obl	_	_
 10	रउरो	रउरो	PRON	PR_PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
 11	कन्फर्म	कन्फर्म	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	nmod	_	_
@@ -3252,7 +3252,7 @@
 
 # sent_id = f2-36
 # text = जसहीं जगह पर छुआइल कि ओकरा मुँह से निकलल - आरे तोर किडनी ?
-1	जसहीं	जसह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	4	acl	_	_
+1	जसहीं	जसह	NOUN	N_NST	_	4	acl	_	_
 2	जगह	जगह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	4	obl	_	_
 3	पर	पर	ADP	PSP	AdpType=Post	2	case	_	_
 4	छुआइल	छुआइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
@@ -3466,7 +3466,7 @@
 6	जाइत	जाइत	VERB	V_VM	_	17	obj	_	_
 7	कि	कि	SCONJ	CC_CCS	_	6	cc	_	_
 8	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	17	acl	_	_
-9	पहिलहीं	पहिलह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	17	acl	_	_
+9	पहिलहीं	पहिलह	NOUN	N_NST	_	17	acl	_	_
 10	ओकर	ओकर	DET	DM_DMD	_	11	compound	_	_
 11	स्टेशन	स्टेशन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	_	_
 12	आ	आ	CCONJ	CC_CCD	_	17	advcl	_	_
