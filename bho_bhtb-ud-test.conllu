@@ -380,7 +380,7 @@
 88	कइला	कइला	VERB	V_VM	Case=Acc|Gender=Fem|Number=Sing|Person=3	90	nmod	_	_
 89	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	88	case	_	SpacesAfter=\n
 90	सराहना	सराहना	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing	91	compound	_	_
-91	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
+91	कइल	कर	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	_
 92	गइल	जा	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	91	aux	_	_
 93	।	।	PUNCT	RD_PUNC	_	91	punct	_	_
 
@@ -487,7 +487,7 @@
 28	एगो	एगो	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	clf	_	_
 29	बड़हन	बड़हन	ADJ	JJ	_	30	amod	_	_
 30	आन्दोलन	आन्दोलन	NOUN	N_NN	_	31	obj	_	_
-31	खड़ा	खडा	VERB	V_VM	Gender=Masc|Number=Sing	35	xcomp	_	_
+31	खड़ा	खड़ा	VERB	V_VM	Gender=Masc|Number=Sing	35	xcomp	_	_
 32	कइला	कइला	AUX	V_VAUX	Case=Acc|Gender=Fem|Number=Sing|Person=3	31	aux	_	_
 33	के	को	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	31	case	_	_
 34	जरूरत	जरूरत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	35	compound	_	_
@@ -861,7 +861,7 @@
 34	कार्यक्रम	कार्यक्रम	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	36	nmod	_	_
 35	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	34	case	_	_
 36	आयोजन	आयोजन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	37	compound	_	_
-37	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	40	xcomp	_	_
+37	कइल	कर	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	40	xcomp	_	_
 38	गइल	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	37	aux	_	_
 39	बा	बा	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	37	aux	_	SpacesAfter=\n
 40	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	54	obl	_	_
@@ -1786,7 +1786,7 @@
 28	इन्टरव्यू	इन्टरव्यू	NOUN	N_NN	Case=Nom	31	nmod	_	_
 29	कइसे	कयह	PRON	PR_PRQ	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	31	nmod	_	_
 30	हासिल	हासिल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	31	compound	_	SpacesAfter=\n
-31	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	ccomp	_	_
+31	कइल	कर	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	ccomp	_	_
 32	जाव	जा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	31	aux	_	_
 33	?	?	PUNCT	RD_PUNC	_	10	punct	_	_
 
@@ -2077,7 +2077,7 @@
 11	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	_
 12	तकले	तकल	SCONJ	CC_CC	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part	11	conj	_	_
 13	इंतजार	इंतजार	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
-14	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	ccomp	_	_
+14	कइल	कर	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	ccomp	_	_
 15	जाव	जा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	14	aux	_	_
 16	।	।	PUNCT	RD_PUNC	_	11	punct	_	_
 
@@ -4786,7 +4786,7 @@
 18	सभ्य	सभ्य	ADJ	JJ	Case=Nom	19	amod	_	_
 19	बनावे	बन	VERB	V_VM	_	21	nmod	_	_
 20	खाति	खाति	ADP	PSP	_	21	compound	_	_
-21	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+21	कइल	कर	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 22	जाला	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	21	aux	_	SpacesAfter=\s\s
 23	।	।	PUNCT	RD_PUNC	_	21	punct	_	SpacesAfter=\n
 
@@ -4982,8 +4982,8 @@
 2	हप्ता	हप्ता	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
 3	एगो	एगो	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
 4	खम्भा	खम्भा	CCONJ	CC_CCD	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	_
-5	खड़ा	खडा	VERB	V_VM	Gender=Masc|Number=Sing	9	xcomp	_	_
-6	कइल	कइल	AUX	V_VAUX	Foreign=Yes	5	aux	_	_
+5	खड़ा	खड़ा	VERB	V_VM	Gender=Masc|Number=Sing	9	xcomp	_	_
+6	कइल	कर	AUX	V_VAUX	_	5	aux	_	_
 7	आसान	आसान	ADJ	JJ	_	9	compound	_	_
 8	ना	ना	PART	RP_NEG	_	9	compound	_	_
 9	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\s\s
@@ -5316,7 +5316,7 @@
 14	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	13	case	_	_
 15	अश्लीलता	अश्लीलता	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	compound	_	_
 16	खतम	खतम	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	compound	_	_
-17	कइल	कइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	obj	_	_
+17	कइल	कर	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	obj	_	_
 18	चाहत	चाहत	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 19	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	18	aux	_	SpacesAfter=\s\s
 20	।	।	PUNCT	RD_PUNC	_	18	punct	_	SpacesAfter=\n
@@ -5483,7 +5483,7 @@
 6	तरह	तरह	ADP	PSP	AdpType=Post	5	case	_	_
 7	से	से	ADP	PSP	AdpType=Post	5	case	_	_
 8	पेश	पेश	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nmod	_	_
-9	कइल	कइल	VERB	V_VM	_	0	root	_	_
+9	कइल	कर	VERB	V_VM	_	0	root	_	_
 10	गइल	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
 11	ओहसे	ओहसे	DET	DM_DMD	_	12	det	_	_
 12	हमरा	हमर	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	nmod	_	_
