@@ -179,7 +179,7 @@
 18	भाव	भाव	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	20	nmod	_	_
 19	विभोर	विभोर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	18	compound	_	_
 20	क	क	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	26	xcomp	_	_
-21	दीहें	दीह	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Plur|Person=3	20	aux	_	_
+21	दीहें	दे	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Plur|Person=3	20	aux	_	_
 22	,	COMMA	PUNCT	RD_PUNC	_	20	punct	_	_
 23	अइसन	अइसन	DET	DM_DMR	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	nmod	_	_
 24	पूरा	पूरा	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	25	amod	_	SpacesAfter=\n
@@ -3751,7 +3751,7 @@
 41	केहू	केहू	PART	QT_QTF	Case=Nom|Number=Sing|Person=3	42	obl	_	_
 42	आत्महत्या	आत्महत्या	NOUN	N_NN	_	43	nmod	_	_
 43	ना	ना	VERB	V_VM	_	5	xcomp	_	_
-44	करी	करी	AUX	V_VAUX	_	43	aux	_	_
+44	करी	कर	AUX	V_VAUX	_	43	aux	_	_
 45	कबो	कबो	PRON	PR_PRI	_	42	obl	_	SpacesAfter=\s\s
 46	।	।	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
 
@@ -4909,7 +4909,7 @@
 7	भासा	भासा	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	obl	_	_
 8	में	में	ADP	PSP	AdpType=Post	7	case	_	_
 9	उठावल	उठावल	VERB	V_VM	_	17	xcomp	_	_
-10	करी	करी	AUX	V_VAUX	_	9	aux	_	_
+10	करी	कर	AUX	V_VAUX	_	9	aux	_	_
 11	ओकर	ओकर	DET	DM_DMD	_	12	compound	_	_
 12	आवाज	आवाज	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	nsubj	_	_
 13	केहु	केहु	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
