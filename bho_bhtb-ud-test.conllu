@@ -2361,7 +2361,7 @@
 3	जहाँ	जहाँ	NOUN	N_NST	Case=Acc|PronType=Prs	6	obl	_	_
 4	से	से	ADP	PSP	AdpType=Post	3	case	_	_
 5	शुरु	शुरु	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	compound	_	_
-6	कइले	कइल	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part	0	root	_	SpacesAfter=\n
+6	कइले	कर	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part	0	root	_	SpacesAfter=\n
 7	रहीं	रह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part	6	aux	_	_
 8	ओहिजे	ओहिजा	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	det	_	_
 9	लवटल	लवटल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	6	ccomp	_	_
@@ -2541,7 +2541,7 @@
 8	बटखरा	बटखरा	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	14	obl	_	_
 9	से	से	ADP	PSP	AdpType=Post	8	case	_	_
 10	वजन	वजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
-11	कइले	कइल	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part	14	obl	_	_
+11	कइले	कर	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|VerbForm=Part	14	obl	_	_
 12	अतने	अतने	ADP	PSP	AdpType=Post	11	case	_	_
 13	लाभ	लाभ	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
 14	हो	हो	VERB	V_VM	Voice=Act	0	root	_	_
@@ -3383,7 +3383,7 @@
 6	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	5	case	_	_
 7	अनुभव	अनुभव	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	_
 8	शेयर	शेयर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	_
-9	कइलीं	कइल	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\s\s
+9	कइलीं	कर	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\s\s
 10	।	।	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = f2-45
@@ -3538,7 +3538,7 @@
 3	महीना	महीना	NOUN	N_NN	_	2	compound	_	_
 4	पहिले	पहिल	NOUN	N_NST	_	2	amod	_	_
 5	आग्रह	आग्रह	VERB	V_VM	_	0	root	_	_
-6	कइले	कइल	AUX	V_VAUX	_	5	aux	_	_
+6	कइले	कर	AUX	V_VAUX	_	5	aux	_	_
 7	रहीं	रह	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part	5	aux	_	_
 8	खास	खास	ADJ	JJ	Case=Acc	9	amod	_	_
 9	करके	करके	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	amod	_	_
@@ -4243,7 +4243,7 @@
 10	आ	आ	CCONJ	CC_CCD	_	12	advcl	_	_
 11	परिचर्चो	परिचर्चो	NOUN	N_NN	_	12	nmod	_	_
 12	आयोजित	आयोजित	VERB	V_VM	_	0	root	_	_
-13	कइलीं	कइल	AUX	V_VAUX	_	12	aux	_	_
+13	कइलीं	कर	AUX	V_VAUX	_	12	aux	_	_
 14	।	।	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = f2-86
@@ -5497,7 +5497,7 @@
 20	हिसाब	हिसाब	ADV	RB	_	22	advmod	_	_
 21	से	से	ADP	PSP	AdpType=Post	20	case	_	_
 22	पेश	पेश	VERB	V_VM	_	9	xcomp	_	_
-23	कइले	कइल	AUX	V_VAUX	_	22	aux	_	_
+23	कइले	कर	AUX	V_VAUX	_	22	aux	_	_
 24	बा	बा	AUX	V_VAUX	_	22	aux	_	_
 25	।	।	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
