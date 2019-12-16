@@ -4973,7 +4973,7 @@
 12	कवन	कवन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	nsubj	_	_
 13	राग	राग	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	14	compound	_	_
 14	उठा	उठा	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	ccomp	_	_
-15	लिहलसि	लिहलसि	AUX	V_VAUX	_	14	aux	_	SpacesAfter=\s\s
+15	लिहलसि	ले	AUX	V_VAUX	_	14	aux	_	SpacesAfter=\s\s
 16	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f2-118
