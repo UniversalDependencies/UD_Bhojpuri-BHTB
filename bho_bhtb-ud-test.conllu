@@ -4194,7 +4194,7 @@
 6	लोगन	लोगन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	_
 7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	_
 8	भरोसा	भरोसा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	compound	_	_
-9	नइखे	नइखा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	_
+9	नइखे	ना	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	0	root	_	_
 10	हटल	हटल	AUX	V_VAUX	_	9	aux	_	SpacesAfter=\s\s
 11	।	।	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
