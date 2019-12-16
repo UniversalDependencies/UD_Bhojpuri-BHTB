@@ -71,7 +71,7 @@
 6	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	5	case	_	_
 7	नेह	नेह	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
 8	नेवता	नेव	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	compound	_	SpacesAfter=\n
-9	दीहल	दीहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
+9	दीहल	दे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 10	जा	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
 11	रहल	रह	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	_
 12	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	9	aux	_	_
@@ -1976,7 +1976,7 @@
 10	केहू	केहू	PRON	PR_PRI	Case=Nom	11	amod	_	_
 11	सउरदार	सउरदार	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	nsubj	_	_
 12	बता	बता	VERB	V_VM	Number=Sing|Person=3|Voice=Act	6	acl	_	_
-13	देला	देल	AUX	V_VAUX	Gender=Masc|Number=Sing	12	obj	_	_
+13	देला	दे	AUX	V_VAUX	Gender=Masc|Number=Sing	12	obj	_	_
 14	।	।	PUNCT	RD_PUNC	_	6	punct	_	_
 
 # sent_id = f1-81
@@ -2512,7 +2512,7 @@
 16	अच्छा	अच्छा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	_
 17	लागे	लागा	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	9	conj	_	_
 18	,	,	PUNCT	RD_PUNC	_	9	punct	_	_
-19	दिहला	दिहल	VERB	V_VM	Aspect=Perf|Gender=Masc|VerbForm=Part	33	nmod	_	_
+19	दिहला	दे	VERB	V_VM	Aspect=Perf|Gender=Masc|VerbForm=Part	33	nmod	_	_
 20	में	में	ADP	PSP	AdpType=Post	19	case	_	_
 21	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	compound	_	_
 22	हरज	हरज	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	23	compound	_	_
@@ -3209,7 +3209,7 @@
 12	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	11	case	_	_
 13	दान	दान	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	compound	_	_
 14	क	क	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	15	nmod	_	_
-15	दिहले	दिहला	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\s\s
+15	दिहले	दे	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\s\s
 16	।	।	PUNCT	RD_PUNC	_	15	punct	_	SpacesAfter=\n
 
 # sent_id = f2-34
@@ -3220,7 +3220,7 @@
 4	तीन	तीन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	_
 5	बोतल	बोतल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	_
 6	खूनो	खूनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	_
-7	दिहले	दिहला	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\s\s
+7	दिहले	दे	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\s\s
 8	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f2-35
@@ -4236,7 +4236,7 @@
 3	पर	पर	ADP	PSP	AdpType=Post	2	case	_	_
 4	ना	ना	PART	RP_NEG	_	5	compound	_	_
 5	चाहते	चाहते	VERB	V_VM	_	12	xcomp	_	_
-6	हुए	हुया	AUX	V_VAUX	_	5	aux	_	_
+6	हुए	हो	AUX	V_VAUX	_	5	aux	_	_
 7	भी	भी	PART	RP_RPD	_	8	obl	_	_
 8	हमहूँ	हमहूँ	PRON	PR_PRQ	_	9	nmod	_	_
 9	लिखलीं	लिख	VERB	V_VM	_	5	acl	_	_
@@ -4506,7 +4506,7 @@
 23	पर	पर	ADP	PSP	AdpType=Post	22	case	_	_
 24	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	obl	_	_
 25	ध्यान	ध्यान	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	26	nmod	_	_
-26	दीहल	दीहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	37	acl	_	_
+26	दीहल	दे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	37	acl	_	_
 27	जाव	जा	AUX	V_VAUX	_	26	aux	_	_
 28	,	COMMA	PUNCT	RD_PUNC	_	26	punct	_	_
 29	जवन	जवन	DET	DM_DMD	_	30	det	_	_
@@ -5264,7 +5264,7 @@
 8	ई	ई	DET	DM_DMD	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	det	_	_
 9	हाल	हाल	NOUN	N_NST	Case=Acc|Gender=Masc|Number=Sing|Person=3	10	nmod	_	_
 10	क	क	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing|Person=3	0	root	_	_
-11	दिहले	दिहला	AUX	V_VAUX	_	10	aux	_	_
+11	दिहले	दे	AUX	V_VAUX	_	10	aux	_	_
 12	बा	बा	AUX	V_VAUX	_	10	aux	_	_
 13	कि	कि	SCONJ	CC_CCS	_	26	mark	_	_
 14	रंग	रंग	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Plur|Person=3	16	compound	_	_
@@ -5444,7 +5444,7 @@
 3	2	2	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
 4	मार्च	मार्च	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
 5	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	4	case	_	_
-6	दीहल	दीहल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
+6	दीहल	दे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
 7	राउर	राउर	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
 8	उद्बोधन	उद्बोधन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	_
 9	हमरा	हमर	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	11	compound	_	_
