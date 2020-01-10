@@ -582,7 +582,7 @@
 17	।	।	PUNCT	RD_PUNC	_	13	punct	_	_
 
 # sent_id = f1-21
-# text = जनपदीय भाषा साहित्य के एह नवजागरण के श्रेय ‘पाती ’ पत्रिका के जाता ।
+# text = जनपदीय भाषा साहित्य के एह नवजागरण के श्रेय पाती ’ पत्रिका के जाता ।
 1	जनपदीय	जनपदीय	ADJ	JJ	Case=Acc	3	compound	_	_
 2	भाषा	भाषा	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	compound	_	_
 3	साहित्य	साहित्य	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	6	nmod	_	_
@@ -591,7 +591,7 @@
 6	नवजागरण	नवजागरण	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	9	nmod	_	_
 7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	_
 8	श्रेय	श्रेय	NOUN	N_NN	Case=Acc	9	compound	_	SpacesAfter=\n
-9	‘पाती	‘पा	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	nmod	_	_
+9	पाती	पाती	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	nmod	_	_
 10	’	’	PUNCT	RD_SYM	_	11	punct	_	_
 11	पत्रिका	पत्रिका	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	nmod	_	_
 12	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	11	case	_	_
