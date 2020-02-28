@@ -1,8 +1,8 @@
 # newdoc id = bho_bhtb-ud-test.conllu
 # sent_id = f1-1
 # text = लोकरंजन आ सांस्कृतिक गीत -
-1	लोकरंजन	लोकरंजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-2	आ	आ	CCONJ	CC_CCD	_	1	cc	_	_
+1	लोकरंजन	लोकरंजन	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
+2	आ	आ	CCONJ	CC_CCD	_	3	cc	_	_
 3	सांस्कृतिक	सांस्कृतिक	ADJ	JJ	Case=Nom	1	conj	_	_
 4	गीत	गीत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	_
 5	-	-	PUNCT	RD_SYM	_	4	punct	_	_
@@ -199,11 +199,11 @@
 
 # sent_id = f1-10
 # text = आईं आ सपरिवार आईं ।
-1	आईं	आ	AUX	V_VAUX	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	4	aux	_	_
-2	आ	आ	CCONJ	CC_CCD	_	3	advcl	_	_
+1	आईं	आ	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	_
+2	आ	आ	CCONJ	CC_CCD	_	4	cc	_	_
 3	सपरिवार	सपरिवार	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nsubj	_	_
-4	आईं	आ	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	0	root	_	_
-5	।	।	PUNCT	RD_PUNC	_	4	punct	_	_
+4	आईं	आ	VERB	V_VM	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|Polite=Form|VerbForm=Part|Voice=Act	1	conj	_	_
+5	।	।	PUNCT	RD_PUNC	_	1	punct	_	_
 
 # sent_id = f1-11
 # text = भोजपुरी खातिर एगो बड़हन आन्दोलन चलवला के जरूरत : सदानन्द शाही विश्व भोजपुरी सम्मेलन के बलिया इकाई अउर पाती सांस्कृतिक मंच के एगो बड़हन आयोजन पिछला अतवारा का दिने बलिया के टाउन हाल बापू भवन में भइल ।
