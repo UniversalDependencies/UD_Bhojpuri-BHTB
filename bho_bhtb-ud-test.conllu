@@ -633,20 +633,20 @@
 # sent_id = f1-23
 # text = कार्यक्रम मेंं शैलेंद्र मिश्र आ ओमप्रकाश भोजपुरी गवनई परोसले जवना के सभे आनन्द लिहल ।
 1	कार्यक्रम	कार्यक्रम	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	nmod	_	_
-2	मेंं	मेंं	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
+2	मेंं	मेंं	ADP	PSP	_	1	case	_	_
 3	शैलेंद्र	शैलेंद्र	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	compound	_	_
-4	मिश्र	मिश्र	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	5	nsubj	_	_
-5	आ	आ	CCONJ	CC_CCD	_	14	advcl	_	_
-6	ओमप्रकाश	ओमप्रकाश	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
-7	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	_
-8	गवनई	गवनया	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing	10	nmod	_	_
-9	परोसले	परोसला	VERB	V_VM	Case=Acc|Gender=Masc|Number=Sing	10	amod	_	SpacesAfter=\n
-10	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	nmod	_	_
-11	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	10	case	_	_
+4	मिश्र	मिश्र	PROPN	N_NNP	Case=Nom|Number=Sing|Person=3	9	nsubj	_	_
+5	आ	आ	CCONJ	CC_CCD	_	6	cc	_	_
+6	ओमप्रकाश	ओमप्रकाश	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	4	conj	_	_
+7	भोजपुरी	भोजपुरी	ADJ	JJ	Gender=Fem|Number=Sing	8	amod	_	_
+8	गवनई	गवनया	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing	9	obj	_	_
+9	परोसले	परोसला	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	SpacesAfter=\n
+10	जवना	जवना	PRON	PR_PRL	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	nmod	_	_
+11	के	का	ADP	PSP	AdpType=Post|Case=Nom|Number=Plur	10	case	_	_
 12	सभे	सभा	DET	QT_QTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	14	nsubj	_	_
-13	आनन्द	आनंद	PROPN	N_NNP	_	14	nmod	_	_
-14	लिहल	लिहल	VERB	V_VM	Number=Sing|Voice=Act	0	root	_	_
-15	।	।	PUNCT	RD_PUNC	_	14	punct	_	_
+13	आनन्द	आनंद	ADV	RB	_	14	advmod	_	_
+14	लिहल	लिहल	VERB	V_VM	Number=Sing|Voice=Act	9	acl	_	_
+15	।	।	PUNCT	RD_PUNC	_	9	punct	_	_
 
 # sent_id = f1-24
 # text = खास क के भोजपुरी राष्ट्रगीत बटोहिया के ।
