@@ -3388,8 +3388,8 @@
 
 # sent_id = f2-45
 # text = ऊ जापान गइल रहन ।
-1	ऊ	ऊ	PRON	PR_PRP	Case=Nom	2	amod	_	_
-2	जापान	जापान	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nsubj	_	_
+1	ऊ	ऊ	PRON	PR_PRP	Case=Nom	3	nsubj	_	_
+2	जापान	जापान	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	obj	_	_
 3	गइल	जा	VERB	V_VM	_	0	root	_	_
 4	रहन	रह	AUX	V_VAUX	_	3	aux	_	SpacesAfter=\s\s
 5	।	।	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
@@ -3417,11 +3417,11 @@
 
 # sent_id = f2-47
 # text = एगो जापानी नागरिक के ओ पर नजर चलि गइल रहे ।
-1	एगो	एगो	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	_
-2	जापानी	जापानी	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	compound	_	_
+1	एगो	एगो	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nummod	_	_
+2	जापानी	जापानी	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	3	amod	_	_
 3	नागरिक	नागरिक	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	_
 4	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	3	case	_	_
-5	ओ	ओ	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	_
+5	ओ	ओ	PRON	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	_
 6	पर	पर	ADP	PSP	AdpType=Post	5	case	_	_
 7	नजर	नजर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	_
 8	चलि	चलि	VERB	V_VM	_	0	root	_	_
