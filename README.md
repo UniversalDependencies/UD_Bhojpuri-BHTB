@@ -15,8 +15,21 @@ and Khresmoi (grants no. FP7-ICT-2010-6-257528 and MŠMT 7E11042).
 [ÚFAL](http://ufal.mff.cuni.cz/), Faculty of Mathematics and Physics, Charles University, Prague.
 
 ## References
-
+If you use this data, please cite:
 <pre>
+@InProceedings{ojha-zeman:2020:WILDRE5,
+  author    = {Ojha, Atul Kr.  and  Zeman, Daniel},
+  title     = {Universal Dependency Treebanks for Low-Resource Indian Languages: The Case of Bhojpuri},
+  booktitle      = {Proceedings of the WILDRE5– 5th Workshop on Indian Language Data: Resources and Evaluation},
+  month          = {May},
+  year           = {2020},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association (ELRA)},
+  pages     = {33--38},
+}
+</pre>
+<pre>
+Other papers/references about the Bhojpui data are:
 @article{ojha2019english,
   title={English-Bhojpuri SMT System: Insights from the Karaka Model},
   author={Ojha, Atul Kr},
