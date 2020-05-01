@@ -28,8 +28,8 @@ If you use this data, please cite:
   pages     = {33--38},
 }
 </pre>
-<pre>
 Other papers/references about the Bhojpui data are:
+<pre>
 @article{ojha2019english,
   title={English-Bhojpuri SMT System: Insights from the Karaka Model},
   author={Ojha, Atul Kr},
