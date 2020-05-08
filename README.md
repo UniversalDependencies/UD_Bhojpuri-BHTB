@@ -5,7 +5,7 @@ The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) UD Treebank (BHT
 
 # Introduction
 
-The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) UD Treebank (BHTB) v2.5 consists of 5,189 tokens(252 sentences). This Treebank is a part of the [Universal Dependency treebank](http://universaldependencies.org/) project. Initially, it was initiated by me ([Atul](http://ufal.ms.mff.cuni.cz/atul-kr-ojha)) at [Jawaharlal Nehru University, New Delhi](http://sanskrit.jnu.ac.in/index.jsp) during the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work. BHTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological tags and lemmas. In this data, XPOS is annotated  according to [Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset](http://tdil-dc.in/tdildcMain/articles/134692Draft%20POS%20Tag%20standard.pdf).
+The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) UD Treebank (BHTB) v2.6 consists of 6,664 tokens(357 sentences). This Treebank is a part of the [Universal Dependency treebank](http://universaldependencies.org/) project. Initially, it was initiated by me ([Atul](http://ufal.ms.mff.cuni.cz/atul-kr-ojha)) at [Jawaharlal Nehru University, New Delhi](http://sanskrit.jnu.ac.in/index.jsp) during the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work. BHTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological tags and lemmas. In this data, XPOS is annotated  according to [Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset](http://tdil-dc.in/tdildcMain/articles/134692Draft%20POS%20Tag%20standard.pdf).
 
 
 # Acknowledgments
