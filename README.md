@@ -5,16 +5,30 @@ The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) UD Treebank (BHT
 
 # Introduction
 
-The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) UD Treebank (BHTB) v2.5 consists of 5,189 tokens(252 sentences). This Treebank is a part of the [Universal Dependency treebank](http://universaldependencies.org/) project. Initially, it was initiated by me ([Atul](http://ufal.ms.mff.cuni.cz/atul-kr-ojha)) at [Jawaharlal Nehru University, New Delhi](http://sanskrit.jnu.ac.in/index.jsp) during the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work. BHTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological tags and lemmas. In this data, XPOS is annotated  according to [Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset](http://tdil-dc.in/tdildcMain/articles/134692Draft%20POS%20Tag%20standard.pdf).
+The [Bhojpuri](https://en.wikipedia.org/wiki/Bhojpuri_language) UD Treebank (BHTB) v2.6 consists of 6,664 tokens(357 sentences). This Treebank is a part of the [Universal Dependency treebank](http://universaldependencies.org/) project. Initially, it was initiated by me ([Atul](http://ufal.ms.mff.cuni.cz/atul-kr-ojha)) at [Jawaharlal Nehru University, New Delhi](http://sanskrit.jnu.ac.in/index.jsp) during the [doctoral](http://sanskrit.jnu.ac.in/rstudents/phd.jsp) research work. BHTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological tags and lemmas. In this data, XPOS is annotated  according to [Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset](http://tdil-dc.in/tdildcMain/articles/134692Draft%20POS%20Tag%20standard.pdf).
 
 
 # Acknowledgments
 
-Preparation of this treebank was supported by LINDAT/CLARIAH-CZ (grant no. LM2018051).
+Preparation of this treebank was supported by LINDAT/CLARIAH-CZ (grant no. LM2018051)
+and Khresmoi (grants no. FP7-ICT-2010-6-257528 and MŠMT 7E11042).
 [ÚFAL](http://ufal.mff.cuni.cz/), Faculty of Mathematics and Physics, Charles University, Prague.
 
 ## References
-
+If you use this data, please cite:
+<pre>
+@InProceedings{ojha-zeman:2020:WILDRE5,
+  author    = {Ojha, Atul Kr.  and  Zeman, Daniel},
+  title     = {Universal Dependency Treebanks for Low-Resource Indian Languages: The Case of Bhojpuri},
+  booktitle      = {Proceedings of the WILDRE5– 5th Workshop on Indian Language Data: Resources and Evaluation},
+  month          = {May},
+  year           = {2020},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association (ELRA)},
+  pages     = {33--38},
+}
+</pre>
+Other papers/references about the Bhojpui data are:
 <pre>
 @article{ojha2019english,
   title={English-Bhojpuri SMT System: Insights from the Karaka Model},
@@ -32,6 +46,12 @@ Preparation of this treebank was supported by LINDAT/CLARIAH-CZ (grant no. LM201
   year={2015}
 }
 </pre>
+
+
+# Changelog
+
+* 2019-11-15 v2.5
+  * Initial release in Universal Dependencies.
 
 
 <pre>
