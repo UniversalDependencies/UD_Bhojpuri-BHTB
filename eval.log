@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Bhojpuri-BHTB:
-commit d301f3573b7678d24eb4308dfeaa0256a74805bb
-Merge: 0951401 8413021
+commit 31133d6f6b566a61790de0494a77e33cf7030674
+Merge: 0b3a0ab a0c2d8e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 6665 of 6665 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.79373990726134.
@@ -17,9 +17,9 @@ Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
 Features: 5176 out of 6665 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 30 out of 37 found in the corpus.
+Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 1164 bugs.
+Udapi: found 1163 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 6665 words.
 Genres: found 2 out of 17 known.
 validate.py --lang bho --max-err=10 UD_Bhojpuri-BHTB/bho_bhtb-ud-test.conllu
@@ -32,7 +32,7 @@ Validity: 1
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.810810810810811) = 0.0623700623700624
-(TOTAL score=0.341799939764471) * (availability=1) * (validity=1) = 0.341799939764471
+(weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
+(TOTAL score=0.343878941843473) * (availability=1) * (validity=1) = 0.343878941843473
 STARS = 1.5
-UD_Bhojpuri-BHTB	0.341799939764471	1.5
+UD_Bhojpuri-BHTB	0.343878941843473	1.5
