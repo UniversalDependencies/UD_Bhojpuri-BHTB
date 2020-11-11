@@ -75,15 +75,16 @@
     <feat name="Voice" value="Pass" upos="VERB">4</feat><!-- क, रङा, सुनतानी, सुनतारे -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="31">
+  <deps unique="32">
     <dep name="acl">104</dep>
     <dep name="advcl">84</dep>
     <dep name="advmod">29</dep>
     <dep name="amod">203</dep>
+    <dep name="appos">1</dep>
     <dep name="aux">301</dep>
     <dep name="aux:pass">11</dep>
     <dep name="case">906</dep>
-    <dep name="cc">26</dep>
+    <dep name="cc">27</dep>
     <dep name="ccomp">57</dep>
     <dep name="clf">3</dep>
     <dep name="compound">1617</dep>
@@ -99,11 +100,11 @@
     <dep name="iobj">17</dep>
     <dep name="list">10</dep>
     <dep name="mark">122</dep>
-    <dep name="nmod">911</dep>
+    <dep name="nmod">910</dep>
     <dep name="nsubj">280</dep>
     <dep name="nummod">53</dep>
     <dep name="obj">120</dep>
-    <dep name="obl">348</dep>
+    <dep name="obl">347</dep>
     <dep name="punct">695</dep>
     <dep name="root">357</dep>
     <dep name="xcomp">66</dep>
