@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
-Author: www-data (nschneid) <nschneid@github.com>
-Date:   Wed May 11 05:10:30 2022 +0200
-Evaluating the following revision of UD_Bhojpuri-BHTB:
-commit 84a9a2a1a8eac99b63eb7b3e4b5dc83f5111aa89
+commit 13e6b709a8bc643c3f902800321a7beda46feb8d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 3 15:56:18 2021 +0100
+Date:   Sun Nov 13 22:03:41 2022 +0100
+Evaluating the following revision of UD_Bhojpuri-BHTB:
+commit d49134fb521abcfe233d442e01a16800c08c0811
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat May 14 13:41:10 2022 +0200
 Size: counted 6665 of 6665 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.79373990726134.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -29,8 +29,19 @@ validate.py --lang bho --max-err=10 UD_Bhojpuri-BHTB/bho_bhtb-ud-test.conllu
 [Line 1673 Sent f1-63 Node 7]: [L3 Morpho goeswith-lemma] The lemma of a 'goeswith'-connected word must be annotated only at the first part.
 [Line 1673 Sent f1-63 Node 7]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
 [Line 1673 Sent f1-63 Node 7]: [L3 Morpho goeswith-feats] The morphological features of a 'goeswith'-connected word must be annotated only at the first part.
+[Line 6072 Sent f3-16 Node 33]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 12]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 6150 Sent f3-19 Node 29]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 6285 Sent f3-25 Node 17]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [3, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 6304 Sent f3-26 Node 13]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [6, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 6630 Sent f3-46 Node 22]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [6, 16]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 6791 Sent f3-54 Node 18]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [12, 17]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 7045 Sent f3-66 Node 31]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [13, 29]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 7319 Sent f3-79 Node 14]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [4, 12]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 7381 Sent f3-83 Node 13]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+...suppressing further errors regarding Syntax
 Morpho errors: 4
-*** FAILED *** with 4 errors
+Syntax errors: 11
+*** FAILED *** with 15 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
