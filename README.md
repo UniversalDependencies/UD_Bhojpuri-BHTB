@@ -50,6 +50,8 @@ Other papers/references about the Bhojpui data are:
 
 # Changelog
 
+* 2023-05-15 v2.12
+  * Fixed duplicate subjects.
 * 2019-11-15 v2.5
   * Initial release in Universal Dependencies.
 
