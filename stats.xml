@@ -15,9 +15,9 @@
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">250</tag><!-- पूरा, सांस्कृतिक, तथाकथित, प, छोट, बड, खास, चुपचाप, जरूरी, तरह -->
+    <tag name="ADJ">249</tag><!-- पूरा, सांस्कृतिक, तथाकथित, प, छोट, बड, खास, चुपचाप, जरूरी, तरह -->
     <tag name="ADP">989</tag><!-- का, में, से, को, पर, के, कर, खातिर, वाला, ले -->
-    <tag name="ADV">32</tag><!-- हिन्दी, गद्य, जइसे, जल्दी, ललित, सभ्य, आजुओ, आनंद, आसानी, जइसा -->
+    <tag name="ADV">31</tag><!-- हिन्दी, गद्य, जइसे, जल्दी, ललित, सभ्य, आजुओ, आनंद, आसानी, जइसा -->
     <tag name="AUX">355</tag><!-- बा, जा, रह, सक, गइल, दे, हो, कर, लग, ले -->
     <tag name="CCONJ">151</tag><!-- आ, बाकिर, अउर, फगुआ, भा, राउर, आउर, आखिर, खम्भा, खैर -->
     <tag name="DET">353</tag><!-- ई, एह, कवनो, ओह, कुछ, अइसन, ओकर, जवन, जवना, आजु -->
@@ -26,7 +26,7 @@
     <tag name="NUM">149</tag><!-- एगो, एक, लोग, गो, दू, कुछ, दोसर, 5, अनकस, कलिग -->
     <tag name="PART">192</tag><!-- त, ना, नइखा, बहु, भर, बस, स, अतना, खाली, गमगमावे -->
     <tag name="PRON">335</tag><!-- ओकरा, अपना, हम, ऊ, हमर, हमार, आपन, हमनी, काहे, केहूँ -->
-    <tag name="PROPN">419</tag><!-- भोजपुरी, प्रियंका, सिंह, राय, जी, पाती, डॉ., डा॰, तिवारी, दिल्ली -->
+    <tag name="PROPN">421</tag><!-- भोजपुरी, प्रियंका, सिंह, राय, जी, पाती, डॉ., डा॰, तिवारी, दिल्ली -->
     <tag name="PUNCT">695</tag><!-- ।, COMMA, -, ,, “, ’, ”, ?, ‘, – -->
     <tag name="SCONJ">118</tag><!-- कि, त, निकलि, बाकि, लपकि, आँखि, काहे, काहेंकि, कोच्चि, तकल -->
     <tag name="VERB">767</tag><!-- हो, कर, बा, दे, भइल, आ, कह, चाह, कहल, जा -->
@@ -38,24 +38,24 @@
     <feat name="AdvType" value="Deg" upos="PART">2</feat><!-- उहाँसे, सबसे -->
     <feat name="Aspect" value="Imp" upos="AUX,NOUN,PROPN,VERB">15</feat><!-- चुनौती, जाला, पाती, सकता, जानतानी, फूलल, महती, रहत, रहित, रहे -->
     <feat name="Aspect" value="Perf" upos="ADJ,ADP,ADV,AUX,DET,NOUN,NUM,PART,PRON,SCONJ,VERB">341</feat><!-- ओकरा, रहे, चाहीं, बा, जाई, रहीं, होखे, होई, एकरा, पहिले -->
-    <feat name="Case" value="Acc" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,VERB">1348</feat><!-- के, भोजपुरी, जी, आजु, जवना, लोगन, बात, साहित्य, तरह, सभ -->
+    <feat name="Case" value="Acc" upos="ADJ,ADP,ADV,AUX,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,VERB">1349</feat><!-- के, भोजपुरी, जी, आजु, जवना, लोगन, बात, साहित्य, तरह, सभ -->
     <feat name="Case" value="Acc,Dat" upos="ADJ,DET,PRON,PROPN">29</feat><!-- कइसे, लेखको, एहमें, अइसे, ओहमें, हइसे, ऑडियो, ओकरा, कादो, काहें -->
     <feat name="Case" value="Acc,Erg" upos="PRON">6</feat><!-- ओतने, माने, आपने, हम -->
     <feat name="Case" value="Acc,Gen" upos="DET,PRON">8</feat><!-- हमरा, इनका, ओकर, जेकरा, हमनीके, हमार -->
-    <feat name="Case" value="Nom" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,VERB">2650</feat><!-- के, बा, का, त, ई, भोजपुरी, लोग, एगो, गइल, कवनो -->
+    <feat name="Case" value="Nom" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,VERB">2651</feat><!-- के, बा, का, त, ई, भोजपुरी, लोग, एगो, गइल, कवनो -->
     <feat name="Echo" value="Rdp" upos="NUM,PRON">15</feat><!-- केहूँ, कहाँ, उहाँ, एकहूँ, एक, हमहूँ -->
     <feat name="Foreign" value="Yes" upos="AUX,NOUN,VERB,X">7</feat><!-- भइल, गइल, स्टाइल -->
-    <feat name="Gender" value="Fem" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,VERB">882</feat><!-- भोजपुरी, ई, गइल, बा, हमरा, चाहीं, जी, जाई, जवना, बात -->
+    <feat name="Gender" value="Fem" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,VERB">884</feat><!-- भोजपुरी, ई, गइल, बा, हमरा, चाहीं, जी, जाई, जवना, बात -->
     <feat name="Gender" value="Masc" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">3073</feat><!-- के, का, त, लोग, बा, एगो, रहे, अपना, कवनो, रहल -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">24</feat><!-- बा, रहे, बाटे, बाड़न, करी, जाई, पाई, रहन, रहीं, लागल -->
     <feat name="Mood" value="Sub" upos="AUX,NOUN,PRON,VERB">45</feat><!-- करे, कहले, धीरे, पहिले, सके, काहे, होले, आइलें, करेले, कहेलें -->
     <feat name="Number" value="Plur" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB">481</feat><!-- के, लोग, ओकरा, हम, चाहीं, होखे, नइखे, होई, पहिले, आम -->
-    <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,VERB">3793</feat><!-- के, बा, का, भोजपुरी, त, ई, एगो, रहे, गइल, कवनो -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,INTJ,NOUN,NUM,PART,PRON,PROPN,VERB">3795</feat><!-- के, बा, का, भोजपुरी, त, ई, एगो, रहे, गइल, कवनो -->
     <feat name="NumType" value="Card" upos="ADJ,DET,NOUN,NUM,PROPN,VERB">113</feat><!-- एह, एक, ओह, बिआह, ह, अनकस, बरीस, 12, 120, 2011 -->
     <feat name="NumType" value="Ord" upos="PART">1</feat><!-- वां -->
     <feat name="Person" value="1" upos="DET,PRON,VERB">50</feat><!-- हम, आम, हमरा, एहमें, एकदम, ओहमें, कलम, तमाम, बनाम, हमनी -->
     <feat name="Person" value="2" upos="AUX,PRON,VERB">10</feat><!-- ओतने, माने, आइलें, आपने, कहेलें, पढ़सु, पवलें, लगीहें -->
-    <feat name="Person" value="3" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,VERB">3305</feat><!-- बा, भोजपुरी, त, ई, लोग, एगो, कवनो, गइल, रहे, जी -->
+    <feat name="Person" value="3" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,VERB">3307</feat><!-- बा, भोजपुरी, त, ई, लोग, एगो, कवनो, गइल, रहे, जी -->
     <feat name="Polarity" value="Neg" upos="PART">8</feat><!-- ना, नइखे -->
     <feat name="Polite" value="Form" upos="ADP,AUX,NOUN,PRON,VERB">144</feat><!-- रहे, के, रहीं, कतहीं, बतवले, आईं, ओके, जाले, दिहले, साथे -->
     <feat name="Poss" value="Yes" upos="DET,PRON">8</feat><!-- हमरा, इनका, ओकर, जेकरा, हमनीके, हमार -->
@@ -75,38 +75,37 @@
     <feat name="Voice" value="Pass" upos="VERB">4</feat><!-- क, रङा, सुनतानी, सुनतारे -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="32">
-    <dep name="acl">104</dep>
-    <dep name="advcl">84</dep>
+  <deps unique="31">
+    <dep name="acl">105</dep>
+    <dep name="advcl">82</dep>
     <dep name="advmod">29</dep>
-    <dep name="amod">203</dep>
+    <dep name="amod">202</dep>
     <dep name="appos">1</dep>
-    <dep name="aux">301</dep>
+    <dep name="aux">302</dep>
     <dep name="aux:pass">11</dep>
-    <dep name="case">906</dep>
-    <dep name="cc">27</dep>
-    <dep name="ccomp">57</dep>
+    <dep name="case">907</dep>
+    <dep name="cc">30</dep>
+    <dep name="ccomp">58</dep>
     <dep name="clf">3</dep>
-    <dep name="compound">1617</dep>
-    <dep name="conj">112</dep>
+    <dep name="compound">1610</dep>
+    <dep name="conj">115</dep>
     <dep name="cop">9</dep>
     <dep name="csubj">10</dep>
-    <dep name="dep">20</dep>
+    <dep name="dep">21</dep>
     <dep name="det">174</dep>
     <dep name="discourse">8</dep>
     <dep name="fixed">10</dep>
     <dep name="flat">1</dep>
-    <dep name="goeswith">1</dep>
     <dep name="iobj">17</dep>
     <dep name="list">10</dep>
-    <dep name="mark">122</dep>
-    <dep name="nmod">910</dep>
-    <dep name="nsubj">280</dep>
-    <dep name="nummod">53</dep>
-    <dep name="obj">120</dep>
-    <dep name="obl">347</dep>
+    <dep name="mark">123</dep>
+    <dep name="nmod">907</dep>
+    <dep name="nsubj">273</dep>
+    <dep name="nummod">54</dep>
+    <dep name="obj">122</dep>
+    <dep name="obl">352</dep>
     <dep name="punct">695</dep>
     <dep name="root">357</dep>
-    <dep name="xcomp">66</dep>
+    <dep name="xcomp">67</dep>
   </deps>
 </treebank>
