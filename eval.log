@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Bhojpuri-BHTB:
-commit d3b61d22542fd1512456bf31cad507b84f3a8ce5
+commit 5170f048ae0ba8e70aa19361362c947c343003e0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 09:31:35 2023 +0200
+Date:   Mon Nov 6 11:32:33 2023 +0100
 Size: counted 6665 of 6665 words (nodes).
 Size: min(0, log((N/1000)**2)) = 3.79373990726134.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.8.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL       1152
-Udapi: found 1152 bugs.
+               TOTAL       1151
+Udapi: found 1151 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 6665 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang bho --max-err=10 UD_Bhojpuri-BHTB/bho_bhtb-ud-test.conllu
