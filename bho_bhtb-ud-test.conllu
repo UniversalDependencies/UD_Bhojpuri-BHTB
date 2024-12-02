@@ -400,6 +400,7 @@
 # sent_id = f1-14
 # text = मुख्य अतिथि प्रो॰ सदानंद शाही आ अध्यक्ष प्रो॰ अवधेश प्रधान पाती ’ के प्रेम कथा विशेषांक के संदर्भ में विस्तार से चरचा करत कहनी कि २४ गो कहानीकारन के बहुरंगी कहानियन के एह बिटोर में भोजपुरी के सगरी विविधता अपना सांस्कृतिक चेतना का साथे सामने आइल बा ।
 # translit = mukhya atithi pro॰ sadānaṁda śāhī ā adhyakṣa pro॰ avadheśa pradhāna pātī ’ ke prema kathā viśeṣāṁka ke saṁdarbha meṁ vistāra se caracā karata kahanī ki 24 go kahānīkārana ke bahuraṁgī kahāniyana ke eha biṭora meṁ bhojapurī ke sagarī vividhatā apanā sāṁskr̥tika cetanā kā sāthe sāmane āila bā .
+# text_en = Chief Guest Prof. Sadanand Shahi and Chairman Prof. Avdhesh Pradhan discussed in detail the context of Pati ’s Prem Katha special issue and said that all the diversity of Bhojpuri with its cultural consciousness has come out in this collection of multi-coloured stories by 24 storytellers.
 1	मुख्य	मुख्य	ADJ	JJ	Case=Nom	2	amod	_	Translit=mukhya|LTranslit=mukhya
 2	अतिथि	अतिथि	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	nmod	_	Translit=atithi|LTranslit=atithi
 3	प्रो॰	प्रो॰	PROPN	N_NNP	_	4	compound	_	Translit=pro॰|LTranslit=pro॰
@@ -419,18 +420,18 @@
 17	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	16	case	_	Translit=ke|LTranslit=kā
 18	संदर्भ	संदर्भ	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	22	obl	_	Translit=saṁdarbha|LTranslit=saṁdarbha
 19	में	में	ADP	PSP	AdpType=Post	18	case	_	Translit=meṁ|LTranslit=meṁ
-20	विस्तार	विस्तार	PART	RP_INTF	Case=Acc|Gender=Masc|Number=Sing|Person=3	22	clf	_	Translit=vistāra|LTranslit=vistāra
+20	विस्तार	विस्तार	NOUN	RP_INTF	Case=Acc|Gender=Masc|Number=Sing|Person=3	22	obl	_	Translit=vistāra|LTranslit=vistāra
 21	से	से	ADP	PSP	AdpType=Post	20	case	_	Translit=se|LTranslit=se
 22	चरचा	चरचा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	compound	_	Translit=caracā|LTranslit=caracā
 23	करत	करत	VERB	V_VM	_	24	iobj	_	Translit=karata|LTranslit=karata
 24	कहनी	कहन	NOUN	N_NN	Aspect=Perf|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	0	root	_	Translit=kahanī|LTranslit=kahana
 25	कि	कि	SCONJ	CC_CCS	_	24	conj	_	Translit=ki|LTranslit=ki
-26	२४	२४	NUM	QT_QTC	Case=Nom|Number=Sing|Person=3	20	nummod	_	Translit=24|LTranslit=24
+26	२४	२४	NUM	QT_QTC	Case=Nom|Number=Sing|Person=3	28	nummod	_	Translit=24|LTranslit=24
 27	गो	गो	NUM	RP_CL	Case=Nom|Gender=Fem|Number=Sing|Person=3	26	clf	_	SpacesAfter=\n|Translit=go|LTranslit=go
-28	कहानीकारन	कहानीकारन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	23	nmod	_	Translit=kahānīkārana|LTranslit=kahānīkārana
-29	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	20	case	_	Translit=ke|LTranslit=kā
-30	बहुरंगी	बहुर	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing	23	amod	_	Translit=bahuraṁgī|LTranslit=bahura
-31	कहानियन	कहानियन	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	26	nmod	_	Translit=kahāniyana|LTranslit=kahāniyana
+28	कहानीकारन	कहानीकारन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	23	obl	_	Translit=kahānīkārana|LTranslit=kahānīkārana
+29	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	28	case	_	Translit=ke|LTranslit=kā
+30	बहुरंगी	बहुर	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing	31	amod	_	Translit=bahuraṁgī|LTranslit=bahura
+31	कहानियन	कहानियन	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	28	nmod	_	Translit=kahāniyana|LTranslit=kahāniyana
 32	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	31	case	_	Translit=ke|LTranslit=kā
 33	एह	एह	DET	DM_DMD	Case=Nom|Gender=Masc|Number=Sing|Person=3	34	det	_	Translit=eha|LTranslit=eha
 34	बिटोर	बिटोर	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	36	acl	_	Translit=biṭora|LTranslit=biṭora
@@ -447,7 +448,7 @@
 45	सामने	सामने	NOUN	N_NST	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	42	list	_	Translit=sāmane|LTranslit=sāmane
 46	आइल	आ	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	xcomp	_	Translit=āila|LTranslit=ā
 47	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	46	aux	_	Translit=bā|LTranslit=bā
-48	।	।	PUNCT	RD_PUNC	_	46	punct	_	Translit=.|LTranslit=.
+48	।	।	PUNCT	RD_PUNC	_	24	punct	_	Translit=.|LTranslit=.
 
 # sent_id = f1-15
 # text = प्रेम के अनगिनत रूप के कहानीकार एह कहानियन में ओकरा खासियत का साथे चित्रित कइले बाड़े ।
@@ -473,6 +474,7 @@
 # sent_id = f1-16
 # text = प्रो़ सदानंद शाही के कहना रहल कि भोजपुरी भलही आज आपन असर समाज के हर वर्ग पर जमवले जात बिया बाकिर एकरा के संवैधानिक मान्यता दिआवे खातिर एगो बड़हन आन्दोलन खड़ा कइला के जरूरत बा ।
 # translit = pro़ sadānaṁda śāhī ke kahanā rahala ki bhojapurī bhalahī āja āpana asara samāja ke hara varga para jamavale jāta biyā bākira ekarā ke saṁvaidhānika mānyatā diāve khātira ego baṛahana āndolana khaṛā kailā ke jarūrata bā .
+# text_en = Prof. Sadanand Shahi said that although Bhojpuri is having its impact on every section of the society today, a major movement needs to be launched to give it constitutional recognition.
 1	प्रो़	प्रो	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	2	compound	_	Translit=pro़|LTranslit=pro
 2	सदानंद	सदानंद	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nsubj	_	Translit=sadānaṁda|LTranslit=sadānaṁda
 3	शाही	शाही	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	compound	_	Translit=śāhī|LTranslit=śāhī
@@ -498,9 +500,9 @@
 23	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	22	mark	_	SpacesAfter=\n|Translit=ke|LTranslit=kā
 24	संवैधानिक	संवैधानिक	ADJ	JJ	Case=Nom	25	amod	_	Translit=saṁvaidhānika|LTranslit=saṁvaidhānika
 25	मान्यता	मान्यता	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	35	nsubj	_	Translit=mānyatā|LTranslit=mānyatā
-26	दिआवे	दिआवा	VERB	V_VM	Case=Nom|Number=Sing|Person=3|PronType=Prs	28	nmod	_	Translit=diāve|LTranslit=diāvā
+26	दिआवे	दिआवा	VERB	V_VM	Case=Nom|Number=Sing|Person=3|PronType=Prs	30	nmod	_	Translit=diāve|LTranslit=diāvā
 27	खातिर	खातिर	ADP	PSP	Case=Nom	26	list	_	Translit=khātira|LTranslit=khātira
-28	एगो	एगो	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	clf	_	Translit=ego|LTranslit=ego
+28	एगो	एगो	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	30	nummod	_	Translit=ego|LTranslit=ego
 29	बड़हन	बड़हन	ADJ	JJ	_	30	amod	_	Translit=baṛahana|LTranslit=baṛahana
 30	आन्दोलन	आन्दोलन	NOUN	N_NN	_	31	obj	_	Translit=āndolana|LTranslit=āndolana
 31	खड़ा	खड़ा	VERB	V_VM	Gender=Masc|Number=Sing	35	xcomp	_	Translit=khaṛā|LTranslit=khaṛā
