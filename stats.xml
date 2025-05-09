@@ -22,9 +22,9 @@
     <tag name="CCONJ">151</tag><!-- आ, बाकिर, अउर, फगुआ, भा, राउर, आउर, आखिर, खम्भा, खैर -->
     <tag name="DET">353</tag><!-- ई, एह, कवनो, ओह, कुछ, अइसन, ओकर, जवन, जवना, आजु -->
     <tag name="INTJ">5</tag><!-- गहर, अजी, अरे, दोसर -->
-    <tag name="NOUN">1854</tag><!-- लोग, बिआह, रंग, जी, देश, जब, भाषा, आजु, आदमी, स -->
+    <tag name="NOUN">1855</tag><!-- लोग, बिआह, रंग, जी, देश, जब, भाषा, आजु, आदमी, स -->
     <tag name="NUM">149</tag><!-- एगो, एक, लोग, गो, दू, कुछ, दोसर, 5, अनकस, कलिग -->
-    <tag name="PART">192</tag><!-- त, ना, नइखा, बहु, भर, बस, स, अतना, खाली, गमगमावे -->
+    <tag name="PART">191</tag><!-- त, ना, नइखा, बहु, भर, बस, स, अतना, खाली, गमगमावे -->
     <tag name="PRON">335</tag><!-- ओकरा, अपना, हम, ऊ, हमर, हमार, आपन, हमनी, काहे, केहूँ -->
     <tag name="PROPN">421</tag><!-- भोजपुरी, प्रियंका, सिंह, राय, जी, पाती, डॉ., डा॰, तिवारी, दिल्ली -->
     <tag name="PUNCT">695</tag><!-- ।, COMMA, -, ,, “, ’, ”, ?, ‘, – -->
@@ -86,7 +86,7 @@
     <dep name="case">907</dep>
     <dep name="cc">30</dep>
     <dep name="ccomp">58</dep>
-    <dep name="clf">3</dep>
+    <dep name="clf">1</dep>
     <dep name="compound">1610</dep>
     <dep name="conj">115</dep>
     <dep name="cop">9</dep>
@@ -99,11 +99,11 @@
     <dep name="iobj">17</dep>
     <dep name="list">10</dep>
     <dep name="mark">123</dep>
-    <dep name="nmod">907</dep>
+    <dep name="nmod">906</dep>
     <dep name="nsubj">273</dep>
-    <dep name="nummod">54</dep>
+    <dep name="nummod">55</dep>
     <dep name="obj">122</dep>
-    <dep name="obl">352</dep>
+    <dep name="obl">354</dep>
     <dep name="punct">695</dep>
     <dep name="root">357</dep>
     <dep name="xcomp">67</dep>
