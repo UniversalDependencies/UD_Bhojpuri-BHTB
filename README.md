@@ -62,6 +62,7 @@ Other papers/references about the Bhojpui data are:
 Data available since: UD v2.5
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction news
 Lemmas: manual native
 UPOS: converted from manual
