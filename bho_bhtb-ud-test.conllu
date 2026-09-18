@@ -7994,7 +7994,7 @@
 # sent_id = f3-98
 # text = बाकिर एक बेरि हिंदियो गीतन पर त ध्यान दीहल जाव।
 # translit = bākira eka beri hiṁdiyo gītana para ta dhyāna dīhala jāva.
-1	बाकिर	बाकिर	PART	RP	_	2	dep	_	Translit=bākira|LTranslit=bākira
+1	बाकिर	बाकिर	CCONJ	CC_CCD	_	2	dep	_	Translit=bākira|LTranslit=bākira
 2	एक	एक	NUM	QT_QTC	NumType=Card	3	nummod	_	Translit=eka|LTranslit=eka
 3	बेरि	बेरि	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	9	obl	_	Translit=beri|LTranslit=beri
 4	हिंदियो	हिंदी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	nmod	_	Translit=hiṁdiyo|LTranslit=hiṁdī
