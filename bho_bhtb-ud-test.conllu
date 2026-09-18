@@ -866,7 +866,7 @@
 8	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	54	nsubj	_	Translit=bhojapurī|LTranslit=bhojapurī
 9	के	के	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	8	case	_	Translit=ke|LTranslit=ke
 10	सबसे	सब	PART	RP_INTF	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	obl	_	Translit=sabase|LTranslit=saba
-11	बर	बर	NUM	QT_QT	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nummod	_	Translit=bara|LTranslit=bara
+11	बर	बर	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	amod	_	Translit=bara|LTranslit=bara
 12	सोशल	सोशल	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	amod	_	Translit=sośala|LTranslit=sośala
 13	साइट	साइट	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	acl	_	Translit=sāiṭa|LTranslit=sāiṭa
 14	जय	जय	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	17	compound	_	Translit=jaya|LTranslit=jaya
