@@ -15,16 +15,16 @@
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="16">
-    <tag name="ADJ">249</tag><!-- पूरा, सांस्कृतिक, तथाकथित, प, छोट, बड, खास, चुपचाप, जरूरी, तरह -->
+    <tag name="ADJ">250</tag><!-- पूरा, सांस्कृतिक, तथाकथित, प, छोट, बड, खास, चुपचाप, जरूरी, तरह -->
     <tag name="ADP">989</tag><!-- का, में, से, को, पर, के, कर, खातिर, वाला, ले -->
     <tag name="ADV">31</tag><!-- हिन्दी, गद्य, जइसे, जल्दी, ललित, सभ्य, आजुओ, आनंद, आसानी, जइसा -->
     <tag name="AUX">355</tag><!-- बा, जा, रह, सक, गइल, दे, हो, कर, लग, ले -->
-    <tag name="CCONJ">151</tag><!-- आ, बाकिर, अउर, फगुआ, भा, राउर, आउर, आखिर, खम्भा, खैर -->
+    <tag name="CCONJ">152</tag><!-- आ, बाकिर, अउर, फगुआ, भा, राउर, आउर, आखिर, खम्भा, खैर -->
     <tag name="DET">353</tag><!-- ई, एह, कवनो, ओह, कुछ, अइसन, ओकर, जवन, जवना, आजु -->
     <tag name="INTJ">5</tag><!-- गहर, अजी, अरे, दोसर -->
     <tag name="NOUN">1855</tag><!-- लोग, बिआह, रंग, जी, देश, जब, भाषा, आजु, आदमी, स -->
-    <tag name="NUM">149</tag><!-- एगो, एक, लोग, गो, दू, कुछ, दोसर, 5, अनकस, कलिग -->
-    <tag name="PART">191</tag><!-- त, ना, नइखा, बहु, भर, बस, स, अतना, खाली, गमगमावे -->
+    <tag name="NUM">148</tag><!-- एगो, एक, लोग, गो, दू, कुछ, दोसर, 5, अनकस, कलिग -->
+    <tag name="PART">190</tag><!-- त, ना, नइखा, बहु, भर, बस, स, अतना, खाली, गमगमावे -->
     <tag name="PRON">335</tag><!-- ओकरा, अपना, हम, ऊ, हमर, हमार, आपन, हमनी, काहे, केहूँ -->
     <tag name="PROPN">421</tag><!-- भोजपुरी, प्रियंका, सिंह, राय, जी, पाती, डॉ., डा॰, तिवारी, दिल्ली -->
     <tag name="PUNCT">695</tag><!-- ।, COMMA, -, ,, “, ’, ”, ?, ‘, – -->
@@ -78,8 +78,8 @@
   <deps unique="31">
     <dep name="acl">105</dep>
     <dep name="advcl">82</dep>
-    <dep name="advmod">29</dep>
-    <dep name="amod">202</dep>
+    <dep name="advmod">30</dep>
+    <dep name="amod">203</dep>
     <dep name="appos">1</dep>
     <dep name="aux">302</dep>
     <dep name="aux:pass">11</dep>
@@ -99,11 +99,11 @@
     <dep name="iobj">17</dep>
     <dep name="list">10</dep>
     <dep name="mark">123</dep>
-    <dep name="nmod">906</dep>
+    <dep name="nmod">944</dep>
     <dep name="nsubj">273</dep>
-    <dep name="nummod">55</dep>
+    <dep name="nummod">54</dep>
     <dep name="obj">122</dep>
-    <dep name="obl">354</dep>
+    <dep name="obl">315</dep>
     <dep name="punct">695</dep>
     <dep name="root">357</dep>
     <dep name="xcomp">67</dep>

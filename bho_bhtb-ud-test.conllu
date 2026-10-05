@@ -40,7 +40,7 @@
 27	स्थित	स्थित	ADJ	JJ	Case=Acc	39	amod	_	SpacesAfter=\n|Translit=sthita|LTranslit=sthita
 28	राजेन्द्र	राजेन्द्र	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	34	compound	_	Translit=rājendra|LTranslit=rājendra
 29	भवन	भवन	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	compound	_	Translit=bhavana|LTranslit=bhavana
-30	ऑडिटोरियम	ऑडिटोरियम	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	32	obl	_	Translit=ôḍiṭoriyama|LTranslit=ôḍiṭoriyama
+30	ऑडिटोरियम	ऑडिटोरियम	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	32	nmod	_	Translit=ôḍiṭoriyama|LTranslit=ôḍiṭoriyama
 31	में	में	ADP	PSP	AdpType=Post	30	case	_	Translit=meṁ|LTranslit=meṁ
 32	शनिचर	शनिचर	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	33	nmod	_	Translit=śanicara|LTranslit=śanicara
 33	15	15	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	34	compound	_	Translit=15|LTranslit=15
@@ -53,7 +53,7 @@
 40	से	से	ADP	PSP	AdpType=Post	39	case	_	Translit=se|LTranslit=se
 41	साढ़े	साढ़े	NUM	QT_QTC	NumType=Card	42	compound	_	Translit=sāṛhe|LTranslit=sāṛhe
 42	आठ	आठ	NUM	QT_QTC	NumType=Card	43	nummod	_	SpacesAfter=\n|Translit=āṭha|LTranslit=āṭha
-43	बजे	बजे	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	47	obl	_	Translit=baje|LTranslit=baje
+43	बजे	बजे	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	47	nmod	_	Translit=baje|LTranslit=baje
 44	ले	ले	ADP	PSP	Number=Sing|Person=3|Polite=Form	42	advcl	_	Translit=le|LTranslit=le
 45	एगो	एगो	NUM	QT_QTC	Case=Nom|Gender=Masc|Number=Sing|Person=3	47	nummod	_	Translit=ego|LTranslit=ego
 46	सांस्कृतिक	सांस्कृतिक	ADJ	JJ	Case=Acc	47	compound	_	Translit=sāṁskr̥tika|LTranslit=sāṁskr̥tika
@@ -264,7 +264,7 @@
 2	आयोजन	आयोजन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	5	nmod	_	Translit=āyojana|LTranslit=āyojana
 3	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	2	case	_	Translit=ke|LTranslit=kā
 4	पहिला	पहिला	NUM	QT_QTO	Case=Acc	5	amod	_	Translit=pahilā|LTranslit=pahilā
-5	सत्र	सत्र	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	21	obl	_	Translit=satra|LTranslit=satra
+5	सत्र	सत्र	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	21	nmod	_	Translit=satra|LTranslit=satra
 6	में	में	ADP	PSP	AdpType=Post	5	case	_	Translit=meṁ|LTranslit=meṁ
 7	पाती	पाती	PROPN	N_NNP	Case=Nom	8	amod	_	Translit=pātī|LTranslit=pātī
 8	संपादक	संपादक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nmod	_	Translit=saṁpādaka|LTranslit=saṁpādaka
@@ -484,7 +484,7 @@
 7	कि	कि	SCONJ	CC_CCS	_	35	mark	_	Translit=ki|LTranslit=ki
 8	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing|Person=3	35	iobj	_	Translit=bhojapurī|LTranslit=bhojapurī
 9	भलही	भलही	PART	RP_INTF	Case=Nom|Number=Sing|Person=3|PronType=Dem	10	acl	_	Translit=bhalahī|LTranslit=bhalahī
-10	आज	आज	NOUN	N_NST	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	_	Translit=āja|LTranslit=āja
+10	आज	आज	NOUN	N_NST	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nmod	_	Translit=āja|LTranslit=āja
 11	आपन	आपन	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nmod	_	Translit=āpana|LTranslit=āpana
 12	असर	असर	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	nmod	_	Translit=asara|LTranslit=asara
 13	समाज	समाज	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	nmod	_	Translit=samāja|LTranslit=samāja
@@ -817,7 +817,7 @@
 26	तरह	तरह	ADJ	JJ	AdpType=Post|Case=Acc|Gender=Fem	29	amod	_	Translit=taraha|LTranslit=taraha
 27	तरह	तरह	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing|Person=3	26	compound	_	Translit=taraha|LTranslit=taraha
 28	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	27	mark	_	Translit=ke|LTranslit=kā
-29	रस	रस	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	31	obl	_	Translit=rasa|LTranslit=rasa
+29	रस	रस	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	31	nmod	_	Translit=rasa|LTranslit=rasa
 30	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	29	case	_	Translit=ke|LTranslit=kā
 31	सवाद	सवाद	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	32	nmod	_	Translit=savāda|LTranslit=savāda
 32	सुनेवालन	सुनेवालन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	24	iobj	_	Translit=sunevālana|LTranslit=sunevālana
@@ -1187,13 +1187,13 @@
 10	जानल	जानल	VERB	V_VM	Case=Acc	13	compound	_	Translit=jānala|LTranslit=jānala
 11	-	-	PUNCT	RD_PUNC	_	10	punct	_	Translit=-|LTranslit=-
 12	मानल	मानल	NOUN	N_NN	Case=Acc	13	compound	_	Translit=mānala|LTranslit=mānala
-13	साहित्यकार	साहित्यकार	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	obl	_	Translit=sāhityakāra|LTranslit=sāhityakāra
+13	साहित्यकार	साहित्यकार	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	nmod	_	Translit=sāhityakāra|LTranslit=sāhityakāra
 14	,	COMMA	PUNCT	RD_PUNC	_	13	punct	_	Translit=,|LTranslit=COMMA
-15	कवि	कवि	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	obl	_	Translit=kavi|LTranslit=kavi
+15	कवि	कवि	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	17	nmod	_	Translit=kavi|LTranslit=kavi
 16	,	COMMA	PUNCT	RD_PUNC	_	15	punct	_	Translit=,|LTranslit=COMMA
-17	कलाकार	कलाकार	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	19	obl	_	SpacesAfter=\n|Translit=kalākāra|LTranslit=kalākāra
+17	कलाकार	कलाकार	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	19	nmod	_	SpacesAfter=\n|Translit=kalākāra|LTranslit=kalākāra
 18	,	COMMA	PUNCT	RD_PUNC	_	17	punct	_	Translit=,|LTranslit=COMMA
-19	नेतागण	नेतागण	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	22	obl	_	Translit=netāgaṇa|LTranslit=netāgaṇa
+19	नेतागण	नेतागण	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	22	nmod	_	Translit=netāgaṇa|LTranslit=netāgaṇa
 20	,	COMMA	PUNCT	RD_PUNC	_	19	punct	_	Translit=,|LTranslit=COMMA
 21	सामाजिक	सामाजिक	ADJ	JJ	Case=Nom	22	amod	_	Translit=sāmājika|LTranslit=sāmājika
 22	काजकर्ता	काजकर्ता	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	23	nmod	_	Translit=kājakartā|LTranslit=kājakartā
@@ -1251,7 +1251,7 @@
 11	किरपा	किरपा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nsubj	_	SpacesAfter=\n|Translit=kirapā|LTranslit=kirapā
 12	करीं	कराँ	VERB	V_VM	Case=Nom|PronType=Prs	21	obl	_	Translit=karīṁ|LTranslit=karām̃
 13	आ	आ	CCONJ	CC_CCD	_	12	advcl	_	Translit=ā|LTranslit=ā
-14	काजकरम	काजकरम	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	19	obl	_	Translit=kājakarama|LTranslit=kājakarama
+14	काजकरम	काजकरम	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	19	nmod	_	Translit=kājakarama|LTranslit=kājakarama
 15	में	में	ADP	PSP	AdpType=Post	14	case	_	Translit=meṁ|LTranslit=meṁ
 16	जादा	जादा	PART	RP_INTF	Case=Acc|Gender=Fem|Number=Sing|Person=3	18	obl	_	Translit=jādā|LTranslit=jādā
 17	से	से	ADP	PSP	AdpType=Post	16	case	_	Translit=se|LTranslit=se
@@ -1958,7 +1958,7 @@
 11	पिछला	पिछला	NOUN	N_NST	Case=Acc|Gender=Masc|Number=Sing	12	amod	_	Translit=pichalā|LTranslit=pichalā
 12	जनम	जनम	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	nmod	_	Translit=janama|LTranslit=janama
 13	में	में	ADP	PSP	AdpType=Post	12	case	_	Translit=meṁ|LTranslit=meṁ
-14	बिछुड़ल	बिछुड़ल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	obl	_	Translit=bichuṛala|LTranslit=bichuṛala
+14	बिछुड़ल	बिछुड़ल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	nmod	_	Translit=bichuṛala|LTranslit=bichuṛala
 15	नाग	नाग	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	17	compound	_	Translit=nāga|LTranslit=nāga
 16	-	-	PUNCT	RD_SYM	_	17	punct	_	Translit=-|LTranslit=-
 17	नागिन	नागिन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	20	iobj	_	Translit=nāgina|LTranslit=nāgina
@@ -1970,7 +1970,7 @@
 # sent_id = f1-76
 # text = अब भारत - भूमि में एह लोग के पुनर्मिलन हो रहल बा ।
 # translit = aba bhārata - bhūmi meṁ eha loga ke punarmilana ho rahala bā .
-1	अब	अब	DET	N_NST	Case=Nom|PronType=Prs	2	obl	_	Translit=aba|LTranslit=aba
+1	अब	अब	DET	N_NST	Case=Nom|PronType=Prs	2	nmod	_	Translit=aba|LTranslit=aba
 2	भारत	भारत	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	nsubj	_	Translit=bhārata|LTranslit=bhārata
 3	-	-	PUNCT	RD_PUNC	_	2	punct	_	Translit=-|LTranslit=-
 4	भूमि	भूमि	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	2	compound	_	Translit=bhūmi|LTranslit=bhūmi
@@ -2796,7 +2796,7 @@
 46	कहले	कह	VERB	V_VM	Mood=Sub|VerbForm=Fin|Voice=Act	62	nmod	_	Translit=kahale|LTranslit=kaha
 47	बाड़न	बा	AUX	V_VAUX	_	46	aux	_	Translit=bāṛana|LTranslit=bā
 48	,	COMMA	PUNCT	RD_PUNC	_	49	punct	_	Translit=,|LTranslit=COMMA
-49	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	53	obl	_	Translit=javanā|LTranslit=javanā
+49	जवना	जवना	DET	DM_DMR	Case=Acc|Gender=Fem|Number=Sing|Person=3	53	nmod	_	Translit=javanā|LTranslit=javanā
 50	से	से	ADP	PSP	AdpType=Post	49	case	_	Translit=se|LTranslit=se
 51	उनकर	उनकर	DET	DM_DMD	_	53	det	_	Translit=unakara|LTranslit=unakara
 52	निबंध	निबंध	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	53	compound	_	Translit=nibaṁdha|LTranslit=nibaṁdha
@@ -2822,7 +2822,7 @@
 3	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	2	case	_	Translit=ke|LTranslit=kā
 4	प्रकाशन	प्रकाशन	NOUN	N_NN	Case=Acc	6	compound	_	Translit=prakāśana|LTranslit=prakāśana
 5	निश्चित	निश्चित	ADJ	JJ	Case=Acc	6	amod	_	Translit=niścita|LTranslit=niścita
-6	रूप	रूप	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	Translit=rūpa|LTranslit=rūpa
+6	रूप	रूप	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Translit=rūpa|LTranslit=rūpa
 7	से	से	ADP	PSP	AdpType=Post	6	case	_	Translit=se|LTranslit=se
 8	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	nmod	_	Translit=bhojapurī|LTranslit=bhojapurī
 9	साहित्य	साहित्य	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nmod	_	Translit=sāhitya|LTranslit=sāhitya
@@ -3398,7 +3398,7 @@
 4	छुआइल	छुआइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=chuāila|LTranslit=chuāila
 5	कि	कि	SCONJ	CC_CCS	_	13	mark	_	Translit=ki|LTranslit=ki
 6	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	13	advcl	_	Translit=okarā|LTranslit=okarā
-7	मुँह	मुँह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	obl	_	Translit=mum̃ha|LTranslit=mum̃ha
+7	मुँह	मुँह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	nmod	_	Translit=mum̃ha|LTranslit=mum̃ha
 8	से	से	ADP	PSP	AdpType=Post	7	case	_	Translit=se|LTranslit=se
 9	निकलल	निकलल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	Translit=nikalala|LTranslit=nikalala
 10	-	-	PUNCT	RD_PUNC	_	11	punct	_	Translit=-|LTranslit=-
@@ -3836,7 +3836,7 @@
 5	भावल	भावल	VERB	V_VM	_	0	root	_	Translit=bhāvala|LTranslit=bhāvala
 6	कि	कि	SCONJ	CC_CCS	_	5	mark	_	Translit=ki|LTranslit=ki
 7	ओह	ओह	DET	DM_DMD	NumType=Card	8	det	_	Translit=oha|LTranslit=oha
-8	दौरान	दौरान	NOUN	N_NST	_	11	obl	_	Translit=daurāna|LTranslit=daurāna
+8	दौरान	दौरान	NOUN	N_NST	_	11	nmod	_	Translit=daurāna|LTranslit=daurāna
 9	केहूँ	केहूँ	PRON	PR_PRI	_	11	acl	_	Translit=kehūm̃|LTranslit=kehūm̃
 10	के	का	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Plur	8	case	_	Translit=ke|LTranslit=kā
 11	मोबाइल	मोबाइल	NOUN	N_NN	_	12	nmod	_	Translit=mobāila|LTranslit=mobāila
@@ -3874,7 +3874,7 @@
 # translit = hamanī ke atanā viśvāsa ho gaila rahe ki kavano vidyārthī ke āsānī se paṭarī para le āila jā sakatā , saṁsāra ke kavano roga se binā davā khaile chuṭakārā pāvala jā sakatā , ḍhaṁga se kāuṁsiliṁga ka dihala jāva ta kehū ātmahatyā nā karī kabo .
 1	हमनी	हमनी	PRON	PR_PRP	Case=Acc|Gender=Masc|Number=Sing|Person=3	4	nmod	_	Translit=hamanī|LTranslit=hamanī
 2	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	1	case	_	Translit=ke|LTranslit=kā
-3	अतना	अतना	PART	QT_QTF	_	4	obl	_	Translit=atanā|LTranslit=atanā
+3	अतना	अतना	PART	QT_QTF	_	4	nmod	_	Translit=atanā|LTranslit=atanā
 4	विश्वास	विश्वास	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	5	nmod	_	Translit=viśvāsa|LTranslit=viśvāsa
 5	हो	हो	VERB	V_VM	_	0	root	_	Translit=ho|LTranslit=ho
 6	गइल	जा	AUX	V_VAUX	Case=Nom|Gender=Fem|Number=Sing|Person=3	5	aux	_	Translit=gaila|LTranslit=jā
@@ -3883,7 +3883,7 @@
 9	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	10	det	_	Translit=kavano|LTranslit=kavano
 10	विद्यार्थी	विद्यार्थी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	16	nmod	_	Translit=vidyārthī|LTranslit=vidyārthī
 11	के	को	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	10	case	_	Translit=ke|LTranslit=ko
-12	आसानी	आसानी	ADV	RB	_	14	obl	_	Translit=āsānī|LTranslit=āsānī
+12	आसानी	आसानी	ADV	RB	_	14	advmod	_	Translit=āsānī|LTranslit=āsānī
 13	से	से	ADP	PSP	AdpType=Post	12	case	_	Translit=se|LTranslit=se
 14	पटरी	पटरी	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	nmod	_	Translit=paṭarī|LTranslit=paṭarī
 15	पर	पर	ADP	PSP	AdpType=Post	12	case	_	Translit=para|LTranslit=para
@@ -3895,7 +3895,7 @@
 21	संसार	संसार	PROPN	N_NNP	Case=Acc|Gender=Masc|Number=Sing|Person=3	24	nmod	_	Translit=saṁsāra|LTranslit=saṁsāra
 22	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	21	case	_	Translit=ke|LTranslit=kā
 23	कवनो	कवनो	DET	DM_DMI	Case=Nom|Gender=Masc|Number=Sing|Person=3	24	det	_	Translit=kavano|LTranslit=kavano
-24	रोग	रोग	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	26	obl	_	Translit=roga|LTranslit=roga
+24	रोग	रोग	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	26	nmod	_	Translit=roga|LTranslit=roga
 25	से	से	ADP	PSP	AdpType=Post	24	case	_	Translit=se|LTranslit=se
 26	बिना	बिना	PRON	PR_PRF	Case=Nom|Gender=Masc|Number=Sing|PronType=Prs	27	nmod	_	Translit=binā|LTranslit=binā
 27	दवा	दवा	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	28	nmod	_	Translit=davā|LTranslit=davā
@@ -3912,11 +3912,11 @@
 38	दिहल	दे	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	37	aux	_	Translit=dihala|LTranslit=de
 39	जाव	जा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	37	aux	_	Translit=jāva|LTranslit=jā
 40	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	41	obl	_	Translit=ta|LTranslit=ta
-41	केहू	केहू	PART	QT_QTF	Case=Nom|Number=Sing|Person=3	42	obl	_	Translit=kehū|LTranslit=kehū
+41	केहू	केहू	PART	QT_QTF	Case=Nom|Number=Sing|Person=3	42	nmod	_	Translit=kehū|LTranslit=kehū
 42	आत्महत्या	आत्महत्या	NOUN	N_NN	_	43	nmod	_	Translit=ātmahatyā|LTranslit=ātmahatyā
 43	ना	ना	VERB	V_VM	_	5	xcomp	_	Translit=nā|LTranslit=nā
 44	करी	कर	AUX	V_VAUX	_	43	aux	_	Translit=karī|LTranslit=kara
-45	कबो	कबो	PRON	PR_PRI	_	42	obl	_	SpacesAfter=\s\s|Translit=kabo|LTranslit=kabo
+45	कबो	कबो	PRON	PR_PRI	_	42	nmod	_	SpacesAfter=\s\s|Translit=kabo|LTranslit=kabo
 46	।	।	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = f2-61
@@ -4116,7 +4116,7 @@
 9	-	-	PUNCT	RD_SYM	_	10	punct	_	Translit=-|LTranslit=-
 10	मिजाज	मिजाज	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	13	nmod	_	Translit=mijāja|LTranslit=mijāja
 11	एक	एक	NUM	QT_QTC	NumType=Card	10	nummod	_	Translit=eka|LTranslit=eka
-12	हप्ता	हप्ता	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	obl	_	Translit=haptā|LTranslit=haptā
+12	हप्ता	हप्ता	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	16	nmod	_	Translit=haptā|LTranslit=haptā
 13	पहिलहीं	पहिलह	NOUN	N_NST	_	12	compound	_	Translit=pahilahīṁ|LTranslit=pahilaha
 14	से	से	ADP	PSP	AdpType=Post	13	case	_	Translit=se|LTranslit=se
 15	सत्यानाशी	सत्यानाशी	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing|Person=3	16	amod	_	Translit=satyānāśī|LTranslit=satyānāśī
@@ -4357,12 +4357,12 @@
 2	खयाल	खयाल	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	nsubj	_	Translit=khayāla|LTranslit=khayāla
 3	से	से	ADP	PSP	AdpType=Post	2	case	_	Translit=se|LTranslit=se
 4	हमनी	हमनी	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	6	nmod	_	Translit=hamanī|LTranslit=hamanī
-5	सभ	सभ	PART	QT_QTF	_	6	obl	_	Translit=sabha|LTranslit=sabha
+5	सभ	सभ	PART	QT_QTF	_	6	nmod	_	Translit=sabha|LTranslit=sabha
 6	लेखकन	लेखकन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	iobj	_	Translit=lekhakana|LTranslit=lekhakana
 7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	Translit=ke|LTranslit=kā
 8	राजनीति	राजनीति	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	13	obj	_	Translit=rājanīti|LTranslit=rājanīti
 9	आ	आ	CCONJ	CC_CCD	_	12	advcl	_	Translit=ā|LTranslit=ā
-10	गोलबंदी	गोलबंदी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	Translit=golabaṁdī|LTranslit=golabaṁdī
+10	गोलबंदी	गोलबंदी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Translit=golabaṁdī|LTranslit=golabaṁdī
 11	से	से	ADP	PSP	AdpType=Post	10	case	_	Translit=se|LTranslit=se
 12	अलगे	अलग	NOUN	N_NST	_	10	list	_	Translit=alage|LTranslit=alaga
 13	रहेके	रहेको	VERB	V_VM	_	0	root	_	Translit=raheke|LTranslit=raheko
@@ -4426,7 +4426,7 @@
 4	ना	ना	PART	RP_NEG	_	5	compound	_	Translit=nā|LTranslit=nā
 5	चाहते	चाहते	VERB	V_VM	_	12	xcomp	_	Translit=cāhate|LTranslit=cāhate
 6	हुए	हो	AUX	V_VAUX	_	5	aux	_	Translit=hue|LTranslit=ho
-7	भी	भी	PART	RP_RPD	_	8	obl	_	Translit=bhī|LTranslit=bhī
+7	भी	भी	PART	RP_RPD	_	8	nmod	_	Translit=bhī|LTranslit=bhī
 8	हमहूँ	हमहूँ	PRON	PR_PRQ	_	9	nmod	_	Translit=hamahūm̃|LTranslit=hamahūm̃
 9	लिखलीं	लिख	VERB	V_VM	_	5	acl	_	Translit=likhalīṁ|LTranslit=likha
 10	आ	आ	CCONJ	CC_CCD	_	12	advcl	_	Translit=ā|LTranslit=ā
@@ -4587,7 +4587,7 @@
 7	बेर	बेर	NOUN	N_NST	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	Translit=bera|LTranslit=bera
 8	मनोज	मनोज	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	obl	_	Translit=manoja|LTranslit=manoja
 9	चौबे	चौबे	ADP	PSP	AdpType=Post	8	case	_	Translit=caube|LTranslit=caube
-10	जी	जी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	obl	_	Translit=jī|LTranslit=jī
+10	जी	जी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	nmod	_	Translit=jī|LTranslit=jī
 11	से	से	ADP	PSP	AdpType=Post	10	case	_	Translit=se|LTranslit=se
 12	बात	बात	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	nmod	_	Translit=bāta|LTranslit=bāta
 13	होत	होत	VERB	V_VM	_	0	root	_	Translit=hota|LTranslit=hota
@@ -4695,7 +4695,7 @@
 10	में	में	ADP	PSP	AdpType=Post	9	case	_	Translit=meṁ|LTranslit=meṁ
 11	नइखे	नइख	VERB	V_VM	_	15	acl	_	Translit=naikhe|LTranslit=naikha
 12	लागल	लग	AUX	V_VAUX	_	11	aux	_	Translit=lāgala|LTranslit=laga
-13	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	obl	_	Translit=ta|LTranslit=ta
+13	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	14	nmod	_	Translit=ta|LTranslit=ta
 14	हमरा	हमार	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	15	nmod	_	Translit=hamarā|LTranslit=hamāra
 15	काहें	काह	VERB	V_VM	_	37	acl	_	Translit=kāheṁ|LTranslit=kāha
 16	लागी	लग	AUX	V_VAUX	_	15	aux	_	Translit=lāgī|LTranslit=laga
@@ -4706,7 +4706,7 @@
 21	हिंदियो	हिंदियो	ADJ	JJ	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	22	amod	_	Translit=hiṁdiyo|LTranslit=hiṁdiyo
 22	गीतन	गीतन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	26	nmod	_	Translit=gītana|LTranslit=gītana
 23	पर	पर	ADP	PSP	AdpType=Post	22	case	_	Translit=para|LTranslit=para
-24	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	obl	_	Translit=ta|LTranslit=ta
+24	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	25	nmod	_	Translit=ta|LTranslit=ta
 25	ध्यान	ध्यान	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	26	nmod	_	Translit=dhyāna|LTranslit=dhyāna
 26	दीहल	दे	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	37	acl	_	Translit=dīhala|LTranslit=de
 27	जाव	जा	AUX	V_VAUX	_	26	aux	_	Translit=jāva|LTranslit=jā
@@ -4844,7 +4844,7 @@
 9	बा	बा	AUX	V_VAUX	Case=Nom|Number=Sing|Person=3	7	aux	_	Translit=bā|LTranslit=bā
 10	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	16	nmod	_	Translit=okarā|LTranslit=okarā
 11	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	10	case	_	Translit=ke|LTranslit=kā
-12	कम	कम	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	obl	_	Translit=kama|LTranslit=kama
+12	कम	कम	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	16	nmod	_	Translit=kama|LTranslit=kama
 13	से	से	ADP	PSP	AdpType=Post	12	case	_	Translit=se|LTranslit=se
 14	कम	कम	NOUN	N_NN	Case=Nom	16	amod	_	Translit=kama|LTranslit=kama
 15	झंडावाला	झंडावाला	ADP	PSP	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing	14	case	_	Translit=jhaṁḍāvālā|LTranslit=jhaṁḍāvālā
@@ -4895,7 +4895,7 @@
 37	परोसत	परोसत	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	38	compound	_	Translit=parosata|LTranslit=parosata
 38	होखे	हो	VERB	V_VM	Aspect=Perf|Gender=Masc|Number=Plur|VerbForm=Part|Voice=Act	24	conj	_	Translit=hokhe|LTranslit=ho
 39	,	,	PUNCT	RD_PUNC	_	24	punct	_	Translit=,|LTranslit=,
-40	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	41	obl	_	Translit=ta|LTranslit=ta
+40	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	41	nmod	_	Translit=ta|LTranslit=ta
 41	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	48	obl	_	Translit=okarā|LTranslit=okarā
 42	पर	पर	ADP	PSP	AdpType=Post	41	case	_	Translit=para|LTranslit=para
 43	सभका	सभक	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	48	nmod	_	Translit=sabhakā|LTranslit=sabhaka
@@ -5273,7 +5273,7 @@
 4	बड़	बड	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing|Person=3	3	compound	_	Translit=baṛa|LTranslit=baḍa
 5	जने	जने	NOUN	N_NN	AdpType=Post|Case=Nom|Gender=Masc|Number=Sing|Person=3	6	nmod	_	Translit=jane|LTranslit=jane
 6	दहाइल	दहाइल	VERB	V_VM	Case=Nom|Gender=Masc|Number=Sing|Person=3	7	compound	_	Translit=dahāila|LTranslit=dahāila
-7	जासु	जासु	DET	QT_QTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	obl	_	Translit=jāsu|LTranslit=jāsu
+7	जासु	जासु	DET	QT_QTF	Case=Nom|Gender=Masc|Number=Plur|Person=3	12	nmod	_	Translit=jāsu|LTranslit=jāsu
 8	,	COMMA	PUNCT	RD_PUNC	_	7	punct	_	Translit=,|LTranslit=COMMA
 9	गदहा	गदहा	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing|Person=3	12	compound	_	Translit=gadahā|LTranslit=gadahā
 10	थाहे	थाह	PRON	PR_PRQ	_	12	compound	_	Translit=thāhe|LTranslit=thāha
@@ -5735,7 +5735,7 @@
 10	गइल	जा	AUX	V_VAUX	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	aux	_	Translit=gaila|LTranslit=jā
 11	ओहसे	ओहसे	DET	DM_DMD	_	12	det	_	Translit=ohase|LTranslit=ohase
 12	हमरा	हमर	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	nmod	_	Translit=hamarā|LTranslit=hamara
-13	पहिले	पहिला	NOUN	N_NST	Mood=Sub|VerbForm=Fin|Voice=Act	12	obl	_	Translit=pahile|LTranslit=pahilā
+13	पहिले	पहिला	NOUN	N_NST	Mood=Sub|VerbForm=Fin|Voice=Act	12	nmod	_	Translit=pahile|LTranslit=pahilā
 14	लागल	लग	VERB	V_VM	_	22	acl	_	Translit=lāgala|LTranslit=laga
 15	कि	कि	SCONJ	CC_CCS	_	22	mark	_	Translit=ki|LTranslit=ki
 16	मीडिया	मीडिया	NOUN	N_NN	_	22	nmod	_	Translit=mīḍiyā|LTranslit=mīḍiyā
@@ -5759,9 +5759,9 @@
 5	भाषण	भाषण	NOUN	N_NN	_	6	obj	_	Translit=bhāṣaṇa|LTranslit=bhāṣaṇa
 6	पढ़नी	पढ़नी	VERB	V_VM	Gender=Fem|Number=Sing|VerbForm=Inf|Voice=Act	0	root	_	Translit=paṛhanī|LTranslit=paṛhanī
 7	आ	आ	CCONJ	CC_CCD	_	6	conj	_	Translit=ā|LTranslit=ā
-8	साँच	साँच	NOUN	N_NN	Number=Sing|Person=3|Voice=Act	11	obl	_	Translit=sām̃ca|LTranslit=sām̃ca
+8	साँच	साँच	NOUN	N_NN	Number=Sing|Person=3|Voice=Act	11	nmod	_	Translit=sām̃ca|LTranslit=sām̃ca
 9	कहीं	कहीं	VERB	V_VM	_	11	acl	_	Translit=kahīṁ|LTranslit=kahīṁ
-10	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	obl	_	Translit=ta|LTranslit=ta
+10	त	त	PART	RP_RPD	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	nmod	_	Translit=ta|LTranslit=ta
 11	राउर	राउर	PRON	PR_PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nmod	_	Translit=rāura|LTranslit=rāura
 12	भाषणो	भाषण	PROPN	N_NNP	Case=Acc,Dat|Number=Sing|Person=3|PronType=Prs	14	obl	_	Translit=bhāṣaṇo|LTranslit=bhāṣaṇa
 13	हमरा	हमरा	PRON	PR_PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	14	nmod	_	Translit=hamarā|LTranslit=hamarā
@@ -6147,7 +6147,7 @@
 3	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	2	case	_	Translit=ke|LTranslit=kā
 4	प्रकाशन	प्रकाशन	NOUN	N_NN	Case=Acc	6	compound	_	SpacesAfter=\n|Translit=prakāśana|LTranslit=prakāśana
 5	निश्चित	निश्चित	ADJ	JJ	Case=Acc	6	amod	_	Translit=niścita|LTranslit=niścita
-6	रूप	रूप	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	obl	_	Translit=rūpa|LTranslit=rūpa
+6	रूप	रूप	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Translit=rūpa|LTranslit=rūpa
 7	से	से	ADP	PSP	AdpType=Post	6	case	_	Translit=se|LTranslit=se
 8	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	9	nmod	_	Translit=bhojapurī|LTranslit=bhojapurī
 9	साहित्य	साहित्य	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	11	nmod	_	Translit=sāhitya|LTranslit=sāhitya
@@ -6723,7 +6723,7 @@
 4	छुआइल	छुआइल	VERB	V_VM	Case=Nom|Gender=Fem|Number=Sing|Person=3	0	root	_	Translit=chuāila|LTranslit=chuāila
 5	कि	कि	SCONJ	CC_CCS	_	13	mark	_	Translit=ki|LTranslit=ki
 6	ओकरा	ओकरा	PRON	PR_PRP	Aspect=Perf|Number=Plur|VerbForm=Part	13	advcl	_	Translit=okarā|LTranslit=okarā
-7	मुँह	मुँह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	obl	_	Translit=mum̃ha|LTranslit=mum̃ha
+7	मुँह	मुँह	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	nmod	_	Translit=mum̃ha|LTranslit=mum̃ha
 8	से	से	ADP	PSP	AdpType=Post	7	case	_	Translit=se|LTranslit=se
 9	निकलल	निकलल	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	11	compound	_	SpacesAfter=\n|Translit=nikalala|LTranslit=nikalala
 10	-	-	PUNCT	RD_PUNC	_	11	punct	_	Translit=-|LTranslit=-
@@ -7645,7 +7645,7 @@
 5	सभ	सभ	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	14	obl	_	Translit=sabha|LTranslit=sabha
 6	लेखकन	लेखकन	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	nmod	_	Translit=lekhakana|LTranslit=lekhakana
 7	के	का	ADP	PSP	AdpType=Post|Case=Acc|Gender=Masc|Number=Sing	6	case	_	Translit=ke|LTranslit=kā
-8	राजनीति	राजनीति	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	obl	_	Translit=rājanīti|LTranslit=rājanīti
+8	राजनीति	राजनीति	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	12	nmod	_	Translit=rājanīti|LTranslit=rājanīti
 9	आ	आ	CCONJ	CC_CCD	_	10	cc	_	Translit=ā|LTranslit=ā
 10	गोलबंदी	गोलबंदी	NOUN	N_NN	Case=Acc|Gender=Masc|Number=Sing|Person=3	8	conj	_	Translit=golabaṁdī|LTranslit=golabaṁdī
 11	से	से	ADP	PSP	AdpType=Post	8	case	_	Translit=se|LTranslit=se
@@ -7786,7 +7786,7 @@
 5	शृंगारिक	शृंगारिक	ADJ	JJ	Case=Nom	6	amod	_	Translit=śr̥ṁgārika|LTranslit=śr̥ṁgārika
 6	हँसी	हँसी	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	8	compound	_	Translit=ham̃sī|LTranslit=ham̃sī
 7	-	-	PUNCT	RD_PUNC	_	8	punct	_	Translit=-|LTranslit=-
-8	मजाक	मजाक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	obl	_	Translit=majāka|LTranslit=majāka
+8	मजाक	मजाक	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	nmod	_	Translit=majāka|LTranslit=majāka
 9	भोजपुरी	भोजपुरी	PROPN	N_NNP	Case=Acc|Gender=Fem|Number=Sing|Person=3	11	nmod	_	Translit=bhojapurī|LTranslit=bhojapurī
 10	के	का	ADP	PSP	AdpType=Post	9	case	_	Translit=ke|LTranslit=kā
 11	सुभाव	सुभाव	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing|Person=3	0	root	_	Translit=subhāva|LTranslit=subhāva
@@ -7873,7 +7873,7 @@
 7	बेर	बेर	NOUN	N_NST	Case=Nom|Gender=Fem|Number=Sing|Person=3	8	compound	_	Translit=bera|LTranslit=bera
 8	मनोज	मनोज	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	obl	_	Translit=manoja|LTranslit=manoja
 9	चौबे	चौबे	ADP	PSP	AdpType=Post	8	case	_	Translit=caube|LTranslit=caube
-10	जी	जी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	obl	_	Translit=jī|LTranslit=jī
+10	जी	जी	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	12	nmod	_	Translit=jī|LTranslit=jī
 11	से	से	ADP	PSP	AdpType=Post	10	case	_	Translit=se|LTranslit=se
 12	बात	बात	NOUN	N_NN	Case=Acc|Gender=Fem|Number=Sing|Person=3	13	nmod	_	Translit=bāta|LTranslit=bāta
 13	होत	होत	VERB	V_VM	_	0	root	_	Translit=hota|LTranslit=hota
