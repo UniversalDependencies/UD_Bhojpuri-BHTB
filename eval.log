@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Bhojpuri-BHTB:
-commit a13b06184b7428bbbe95cdb67dfa12a0c53192be
+commit 8efb979600b430d46c54f9d4c210140964fd9b7b
+Merge: 1e38aac b9e7f42
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed May 6 12:05:49 2026 +0200
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'bho_bhtb'
 Language code (from CoNLL-U file name) = 'bho'
@@ -26,8 +26,6 @@ Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang bho --max-err=10 UD_Bhojpuri-BHTB/bho_bhtb-ud-test.conllu
 [Line 28 Sent f1-2]: [L3 WARNING fixed-without-extpos] Fixed expression 'का ओर से' does not have the 'ExtPos' feature
-[Line 43 Sent f1-2]: [L3 SYNTAX obl-should-be-nmod] The parent (node [32] 'शनिचर śanicara') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 56 Sent f1-2]: [L3 SYNTAX obl-should-be-nmod] The parent (node [47] 'आयोजन āyojana') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 69 Sent f1-3]: [L3 WARNING pron-det-without-prontype] The word 'एह eha' is tagged 'DET' but it lacks the 'PronType' feature
 [Line 72 Sent f1-3]: [L3 WARNING pron-det-without-prontype] The word 'रउरा raurā' is tagged 'PRON' but it lacks the 'PronType' feature
 [Line 73 Sent f1-3]: [L3 WARNING pron-det-without-prontype] The word 'सभे sabhe' is tagged 'DET' but it lacks the 'PronType' feature
@@ -39,26 +37,28 @@ Genres: found 2 out of 18 known.
 [Line 184 Sent f1-8]: [L3 WARNING pron-det-without-prontype] The word 'रउरा raurā' is tagged 'PRON' but it lacks the 'PronType' feature
 [Line 185 Sent f1-8]: [L3 WARNING pron-det-without-prontype] The word 'सभे sabhe' is tagged 'DET' but it lacks the 'PronType' feature
 ...suppressing further messages regarding WARNING/MORPHO
-[Line 267 Sent f1-12]: [L3 SYNTAX obl-should-be-nmod] The parent (node [21] 'हाथै hāthai') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 487 Sent f1-16]: [L3 SYNTAX obl-should-be-nmod] The parent (node [11] 'आपन āpana') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 820 Sent f1-27]: [L3 SYNTAX obl-should-be-nmod] The parent (node [31] 'सवाद savāda') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 931 Sent f1-30]: [L3 SYNTAX leaf-det] 'det' not expected to have children (8:जवना:det --> 14:दखल:obj)
 [Line 938 Sent f1-30]: [L3 SYNTAX leaf-det] 'det' not expected to have children (22:जवना:det --> 21:होखी:amod)
 [Line 1047 Sent f1-33]: [L3 SYNTAX too-many-objects] Multiple direct objects [10, 23] ('भाई bhāī', 'ख़ुशी xuśī') under the predicate 'होई hoī'.
-[Line 1190 Sent f1-38]: [L3 SYNTAX obl-should-be-nmod] The parent (node [17] 'कलाकार kalākāra') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 1192 Sent f1-38]: [L3 SYNTAX obl-should-be-nmod] The parent (node [17] 'कलाकार kalākāra') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-...suppressing further messages regarding ERROR/SYNTAX
+[Line 1468 Sent f1-49]: [L3 SYNTAX leaf-det] 'det' not expected to have children (12:एहमें:det --> 4:जबरदस्ती:nmod)
+[Line 1472 Sent f1-49]: [L3 SYNTAX leaf-det] 'det' not expected to have children (12:एहमें:det --> 8:त:nsubj)
 [Line 1521 Sent f1-52]: [L3 WARNING fixed-without-extpos] Fixed expression '12 बरीस' does not have the 'ExtPos' feature
+[Line 1590 Sent f1-56]: [L3 SYNTAX leaf-det] 'det' not expected to have children (8:एह:det --> 3:कहि:nmod)
+[Line 1707 Sent f1-62]: [L3 SYNTAX leaf-det] 'det' not expected to have children (14:एही:det --> 12:उहो:acl)
+[Line 1957 Sent f1-75]: [L3 SYNTAX leaf-det] 'det' not expected to have children (9:ई:det --> 10:लोग:list)
+[Line 1979 Sent f1-76]: [L3 SYNTAX leaf-det] 'det' not expected to have children (6:एह:det --> 7:लोग:list)
 [Line 2041 Sent f1-79]: [L3 WARNING fixed-without-extpos] Fixed expression 'रोकिए ना' does not have the 'ExtPos' feature
 [Line 2780 Sent f2-9]: [L3 WARNING fixed-without-extpos] Fixed expression 'साहित्यकारन खानी' does not have the 'ExtPos' feature
+[Line 3019 Sent f2-18]: [L3 SYNTAX too-many-objects] Multiple direct objects [5, 9, 28] ('हिन्दी hindī', 'कृतित्वे kr̥titve', 'सहनशीलता sahanaśīlatā') under the predicate 'भइल bhaila'.
 [Line 3200 Sent f2-25]: [L3 WARNING fixed-without-extpos] Fixed expression 'एक एक' does not have the 'ExtPos' feature
 [Line 3382 Sent f2-35]: [L3 WARNING fixed-without-extpos] Fixed expression 'बचपनवाला स्टाइल' does not have the 'ExtPos' feature
 [Line 3517 Sent f2-43]: [L3 WARNING fixed-without-extpos] Fixed expression 'मिले खाती' does not have the 'ExtPos' feature
+...suppressing further messages regarding ERROR/SYNTAX
 [Line 5084 Sent f2-111]: [L3 WARNING fixed-without-extpos] Fixed expression 'वाला लोग' does not have the 'ExtPos' feature
 [Line 5823 Sent f2-148]: [L3 WARNING fixed-without-extpos] Fixed expression 'रहे के' does not have the 'ExtPos' feature
 Warnings: 502
-SYNTAX errors: 55
-*** FAILED *** with 55 errors
+SYNTAX errors: 18
+*** FAILED *** with 18 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
